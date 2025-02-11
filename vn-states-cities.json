@@ -1,0 +1,862 @@
+{
+  "ACRONYM_VN": [
+    {
+      "acronym": "AG",
+      "display": "An Giang"
+    },
+    {
+      "acronym": "BRVT",
+      "display": "Ba Ria - Vung Tau"
+    },
+    {
+      "acronym": "BG",
+      "display": "Bac Giang"
+    },
+    {
+      "acronym": "BK",
+      "display": "Bac Kan"
+    },
+    {
+      "acronym": "BL",
+      "display": "Bac Lieu"
+    },
+    {
+      "acronym": "BN",
+      "display": "Bac Ninh"
+    },
+    {
+      "acronym": "BT",
+      "display": "Ben Tre"
+    },
+    {
+      "acronym": "BD",
+      "display": "Binh Dinh"
+    },
+    {
+      "acronym": "BP",
+      "display": "Binh Phuoc"
+    },
+    {
+      "acronym": "BTH",
+      "display": "Binh Thuan"
+    },
+    {
+      "acronym": "CM",
+      "display": "Ca Mau"
+    },
+    {
+      "acronym": "CB",
+      "display": "Cao Bang"
+    },
+    {
+      "acronym": "CT",
+      "display": "Can Tho"
+    },
+    {
+      "acronym": "DN",
+      "display": "Da Nang"
+    },
+    {
+      "acronym": "DB",
+      "display": "Dien Bien"
+    },
+    {
+      "acronym": "DL",
+      "display": "Dak Lak"
+    },
+    {
+      "acronym": "DKN",
+      "display": "Dak Nong"
+    },
+    {
+      "acronym": "DN",
+      "display": "Dong Nai"
+    },
+    {
+      "acronym": "DT",
+      "display": "Dong Thap"
+    },
+    {
+      "acronym": "GL",
+      "display": "Gia Lai"
+    },
+    {
+      "acronym": "HG",
+      "display": "Ha Giang"
+    },
+    {
+      "acronym": "HN",
+      "display": "Ha Nam"
+    },
+    {
+      "acronym": "HT",
+      "display": "Ha Tinh"
+    },
+    {
+      "acronym": "HD",
+      "display": "Hai Duong"
+    },
+    {
+      "acronym": "HP",
+      "display": "Hai Phong"
+    },
+    {
+      "acronym": "HN",
+      "display": "Hanoi"
+    },
+    {
+      "acronym": "HCM",
+      "display": "Ho Chi Minh City"
+    },
+    {
+      "acronym": "HB",
+      "display": "Hoa Binh"
+    },
+    {
+      "acronym": "HY",
+      "display": "Hung Yen"
+    },
+    {
+      "acronym": "KH",
+      "display": "Khanh Hoa"
+    },
+    {
+      "acronym": "KG",
+      "display": "Kien Giang"
+    },
+    {
+      "acronym": "KT",
+      "display": "Kon Tum"
+    },
+    {
+      "acronym": "LC",
+      "display": "Lai Chau"
+    },
+    {
+      "acronym": "LD",
+      "display": "Lam Dong"
+    },
+    {
+      "acronym": "LS",
+      "display": "Lang Son"
+    },
+    {
+      "acronym": "LA",
+      "display": "Long An"
+    },
+    {
+      "acronym": "ND",
+      "display": "Nam Dinh"
+    },
+    {
+      "acronym": "NA",
+      "display": "Nghe An"
+    },
+    {
+      "acronym": "NB",
+      "display": "Ninh Binh"
+    },
+    {
+      "acronym": "NT",
+      "display": "Ninh Thuan"
+    },
+    {
+      "acronym": "PT",
+      "display": "Phu Tho"
+    },
+    {
+      "acronym": "PY",
+      "display": "Phu Yen"
+    },
+    {
+      "acronym": "QB",
+      "display": "Quang Binh"
+    },
+    {
+      "acronym": "QNa",
+      "display": "Quang Nam"
+    },
+    {
+      "acronym": "QN",
+      "display": "Quang Ngai"
+    },
+    {
+      "acronym": "QTri",
+      "display": "Quang Tri"
+    },
+    {
+      "acronym": "ST",
+      "display": "Soc Trang"
+    },
+    {
+      "acronym": "SL",
+      "display": "Son La"
+    },
+    {
+      "acronym": "TN",
+      "display": "Tay Ninh"
+    },
+    {
+      "acronym": "TB",
+      "display": "Thai Binh"
+    },
+    {
+      "acronym": "TN",
+      "display": "Thai Nguyen"
+    },
+    {
+      "acronym": "TH",
+      "display": "Thanh Hoa"
+    },
+    {
+      "acronym": "TTH",
+      "display": "Thua Thien Hue"
+    },
+    {
+      "acronym": "TG",
+      "display": "Tien Giang"
+    },
+    {
+      "acronym": "TV",
+      "display": "Tra Vinh"
+    },
+    {
+      "acronym": "TQ",
+      "display": "Tuyen Quang"
+    },
+    {
+      "acronym": "VL",
+      "display": "Vinh Long"
+    },
+    {
+      "acronym": "VP",
+      "display": "Vinh Phuc"
+    },
+    {
+      "acronym": "YB",
+      "display": "Yen Bai"
+    }
+  ],
+  "CITIES_VN": [
+    {
+      "city": "Ho Chi Minh City",
+      "admin_name": "Ho Chi Minh City"
+    },
+    {
+      "city": "Haiphong",
+      "admin_name": "Hai Phong"
+    },
+    {
+      "city": "Cần Thơ",
+      "admin_name": "Can Tho"
+    },
+    {
+      "city": "Biên Hòa",
+      "admin_name": "Dong Nai"
+    },
+    {
+      "city": "Thủ Đức",
+      "admin_name": "Ho Chi Minh City"
+    },
+    {
+      "city": "Quảng Hà",
+      "admin_name": "Quang Nam"
+    },
+    {
+      "city": "Huế",
+      "admin_name": "Thua Thien Hue"
+    },
+    {
+      "city": "Tân An",
+      "admin_name": "Ho Chi Minh City"
+    },
+    {
+      "city": "Bắc Ninh",
+      "admin_name": "Bac Ninh"
+    },
+    {
+      "city": "Hải Dương",
+      "admin_name": "Hai Duong"
+    },
+    {
+      "city": "Vinh",
+      "admin_name": "Nghe An"
+    },
+    {
+      "city": "Thanh Hóa",
+      "admin_name": "Thanh Hoa"
+    },
+    {
+      "city": "Nha Trang",
+      "admin_name": "Khanh Hoa"
+    },
+    {
+      "city": "Nam Định",
+      "admin_name": "Nam Dinh"
+    },
+    {
+      "city": "Vũng Tàu",
+      "admin_name": "Ba Ria - Vung Tau"
+    },
+    {
+      "city": "Buôn Ma Thuột",
+      "admin_name": "Dak Lak"
+    },
+    {
+      "city": "Thái Nguyên",
+      "admin_name": "Thai Nguyen"
+    },
+    {
+      "city": "An Nhơn",
+      "admin_name": "Binh Dinh"
+    },
+    {
+      "city": "Cà Mau",
+      "admin_name": "Ca Mau"
+    },
+    {
+      "city": "Quy Nhơn",
+      "admin_name": "Binh Dinh"
+    },
+    {
+      "city": "Nghi Sơn",
+      "admin_name": "Thanh Hoa"
+    },
+    {
+      "city": "Long Xuyên",
+      "admin_name": "An Giang"
+    },
+    {
+      "city": "Việt Trì",
+      "admin_name": "Phu Tho"
+    },
+    {
+      "city": "Mỹ Tho",
+      "admin_name": "Tien Giang"
+    },
+    {
+      "city": "Thái Bình",
+      "admin_name": "Thai Binh"
+    },
+    {
+      "city": "Quảng Ngãi",
+      "admin_name": "Quang Ngai"
+    },
+    {
+      "city": "Rạch Giá",
+      "admin_name": "Kien Giang"
+    },
+    {
+      "city": "Tuy Hòa",
+      "admin_name": "Phu Yen"
+    },
+    {
+      "city": "Phú Yên",
+      "admin_name": "Thai Nguyen"
+    },
+    {
+      "city": "Sóc Trăng",
+      "admin_name": "Soc Trang"
+    },
+    {
+      "city": "Chí Linh",
+      "admin_name": "Hai Duong"
+    },
+    {
+      "city": "Tân An",
+      "admin_name": "Long An"
+    },
+    {
+      "city": "Sa Đéc",
+      "admin_name": "Dong Thap"
+    },
+    {
+      "city": "Cao Lãnh",
+      "admin_name": "Dong Thap"
+    },
+    {
+      "city": "Phan Thiết",
+      "admin_name": "Binh Thuan"
+    },
+    {
+      "city": "Kinh Môn",
+      "admin_name": "Hai Duong"
+    },
+    {
+      "city": "Phủ Từ Sơn",
+      "admin_name": "Bac Ninh"
+    },
+    {
+      "city": "Hà Tĩnh",
+      "admin_name": "Ha Tinh"
+    },
+    {
+      "city": "Vĩnh Long",
+      "admin_name": "Vinh Long"
+    },
+    {
+      "city": "Vĩnh Châu",
+      "admin_name": "Soc Trang"
+    },
+    {
+      "city": "Trảng Bàng",
+      "admin_name": "Tay Ninh"
+    },
+    {
+      "city": "Bắc Giang",
+      "admin_name": "Bac Giang"
+    },
+    {
+      "city": "Mang La",
+      "admin_name": "Kon Tum"
+    },
+    {
+      "city": "Phan Rang-Tháp Chàm",
+      "admin_name": "Ninh Thuan"
+    },
+    {
+      "city": "Tân Phú",
+      "admin_name": "Dong Nai"
+    },
+    {
+      "city": "Đồng Hới",
+      "admin_name": "Quang Binh"
+    },
+    {
+      "city": "Trà Vinh",
+      "admin_name": "Tra Vinh"
+    },
+    {
+      "city": "Ninh Bình",
+      "admin_name": "Ninh Binh"
+    },
+    {
+      "city": "Châu Đốc",
+      "admin_name": "An Giang"
+    },
+    {
+      "city": "Bạc Liêu",
+      "admin_name": "Bac Lieu"
+    },
+    {
+      "city": "Vĩnh Yên",
+      "admin_name": "Vinh Phuc"
+    },
+    {
+      "city": "Hòa Thành",
+      "admin_name": "Tay Ninh"
+    },
+    {
+      "city": "Gò Công",
+      "admin_name": "Tien Giang"
+    },
+    {
+      "city": "Long Khánh",
+      "admin_name": "Dong Nai"
+    },
+    {
+      "city": "Đức Phổ",
+      "admin_name": "Quang Ngai"
+    },
+    {
+      "city": "Đồng Xoài",
+      "admin_name": "Binh Phuoc"
+    },
+    {
+      "city": "Hưng Yên",
+      "admin_name": "Hung Yen"
+    },
+    {
+      "city": "Cam Ranh",
+      "admin_name": "Khanh Hoa"
+    },
+    {
+      "city": "Pleiku",
+      "admin_name": "Gia Lai"
+    },
+    {
+      "city": "Tân Châu",
+      "admin_name": "An Giang"
+    },
+    {
+      "city": "Giá Rai",
+      "admin_name": "Bac Lieu"
+    },
+    {
+      "city": "Phủ Lý",
+      "admin_name": "Ha Nam"
+    },
+    {
+      "city": "Tây Ninh",
+      "admin_name": "Tay Ninh"
+    },
+    {
+      "city": "Ba Đồn",
+      "admin_name": "Quang Binh"
+    },
+    {
+      "city": "Long Bình",
+      "admin_name": "Dong Nai"
+    },
+    {
+      "city": "Buôn Hồ",
+      "admin_name": "Dak Lak"
+    },
+    {
+      "city": "Cam Ranh",
+      "admin_name": "Khanh Hoa"
+    },
+    {
+      "city": "Bến Tre",
+      "admin_name": "Ben Tre"
+    },
+    {
+      "city": "Cai Lậy",
+      "admin_name": "Tien Giang"
+    },
+    {
+      "city": "Tam Kỳ",
+      "admin_name": "Quang Nam"
+    },
+    {
+      "city": "Hội An",
+      "admin_name": "Quang Nam"
+    },
+    {
+      "city": "Hòa Bình",
+      "admin_name": "Hoa Binh"
+    },
+    {
+      "city": "Chơn Thành",
+      "admin_name": "Binh Phuoc"
+    },
+    {
+      "city": "Kỳ Anh",
+      "admin_name": "Ha Tinh"
+    },
+    {
+      "city": "Đông Hòa",
+      "admin_name": "Phu Yen"
+    },
+    {
+      "city": "Sầm Sơn",
+      "admin_name": "Thanh Hoa"
+    },
+    {
+      "city": "Bà Rịa",
+      "admin_name": "Ba Ria - Vung Tau"
+    },
+    {
+      "city": "La Gi",
+      "admin_name": "Binh Thuan"
+    },
+    {
+      "city": "Sơn La",
+      "admin_name": "Son La"
+    },
+    {
+      "city": "Sông Cầu",
+      "admin_name": "Phu Yen"
+    },
+    {
+      "city": "Bình Long",
+      "admin_name": "Binh Phuoc"
+    },
+    {
+      "city": "Tuyên Quang",
+      "admin_name": "Tuyen Quang"
+    },
+    {
+      "city": "Tam Điệp",
+      "admin_name": "Ninh Binh"
+    },
+    {
+      "city": "Hồng Ngự",
+      "admin_name": "Dong Thap"
+    },
+    {
+      "city": "Bỉm Sơn",
+      "admin_name": "Thanh Hoa"
+    },
+    {
+      "city": "Yên Bái",
+      "admin_name": "Yen Bai"
+    },
+    {
+      "city": "Hương Thủy",
+      "admin_name": "Thua Thien Hue"
+    },
+    {
+      "city": "Đông Hà",
+      "admin_name": "Quang Tri"
+    },
+    {
+      "city": "Phú Thọ",
+      "admin_name": "Phu Tho"
+    },
+    {
+      "city": "Phúc Yên",
+      "admin_name": "Vinh Phuc"
+    },
+    {
+      "city": "An Khê",
+      "admin_name": "Gia Lai"
+    },
+    {
+      "city": "Ninh Hòa",
+      "admin_name": "Khanh Hoa"
+    },
+    {
+      "city": "Cửa Lô",
+      "admin_name": "Nghe An"
+    },
+    {
+      "city": "Cao Bằng",
+      "admin_name": "Cao Bang"
+    },
+    {
+      "city": "Hương Trà",
+      "admin_name": "Thua Thien Hue"
+    },
+    {
+      "city": "Điện Biên Phủ",
+      "admin_name": "Dien Bien"
+    },
+    {
+      "city": "Phú Quốc",
+      "admin_name": "Kien Giang"
+    },
+    {
+      "city": "Nghĩa Lộ",
+      "admin_name": "Yen Bai"
+    },
+    {
+      "city": "Gia Nghĩa",
+      "admin_name": "Dak Nong"
+    },
+    {
+      "city": "Hà Giang",
+      "admin_name": "Ha Giang"
+    },
+    {
+      "city": "A Yun Pa",
+      "admin_name": "Gia Lai"
+    },
+    {
+      "city": "Sông Đốc",
+      "admin_name": "Ca Mau"
+    },
+    {
+      "city": "Duyên Hải",
+      "admin_name": "Tra Vinh"
+    },
+    {
+      "city": "Hà Tiên",
+      "admin_name": "Kien Giang"
+    },
+    {
+      "city": "Phan Rí Cửa",
+      "admin_name": "Binh Thuan"
+    },
+    {
+      "city": "Bắc Kạn",
+      "admin_name": "Bac Kan"
+    },
+    {
+      "city": "Lai Châu",
+      "admin_name": "Lai Chau"
+    },
+    {
+      "city": "Hố Nai",
+      "admin_name": "Dong Nai"
+    },
+    {
+      "city": "Tam Hiệp",
+      "admin_name": "Dong Nai"
+    },
+    {
+      "city": "Mỹ Hòa",
+      "admin_name": "An Giang"
+    },
+    {
+      "city": "Bửu Long",
+      "admin_name": "Dong Nai"
+    },
+    {
+      "city": "Thuận Tiến",
+      "admin_name": "Vinh Long"
+    },
+    {
+      "city": "Phú Mỹ",
+      "admin_name": "Ba Ria - Vung Tau"
+    },
+    {
+      "city": "Long Thành",
+      "admin_name": "Dong Nai"
+    },
+    {
+      "city": "Ấp Khánh Hòa",
+      "admin_name": "An Giang"
+    },
+    {
+      "city": "Kiên Lương",
+      "admin_name": "Kien Giang"
+    },
+    {
+      "city": "Buôn Trấp",
+      "admin_name": "Dak Lak"
+    },
+    {
+      "city": "Quảng Trị",
+      "admin_name": "Quang Tri"
+    },
+    {
+      "city": "Ấp Phú Mỹ",
+      "admin_name": "Soc Trang"
+    },
+    {
+      "city": "Thuân An",
+      "admin_name": "Thua Thien Hue"
+    },
+    {
+      "city": "Chợ Phước Hải",
+      "admin_name": "Ba Ria - Vung Tau"
+    },
+    {
+      "city": "Tân Phong",
+      "admin_name": "Thanh Hoa"
+    },
+    {
+      "city": "Mường Lay",
+      "admin_name": "Dien Bien"
+    },
+    {
+      "city": "Ấp Khánh Hưng",
+      "admin_name": "Can Tho"
+    },
+    {
+      "city": "Bình Minh",
+      "admin_name": "Vinh Long"
+    },
+    {
+      "city": "Thị Trấn Ngải Giao",
+      "admin_name": "Ba Ria - Vung Tau"
+    },
+    {
+      "city": "Hương Canh",
+      "admin_name": "Vinh Phuc"
+    },
+    {
+      "city": "Hiệp Hòa",
+      "admin_name": "Dong Nai"
+    },
+    {
+      "city": "Bo",
+      "admin_name": "Hoa Binh"
+    },
+    {
+      "city": "Khe Sanh",
+      "admin_name": "Quang Tri"
+    },
+    {
+      "city": "Hòa Thượng",
+      "admin_name": "Thai Nguyen"
+    },
+    {
+      "city": "Ba Chúc",
+      "admin_name": "An Giang"
+    },
+    {
+      "city": "An Thành B",
+      "admin_name": "Ben Tre"
+    },
+    {
+      "city": "Chợ Mới",
+      "admin_name": "An Giang"
+    },
+    {
+      "city": "Ấp Bình Thành",
+      "admin_name": "Kien Giang"
+    },
+    {
+      "city": "Ấp Phú Hải",
+      "admin_name": "Binh Thuan"
+    },
+    {
+      "city": "Phước Long",
+      "admin_name": "Bac Lieu"
+    },
+    {
+      "city": "Chợ Lách",
+      "admin_name": "Ben Tre"
+    },
+    {
+      "city": "Mương Theng",
+      "admin_name": "Dien Bien"
+    },
+    {
+      "city": "Xuân Trùng",
+      "admin_name": "Phu Tho"
+    },
+    {
+      "city": "Hàng Trạm",
+      "admin_name": "Hoa Binh"
+    },
+    {
+      "city": "An Phú",
+      "admin_name": "An Giang"
+    },
+    {
+      "city": "Thanh Xuân",
+      "admin_name": "Ben Tre"
+    },
+    {
+      "city": "Kiến Giang",
+      "admin_name": "Quang Binh"
+    },
+    {
+      "city": "Thạnh Phú",
+      "admin_name": "Ben Tre"
+    },
+    {
+      "city": "Tân Sơn",
+      "admin_name": "Bac Giang"
+    },
+    {
+      "city": "Thị Trấn Mậu A",
+      "admin_name": "Yen Bai"
+    },
+    {
+      "city": "An Châu",
+      "admin_name": "Bac Giang"
+    },
+    {
+      "city": "Ngọc Sơn",
+      "admin_name": "Bac Giang"
+    },
+    {
+      "city": "Nhân Trạch",
+      "admin_name": "Nghe An"
+    },
+    {
+      "city": "Ấp Tân Ngãi",
+      "admin_name": "Ben Tre"
+    },
+    {
+      "city": "Côn Đảo",
+      "admin_name": "Ba Ria - Vung Tau"
+    },
+    {
+      "city": "Luân Châu",
+      "admin_name": "Dien Bien"
+    },
+    {
+      "city": "Kon Tum",
+      "admin_name": "Kon Tum"
+    },
+    {
+      "city": "Đà Nẵng",
+      "admin_name": "Da Nang"
+    }
+  ]
+}

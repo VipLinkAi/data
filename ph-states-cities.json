@@ -1,0 +1,878 @@
+{
+  "ACRONYM_PH": [
+    {
+      "acronym": "AB",
+      "display": "Abra"
+    },
+    {
+      "acronym": "AG",
+      "display": "Agusan del Norte"
+    },
+    {
+      "acronym": "AL",
+      "display": "Albay"
+    },
+    {
+      "acronym": "AN",
+      "display": "Angeles City"
+    },
+    {
+      "acronym": "ANT",
+      "display": "Antique"
+    },
+    {
+      "acronym": "AP",
+      "display": "Apayao"
+    },
+    {
+      "acronym": "AR",
+      "display": "Aurora"
+    },
+    {
+      "acronym": "BAS",
+      "display": "Basilan"
+    },
+    {
+      "acronym": "BA",
+      "display": "Bataan"
+    },
+    {
+      "acronym": "BTO",
+      "display": "Batangas"
+    },
+    {
+      "acronym": "B",
+      "display": "Benguet"
+    },
+    {
+      "acronym": "BIC",
+      "display": "Bicol Region"
+    },
+    {
+      "acronym": "BO",
+      "display": "Bulacan"
+    },
+    {
+      "acronym": "CAR",
+      "display": "Cagayan"
+    },
+    {
+      "acronym": "CA",
+      "display": "Camarines Norte"
+    },
+    {
+      "acronym": "CAG",
+      "display": "Cagayan Valley"
+    }
+  ],
+  "CITIES_PH": [
+    {
+      "city": "Canagatan",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "San Jose del Monte",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Angeles City",
+      "admin_name": "Angeles"
+    },
+    {
+      "city": "Lipa City",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Batangas",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Santa Maria",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Malolos",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Marilao",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Meycauayan",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Santo Tomas",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Legazpi City",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "Tanauan",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "San Miguel",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Baliuag",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Tuguegarao",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Pandi",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Mariveles",
+      "admin_name": "Bataan"
+    },
+    {
+      "city": "Calapan",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Bocaue",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Tabaco",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "La Trinidad",
+      "admin_name": "Benguet"
+    },
+    {
+      "city": "Nasugbu",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Norzagaray",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Daraga",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "Hagonoy",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "City of Isabela",
+      "admin_name": "Basilan"
+    },
+    {
+      "city": "Rosario",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Calumpit",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Dinalupihan",
+      "admin_name": "Bataan"
+    },
+    {
+      "city": "Ligao",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "San Ildefonso",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Plaridel",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "San Juan",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Guiguinto",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Daet",
+      "admin_name": "Camarines Norte"
+    },
+    {
+      "city": "Labo",
+      "admin_name": "Camarines Norte"
+    },
+    {
+      "city": "Pulilan",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Balanga",
+      "admin_name": "Bataan"
+    },
+    {
+      "city": "San Rafael",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Lamitan",
+      "admin_name": "Basilan"
+    },
+    {
+      "city": "Balayan",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Lemery",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Bauan",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Polangui",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "Solana",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Baggao",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Calaca",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Guinobatan",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "Bulacan",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Cabadbaran",
+      "admin_name": "Agusan del Norte"
+    },
+    {
+      "city": "San Jose",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Limay",
+      "admin_name": "Bataan"
+    },
+    {
+      "city": "Hermosa",
+      "admin_name": "Bataan"
+    },
+    {
+      "city": "Bustos",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Balagtas",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Libon",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "Bacacay",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "Camalig",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "Orani",
+      "admin_name": "Bataan"
+    },
+    {
+      "city": "San Pascual",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Buenavista",
+      "admin_name": "Agusan del Norte"
+    },
+    {
+      "city": "Aparri",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Oas",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "Angat",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "San Jose",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Malvar",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Tuao",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Sibalom",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Jose Pañganiban",
+      "admin_name": "Camarines Norte"
+    },
+    {
+      "city": "Itogon",
+      "admin_name": "Benguet"
+    },
+    {
+      "city": "Taal",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Orion",
+      "admin_name": "Bataan"
+    },
+    {
+      "city": "Paracale",
+      "admin_name": "Camarines Norte"
+    },
+    {
+      "city": "Obando",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Gattaran",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Calatagan",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Ibaan",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Tiwi",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "Lian",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Paombong",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Mercedes",
+      "admin_name": "Camarines Norte"
+    },
+    {
+      "city": "Hamtic",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Padre Garcia",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Mabini",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Bangued",
+      "admin_name": "Abra"
+    },
+    {
+      "city": "Amulung",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Peñablanca",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Pio Duran",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "Vinzons",
+      "admin_name": "Camarines Norte"
+    },
+    {
+      "city": "Lal-lo",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Malinao",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "Sumisip",
+      "admin_name": "Basilan"
+    },
+    {
+      "city": "Tuy",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Pilar",
+      "admin_name": "Bataan"
+    },
+    {
+      "city": "Talisay",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Maluso",
+      "admin_name": "Basilan"
+    },
+    {
+      "city": "Basud",
+      "admin_name": "Camarines Norte"
+    },
+    {
+      "city": "Maria Aurora",
+      "admin_name": "Aurora"
+    },
+    {
+      "city": "Buguias",
+      "admin_name": "Benguet"
+    },
+    {
+      "city": "Nasipit",
+      "admin_name": "Agusan del Norte"
+    },
+    {
+      "city": "Culasi",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Baler",
+      "admin_name": "Aurora"
+    },
+    {
+      "city": "Santa Elena",
+      "admin_name": "Camarines Norte"
+    },
+    {
+      "city": "Laurel",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Abucay",
+      "admin_name": "Bataan"
+    },
+    {
+      "city": "Gonzaga",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Alcala",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Lasam",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Malilipot",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "Lobo",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Taysan",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Agoncillo",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Caluya",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Patnongon",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Samal",
+      "admin_name": "Bataan"
+    },
+    {
+      "city": "Santo Domingo",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "Mankayan",
+      "admin_name": "Benguet"
+    },
+    {
+      "city": "Enrile",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Cuenca",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Capalonga",
+      "admin_name": "Camarines Norte"
+    },
+    {
+      "city": "San Luis",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Rapu-Rapu",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "Pandan",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Santa Ana",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Morong",
+      "admin_name": "Bataan"
+    },
+    {
+      "city": "Allacapan",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Bugasong",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Abulug",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Ballesteros",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "San Remigio",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Tobias Fornier",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Dipaculao",
+      "admin_name": "Aurora"
+    },
+    {
+      "city": "Buguey",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Claveria",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Bagac",
+      "admin_name": "Bataan"
+    },
+    {
+      "city": "Tairan Camp",
+      "admin_name": "Basilan"
+    },
+    {
+      "city": "Mataas Na Kahoy",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Las Nieves",
+      "admin_name": "Agusan del Norte"
+    },
+    {
+      "city": "Iguig",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "San Luis",
+      "admin_name": "Aurora"
+    },
+    {
+      "city": "Tibiao",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Santiago",
+      "admin_name": "Agusan del Norte"
+    },
+    {
+      "city": "Doña Remedios Trinidad",
+      "admin_name": "Bulacan"
+    },
+    {
+      "city": "Santo Niño",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Dingalan",
+      "admin_name": "Aurora"
+    },
+    {
+      "city": "Conner",
+      "admin_name": "Apayao"
+    },
+    {
+      "city": "Talisay",
+      "admin_name": "Camarines Norte"
+    },
+    {
+      "city": "Alitagtag",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Lauaan",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Casiguran",
+      "admin_name": "Aurora"
+    },
+    {
+      "city": "Sanchez-Mira",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Manito",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "Tubay",
+      "admin_name": "Agusan del Norte"
+    },
+    {
+      "city": "Tipo-Tipo",
+      "admin_name": "Basilan"
+    },
+    {
+      "city": "Camalaniugan",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Jabonga",
+      "admin_name": "Agusan del Norte"
+    },
+    {
+      "city": "Piat",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Pamplona",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Tuburan",
+      "admin_name": "Basilan"
+    },
+    {
+      "city": "Balete",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "San Nicolas",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Barbasa",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Carmen",
+      "admin_name": "Agusan del Norte"
+    },
+    {
+      "city": "Magallanes",
+      "admin_name": "Agusan del Norte"
+    },
+    {
+      "city": "Anini-y",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Santa Teresita",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Luna",
+      "admin_name": "Apayao"
+    },
+    {
+      "city": "Kitcharao",
+      "admin_name": "Agusan del Norte"
+    },
+    {
+      "city": "Valderrama",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Santa Teresita",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Tublay",
+      "admin_name": "Benguet"
+    },
+    {
+      "city": "Kapangan",
+      "admin_name": "Benguet"
+    },
+    {
+      "city": "Atok",
+      "admin_name": "Benguet"
+    },
+    {
+      "city": "Tingloy",
+      "admin_name": "Batangas"
+    },
+    {
+      "city": "Rizal",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Sebaste",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Bucay",
+      "admin_name": "Abra"
+    },
+    {
+      "city": "Flora",
+      "admin_name": "Apayao"
+    },
+    {
+      "city": "Jovellar",
+      "admin_name": "Albay"
+    },
+    {
+      "city": "Libertad",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Calayan",
+      "admin_name": "Cagayan"
+    },
+    {
+      "city": "Dilasag",
+      "admin_name": "Aurora"
+    },
+    {
+      "city": "Kibungan",
+      "admin_name": "Benguet"
+    },
+    {
+      "city": "La Paz",
+      "admin_name": "Abra"
+    },
+    {
+      "city": "Kabugao",
+      "admin_name": "Apayao"
+    },
+    {
+      "city": "Kabayan",
+      "admin_name": "Benguet"
+    },
+    {
+      "city": "Pudtol",
+      "admin_name": "Apayao"
+    },
+    {
+      "city": "Lagangilang",
+      "admin_name": "Abra"
+    },
+    {
+      "city": "Tayum",
+      "admin_name": "Abra"
+    },
+    {
+      "city": "Bakun",
+      "admin_name": "Benguet"
+    },
+    {
+      "city": "Bokod",
+      "admin_name": "Benguet"
+    },
+    {
+      "city": "Balangkas",
+      "admin_name": "Bataan"
+    },
+    {
+      "city": "Belison",
+      "admin_name": "Antique"
+    },
+    {
+      "city": "Santa Marcela",
+      "admin_name": "Apayao"
+    },
+    {
+      "city": "San Vicente",
+      "admin_name": "Camarines Norte"
+    },
+    {
+      "city": "Calanasan",
+      "admin_name": "Apayao"
+    },
+    {
+      "city": "Pidigan",
+      "admin_name": "Abra"
+    },
+    {
+      "city": "Manabo",
+      "admin_name": "Abra"
+    },
+    {
+      "city": "Sablan",
+      "admin_name": "Benguet"
+    },
+    {
+      "city": "Dolores",
+      "admin_name": "Abra"
+    },
+    {
+      "city": "San Juan",
+      "admin_name": "Abra"
+    },
+    {
+      "city": "Pilar",
+      "admin_name": "Abra"
+    }
+  ]
+}

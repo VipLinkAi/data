@@ -1,0 +1,294 @@
+{
+  "ACRONYM_UY": [
+    {
+      "acronym": "AR",
+      "display": "Artigas"
+    },
+    {
+      "acronym": "CA",
+      "display": "Canelones"
+    },
+    {
+      "acronym": "CL",
+      "display": "Cerro Largo"
+    },
+    {
+      "acronym": "CO",
+      "display": "Colonia"
+    },
+    {
+      "acronym": "DU",
+      "display": "Durazno"
+    },
+    {
+      "acronym": "FL",
+      "display": "Florida"
+    },
+    {
+      "acronym": "FS",
+      "display": "Flores"
+    },
+    {
+      "acronym": "LA",
+      "display": "Lavalleja"
+    },
+    {
+      "acronym": "MA",
+      "display": "Maldonado"
+    },
+    {
+      "acronym": "MO",
+      "display": "Montevideo"
+    },
+    {
+      "acronym": "PA",
+      "display": "Paysandú"
+    },
+    {
+      "acronym": "RI",
+      "display": "Río Negro"
+    },
+    {
+      "acronym": "RO",
+      "display": "Rocha"
+    },
+    {
+      "acronym": "SA",
+      "display": "Salto"
+    },
+    {
+      "acronym": "SD",
+      "display": "San José"
+    },
+    {
+      "acronym": "SO",
+      "display": "Soriano"
+    },
+    {
+      "acronym": "TA",
+      "display": "Tacuarembó"
+    },
+    {
+      "acronym": "TT",
+      "display": "Treinta y Tres"
+    }
+  ],
+  "CITIES_UY": [
+    {
+      "city": "Montevideo",
+      "admin_name": "Montevideo"
+    },
+    {
+      "city": "Maldonado",
+      "admin_name": "Maldonado"
+    },
+    {
+      "city": "Salto",
+      "admin_name": "Salto"
+    },
+    {
+      "city": "Ciudad de la Costa",
+      "admin_name": "Canelones"
+    },
+    {
+      "city": "Paysandú",
+      "admin_name": "Paysandú"
+    },
+    {
+      "city": "Las Piedras",
+      "admin_name": "Canelones"
+    },
+    {
+      "city": "Tacuarembó",
+      "admin_name": "Tacuarembó"
+    },
+    {
+      "city": "Melo",
+      "admin_name": "Cerro Largo"
+    },
+    {
+      "city": "Mercedes",
+      "admin_name": "Soriano"
+    },
+    {
+      "city": "Artigas",
+      "admin_name": "Artigas"
+    },
+    {
+      "city": "Minas",
+      "admin_name": "Lavalleja"
+    },
+    {
+      "city": "San José",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Durazno",
+      "admin_name": "Durazno"
+    },
+    {
+      "city": "Florida",
+      "admin_name": "Florida"
+    },
+    {
+      "city": "Barros Blancos",
+      "admin_name": "Canelones"
+    },
+    {
+      "city": "Ciudad del Plata",
+      "admin_name": "San José"
+    },
+    {
+      "city": "San Carlos",
+      "admin_name": "Maldonado"
+    },
+    {
+      "city": "Colonia del Sacramento",
+      "admin_name": "Colonia"
+    },
+    {
+      "city": "Pando",
+      "admin_name": "Canelones"
+    },
+    {
+      "city": "Treinta y Tres",
+      "admin_name": "Treinta y Tres"
+    },
+    {
+      "city": "Rocha",
+      "admin_name": "Rocha"
+    },
+    {
+      "city": "Fray Bentos",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "Trinidad",
+      "admin_name": "Flores"
+    },
+    {
+      "city": "El Pinar",
+      "admin_name": "Canelones"
+    },
+    {
+      "city": "La Paz",
+      "admin_name": "Canelones"
+    },
+    {
+      "city": "Canelones",
+      "admin_name": "Canelones"
+    },
+    {
+      "city": "Bella Unión",
+      "admin_name": "Artigas"
+    },
+    {
+      "city": "Carmelo",
+      "admin_name": "Colonia"
+    },
+    {
+      "city": "Young",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "Santa Lucía",
+      "admin_name": "Canelones"
+    },
+    {
+      "city": "Progreso",
+      "admin_name": "Canelones"
+    },
+    {
+      "city": "Paso de Carrasco",
+      "admin_name": "Canelones"
+    },
+    {
+      "city": "Dolores",
+      "admin_name": "Soriano"
+    },
+    {
+      "city": "Río Branco",
+      "admin_name": "Cerro Largo"
+    },
+    {
+      "city": "Tala",
+      "admin_name": "Canelones"
+    },
+    {
+      "city": "Paso de los Toros",
+      "admin_name": "Durazno"
+    },
+    {
+      "city": "Juan L. Lacaze",
+      "admin_name": "Colonia"
+    },
+    {
+      "city": "Libertad",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Nueva Helvecia",
+      "admin_name": "Colonia"
+    },
+    {
+      "city": "Nueva Palmira",
+      "admin_name": "Colonia"
+    },
+    {
+      "city": "Chuy",
+      "admin_name": "Rocha"
+    },
+    {
+      "city": "Colonia Nicolich",
+      "admin_name": "Canelones"
+    },
+    {
+      "city": "Rosario",
+      "admin_name": "Colonia"
+    },
+    {
+      "city": "Punta del Este",
+      "admin_name": "Maldonado"
+    },
+    {
+      "city": "Piriápolis",
+      "admin_name": "Maldonado"
+    },
+    {
+      "city": "Salinas",
+      "admin_name": "Canelones"
+    },
+    {
+      "city": "Nuevo Paysandú",
+      "admin_name": "Paysandú"
+    },
+    {
+      "city": "Lascano",
+      "admin_name": "Rocha"
+    },
+    {
+      "city": "Castillos",
+      "admin_name": "Rocha"
+    },
+    {
+      "city": "Vergara",
+      "admin_name": "Treinta y Tres"
+    },
+    {
+      "city": "La Paloma",
+      "admin_name": "Rocha"
+    },
+    {
+      "city": "Baltasar Brum",
+      "admin_name": "Artigas"
+    },
+    {
+      "city": "Aiguá",
+      "admin_name": "Maldonado"
+    },
+    {
+      "city": "José Batlle y Ordóñez",
+      "admin_name": "Lavalleja"
+    }
+  ]
+}

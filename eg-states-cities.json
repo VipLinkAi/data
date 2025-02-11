@@ -1,0 +1,694 @@
+{
+  "ACRONYM_EG": [
+    {
+      "acronym": "C",
+      "display": "Cairo"
+    },
+    {
+      "acronym": "G",
+      "display": "Giza"
+    },
+    {
+      "acronym": "A",
+      "display": "Alexandria"
+    },
+    {
+      "acronym": "B",
+      "display": "Beni Suef"
+    },
+    {
+      "acronym": "D",
+      "display": "Dakahlia"
+    },
+    {
+      "acronym": "K",
+      "display": "Kafr El Sheikh"
+    },
+    {
+      "acronym": "M",
+      "display": "Minya"
+    },
+    {
+      "acronym": "Q",
+      "display": "Qalyubia"
+    },
+    {
+      "acronym": "S",
+      "display": "Sohag"
+    },
+    {
+      "acronym": "F",
+      "display": "Fayoum"
+    },
+    {
+      "acronym": "N",
+      "display": "New Valley"
+    },
+    {
+      "acronym": "T",
+      "display": "Tanta"
+    },
+    {
+      "acronym": "S",
+      "display": "Suez"
+    },
+    {
+      "acronym": "M",
+      "display": "Marsa Matruh"
+    },
+    {
+      "acronym": "L",
+      "display": "Luxor"
+    },
+    {
+      "acronym": "Q",
+      "display": "Qena"
+    },
+    {
+      "acronym": "S",
+      "display": "South Sinai"
+    },
+    {
+      "acronym": "N",
+      "display": "North Sinai"
+    },
+    {
+      "acronym": "D",
+      "display": "Damietta"
+    },
+    {
+      "acronym": "P",
+      "display": "Port Said"
+    },
+    {
+      "acronym": "S",
+      "display": "Sharkia"
+    },
+    {
+      "acronym": "B",
+      "display": "Beheira"
+    },
+    {
+      "acronym": "G",
+      "display": "Gharbia"
+    },
+    {
+      "acronym": "A",
+      "display": "Aswan"
+    },
+    {
+      "acronym": "A",
+      "display": "Asyut"
+    }
+  ],
+  "CITIES_EG": [
+    {
+      "city": "Cairo",
+      "admin_name": "Cairo"
+    },
+    {
+      "city": "Alexandria",
+      "admin_name": "Alexandria"
+    },
+    {
+      "city": "Shubrā al Khaymah",
+      "admin_name": "Qalyubia"
+    },
+    {
+      "city": "Sinnūris",
+      "admin_name": "Fayoum"
+    },
+    {
+      "city": "Ţūkh",
+      "admin_name": "Qalyubia"
+    },
+    {
+      "city": "Al Manşūrah",
+      "admin_name": "Dakahlia"
+    },
+    {
+      "city": "Ḩalwān",
+      "admin_name": "Cairo"
+    },
+    {
+      "city": "Al Maḩallah al Kubrá",
+      "admin_name": "Giza"
+    },
+    {
+      "city": "Shibīn al Qanāţir",
+      "admin_name": "Qalyubia"
+    },
+    {
+      "city": "Abū Ḩummuş",
+      "admin_name": "Beheira"
+    },
+    {
+      "city": "Port Said",
+      "admin_name": "Port Said"
+    },
+    {
+      "city": "Fayoum",
+      "admin_name": "Fayoum"
+    },
+    {
+      "city": "Suez",
+      "admin_name": "Suez"
+    },
+    {
+      "city": "Abū Ţisht",
+      "admin_name": "Qinā"
+    },
+    {
+      "city": "Al Fashn",
+      "admin_name": "Beni Suef"
+    },
+    {
+      "city": "Bibā",
+      "admin_name": "Beni Suef"
+    },
+    {
+      "city": "Akhmīm",
+      "admin_name": "Sohag"
+    },
+    {
+      "city": "Al Marāghah",
+      "admin_name": "Sohag"
+    },
+    {
+      "city": "Ţanţā",
+      "admin_name": "Giza"
+    },
+    {
+      "city": "Ţalkhā",
+      "admin_name": "Dakahlia"
+    },
+    {
+      "city": "Dikirnis",
+      "admin_name": "Dakahlia"
+    },
+    {
+      "city": "Az Zaqāzīq",
+      "admin_name": "Tanta"
+    },
+    {
+      "city": "Al Waqf",
+      "admin_name": "Qinā"
+    },
+    {
+      "city": "Al ‘Ajamī",
+      "admin_name": "Alexandria"
+    },
+    {
+      "city": "Al Maţarīyah",
+      "admin_name": "Dakahlia"
+    },
+    {
+      "city": "Shubrākhīt",
+      "admin_name": "Beheira"
+    },
+    {
+      "city": "Kafr Şaqr",
+      "admin_name": "Tanta"
+    },
+    {
+      "city": "Qillīn",
+      "admin_name": "Kafr El Sheikh"
+    },
+    {
+      "city": "Aswan",
+      "admin_name": "Aswan"
+    },
+    {
+      "city": "Kafr ad Dawwār",
+      "admin_name": "Beheira"
+    },
+    {
+      "city": "Râs el-Barr",
+      "admin_name": "Dakahlia"
+    },
+    {
+      "city": "Al ‘Āshir min Ramaḑān",
+      "admin_name": "Tanta"
+    },
+    {
+      "city": "Damanhūr",
+      "admin_name": "Beheira"
+    },
+    {
+      "city": "Minya",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Biyalā",
+      "admin_name": "Kafr El Sheikh"
+    },
+    {
+      "city": "Sāqultah",
+      "admin_name": "Sohag"
+    },
+    {
+      "city": "Mallawī",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Farshūţ",
+      "admin_name": "Qinā"
+    },
+    {
+      "city": "Damietta",
+      "admin_name": "Damietta"
+    },
+    {
+      "city": "Luxor",
+      "admin_name": "Luxor"
+    },
+    {
+      "city": "Timayy al Imdīd",
+      "admin_name": "Dakahlia"
+    },
+    {
+      "city": "Qinā",
+      "admin_name": "Qinā"
+    },
+    {
+      "city": "Sohag",
+      "admin_name": "Sohag"
+    },
+    {
+      "city": "Beni Suef",
+      "admin_name": "Beni Suef"
+    },
+    {
+      "city": "Al ‘Arīsh",
+      "admin_name": "North Sinai"
+    },
+    {
+      "city": "Ar Raḩmānīyah",
+      "admin_name": "Beheira"
+    },
+    {
+      "city": "Banhā",
+      "admin_name": "Qalyubia"
+    },
+    {
+      "city": "Qalyūb",
+      "admin_name": "Qalyubia"
+    },
+    {
+      "city": "Kafr El Sheikh",
+      "admin_name": "Kafr El Sheikh"
+    },
+    {
+      "city": "Disūq",
+      "admin_name": "Kafr El Sheikh"
+    },
+    {
+      "city": "Bilbays",
+      "admin_name": "Tanta"
+    },
+    {
+      "city": "Idfū",
+      "admin_name": "Aswan"
+    },
+    {
+      "city": "Rosetta",
+      "admin_name": "Beheira"
+    },
+    {
+      "city": "Mīt Ghamr",
+      "admin_name": "Dakahlia"
+    },
+    {
+      "city": "Fāqūs",
+      "admin_name": "Tanta"
+    },
+    {
+      "city": "Marsa Matruh",
+      "admin_name": "Marsa Matruh"
+    },
+    {
+      "city": "Idkū",
+      "admin_name": "Beheira"
+    },
+    {
+      "city": "Jirjā",
+      "admin_name": "Sohag"
+    },
+    {
+      "city": "Al Jammālīyah",
+      "admin_name": "Dakahlia"
+    },
+    {
+      "city": "Ziftá",
+      "admin_name": "Giza"
+    },
+    {
+      "city": "Samālūţ",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Bi’r al ‘Abd",
+      "admin_name": "North Sinai"
+    },
+    {
+      "city": "Ibshawāy",
+      "admin_name": "Fayoum"
+    },
+    {
+      "city": "Rafaḩ",
+      "admin_name": "North Sinai"
+    },
+    {
+      "city": "Mīt Salsīl",
+      "admin_name": "Dakahlia"
+    },
+    {
+      "city": "Banī Mazār",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Madīnat as Sādāt",
+      "admin_name": "Beheira"
+    },
+    {
+      "city": "Al Khānkah",
+      "admin_name": "Qalyubia"
+    },
+    {
+      "city": "Armant",
+      "admin_name": "Qinā"
+    },
+    {
+      "city": "Kafr az Zayyāt",
+      "admin_name": "Giza"
+    },
+    {
+      "city": "Maghāghah",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Kawm Umbū",
+      "admin_name": "Aswan"
+    },
+    {
+      "city": "Būr Fu’ād",
+      "admin_name": "Port Said"
+    },
+    {
+      "city": "‘Izbat al Burj",
+      "admin_name": "Dakahlia"
+    },
+    {
+      "city": "Isnā",
+      "admin_name": "Qinā"
+    },
+    {
+      "city": "Hihyā",
+      "admin_name": "Tanta"
+    },
+    {
+      "city": "Al Minshāh",
+      "admin_name": "Sohag"
+    },
+    {
+      "city": "Al Qurayn",
+      "admin_name": "Tanta"
+    },
+    {
+      "city": "Ash Shaykh Zuwayd",
+      "admin_name": "North Sinai"
+    },
+    {
+      "city": "Daljā",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Abū Qurqāş",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Sīdī Barānī",
+      "admin_name": "Marsa Matruh"
+    },
+    {
+      "city": "Naj‘ Ḩammādī",
+      "admin_name": "Qinā"
+    },
+    {
+      "city": "Samannūd",
+      "admin_name": "Giza"
+    },
+    {
+      "city": "Abū Za‘bal",
+      "admin_name": "Qalyubia"
+    },
+    {
+      "city": "Dandarah",
+      "admin_name": "Qinā"
+    },
+    {
+      "city": "Al Khārjah",
+      "admin_name": "New Valley"
+    },
+    {
+      "city": "Al Balyanā",
+      "admin_name": "Sohag"
+    },
+    {
+      "city": "Maţāy",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Banī ‘Ubayd",
+      "admin_name": "Dakahlia"
+    },
+    {
+      "city": "Kafr al Baţţīkh",
+      "admin_name": "Damietta"
+    },
+    {
+      "city": "Abū al Maţāmīr",
+      "admin_name": "Beheira"
+    },
+    {
+      "city": "Şān al Ḩajar al Qiblīyah",
+      "admin_name": "Tanta"
+    },
+    {
+      "city": "Kafr al Kurdī",
+      "admin_name": "Dakahlia"
+    },
+    {
+      "city": "Dayr Mawās",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Ihnāsyā al Madīnah",
+      "admin_name": "Beni Suef"
+    },
+    {
+      "city": "Nabarūh",
+      "admin_name": "Dakahlia"
+    },
+    {
+      "city": "Darāw",
+      "admin_name": "Aswan"
+    },
+    {
+      "city": "Abū Qīr",
+      "admin_name": "Alexandria"
+    },
+    {
+      "city": "Fāraskūr",
+      "admin_name": "Damietta"
+    },
+    {
+      "city": "Badr",
+      "admin_name": "Cairo"
+    },
+    {
+      "city": "Quţūr",
+      "admin_name": "Giza"
+    },
+    {
+      "city": "Maḩallat Damanah",
+      "admin_name": "Dakahlia"
+    },
+    {
+      "city": "Al Ḩusaynīyah",
+      "admin_name": "Tanta"
+    },
+    {
+      "city": "Abū Şuwayr",
+      "admin_name": "Tanta"
+    },
+    {
+      "city": "Qiman al ‘Arūs",
+      "admin_name": "Beni Suef"
+    },
+    {
+      "city": "As Sarw",
+      "admin_name": "Damietta"
+    },
+    {
+      "city": "Qahā",
+      "admin_name": "Qalyubia"
+    },
+    {
+      "city": "Al Karnak",
+      "admin_name": "Luxor"
+    },
+    {
+      "city": "Hirrīyat Raznah",
+      "admin_name": "Tanta"
+    },
+    {
+      "city": "Sīwah",
+      "admin_name": "Marsa Matruh"
+    },
+    {
+      "city": "Kafr Sa‘d",
+      "admin_name": "Damietta"
+    },
+    {
+      "city": "Shārūnah",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Abū Şīr Banā",
+      "admin_name": "Giza"
+    },
+    {
+      "city": "Qifţ",
+      "admin_name": "Qinā"
+    },
+    {
+      "city": "Naqādah",
+      "admin_name": "Qinā"
+    },
+    {
+      "city": "Mīt Namā",
+      "admin_name": "Qalyubia"
+    },
+    {
+      "city": "Al Qays",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Sunbāţ",
+      "admin_name": "Giza"
+    },
+    {
+      "city": "Şā al Ḩajar",
+      "admin_name": "Giza"
+    },
+    {
+      "city": "Jarājūs",
+      "admin_name": "Qinā"
+    },
+    {
+      "city": "Dayr Abū Ḩinnis",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Banī Ḩasan ash Shurūq",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Ajā",
+      "admin_name": "Dakahlia"
+    },
+    {
+      "city": "Biyahmū",
+      "admin_name": "Fayoum"
+    },
+    {
+      "city": "Al Madāmūd",
+      "admin_name": "Luxor"
+    },
+    {
+      "city": "Sakhā",
+      "admin_name": "Kafr El Sheikh"
+    },
+    {
+      "city": "Dayr al Barshā",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Aḑ Ḑab‘ah",
+      "admin_name": "Marsa Matruh"
+    },
+    {
+      "city": "Qantīr",
+      "admin_name": "Tanta"
+    },
+    {
+      "city": "Sharm ash Shaykh",
+      "admin_name": "South Sinai"
+    },
+    {
+      "city": "Sidmant al Jabal",
+      "admin_name": "Fayoum"
+    },
+    {
+      "city": "Aţ Ţūr",
+      "admin_name": "South Sinai"
+    },
+    {
+      "city": "Burj al ‘Arab",
+      "admin_name": "Alexandria"
+    },
+    {
+      "city": "Dishāshah",
+      "admin_name": "Beni Suef"
+    },
+    {
+      "city": "Mīt Damsīs",
+      "admin_name": "Dakahlia"
+    },
+    {
+      "city": "Qal‘at an Nakhl",
+      "admin_name": "North Sinai"
+    },
+    {
+      "city": "Sawādah",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Abjīj",
+      "admin_name": "Fayoum"
+    },
+    {
+      "city": "Qufādah",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Shanhūr",
+      "admin_name": "Qinā"
+    },
+    {
+      "city": "Dayr as Sanqūrīyah",
+      "admin_name": "Minya"
+    },
+    {
+      "city": "Najrīj",
+      "admin_name": "Giza"
+    },
+    {
+      "city": "As Sallūm",
+      "admin_name": "Marsa Matruh"
+    },
+    {
+      "city": "Qaşr al Farāfirah",
+      "admin_name": "New Valley"
+    },
+    {
+      "city": "Al Qaşr",
+      "admin_name": "New Valley"
+    },
+    {
+      "city": "Al ‘Alamayn",
+      "admin_name": "Marsa Matruh"
+    }
+  ]
+}

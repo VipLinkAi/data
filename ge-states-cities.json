@@ -1,0 +1,138 @@
+{
+  "ACRONYM_GE": [
+    {
+      "acronym": "AB",
+      "display": "Abkhazia"
+    },
+    {
+      "acronym": "AJ",
+      "display": "Ajaria"
+    },
+    {
+      "acronym": "GU",
+      "display": "Guria"
+    },
+    {
+      "acronym": "IM",
+      "display": "Imereti"
+    },
+    {
+      "acronym": "KV",
+      "display": "Kvemo Kartli"
+    },
+    {
+      "acronym": "M",
+      "display": "Mtskheta-Mtianeti"
+    },
+    {
+      "acronym": "R",
+      "display": "Racha-Lechkhumi and Kvemo Svaneti"
+    },
+    {
+      "acronym": "SJ",
+      "display": "Samtskhe-Javakheti"
+    },
+    {
+      "acronym": "SK",
+      "display": "Shida Kartli"
+    },
+    {
+      "acronym": "SZ",
+      "display": "Samegrelo-Zemo Svaneti"
+    },
+    {
+      "acronym": "TB",
+      "display": "Tbilisi"
+    }
+  ],
+  "CITIES_GE": [
+    {
+      "city": "Tbilisi",
+      "admin_name": "Tbilisi"
+    },
+    {
+      "city": "Batumi",
+      "admin_name": "Ajaria"
+    },
+    {
+      "city": "Kutaisi",
+      "admin_name": "Imereti"
+    },
+    {
+      "city": "Rustavi",
+      "admin_name": "Kvemo Kartli"
+    },
+    {
+      "city": "Sokhumi",
+      "admin_name": "Abkhazia"
+    },
+    {
+      "city": "Gori",
+      "admin_name": "Shida Kartli"
+    },
+    {
+      "city": "Poti",
+      "admin_name": "Samegrelo-Zemo Svaneti"
+    },
+    {
+      "city": "Zugdidi",
+      "admin_name": "Samegrelo-Zemo Svaneti"
+    },
+    {
+      "city": "Tskhinvali",
+      "admin_name": "Shida Kartli"
+    },
+    {
+      "city": "Kobuleti",
+      "admin_name": "Ajaria"
+    },
+    {
+      "city": "Marneuli",
+      "admin_name": "Kvemo Kartli"
+    },
+    {
+      "city": "Khashuri",
+      "admin_name": "Shida Kartli"
+    },
+    {
+      "city": "Samtredia",
+      "admin_name": "Imereti"
+    },
+    {
+      "city": "Senaki",
+      "admin_name": "Samegrelo-Zemo Svaneti"
+    },
+    {
+      "city": "Zestaponi",
+      "admin_name": "Imereti"
+    },
+    {
+      "city": "Chiatura",
+      "admin_name": "Imereti"
+    },
+    {
+      "city": "Kaspi",
+      "admin_name": "Shida Kartli"
+    },
+    {
+      "city": "Borjomi",
+      "admin_name": "Samtskhe-Javakheti"
+    },
+    {
+      "city": "Akhaltsikhe",
+      "admin_name": "Samtskhe-Javakheti"
+    },
+    {
+      "city": "Mtskheta",
+      "admin_name": "Mtskheta-Mtianeti"
+    },
+    {
+      "city": "Ambrolauri",
+      "admin_name": "Racha-Lechkhumi and Kvemo Svaneti"
+    },
+    {
+      "city": "Ozurgeti",
+      "admin_name": "Guria"
+    }
+  ]
+}

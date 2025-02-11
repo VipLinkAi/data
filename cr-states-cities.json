@@ -1,0 +1,394 @@
+{
+  "ACRONYM_CR": [
+    {
+      "acronym": "AL",
+      "display": "Alajuela"
+    },
+    {
+      "acronym": "CAR",
+      "display": "Cartago"
+    },
+    {
+      "acronym": "GON",
+      "display": "Guanacaste"
+    },
+    {
+      "acronym": "HER",
+      "display": "Heredia"
+    },
+    {
+      "acronym": "PUN",
+      "display": "Puntarenas"
+    },
+    {
+      "acronym": "SAN",
+      "display": "San José"
+    }
+  ],
+  "CITIES_CR": [
+    {
+      "city": "San José",
+      "admin_name": "San José"
+    },
+    {
+      "city": "San Marcos",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "San Ramón",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "Sarapiquí",
+      "admin_name": "Heredia"
+    },
+    {
+      "city": "Mora",
+      "admin_name": "Heredia"
+    },
+    {
+      "city": "Santa Cruz",
+      "admin_name": "Guanacaste"
+    },
+    {
+      "city": "Liberia",
+      "admin_name": "Guanacaste"
+    },
+    {
+      "city": "Nicoya",
+      "admin_name": "Guanacaste"
+    },
+    {
+      "city": "Alajuela",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "San Rafael",
+      "admin_name": "Heredia"
+    },
+    {
+      "city": "San Isidro",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Naranjo",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "Quesada",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "Palmares",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "Puntarenas",
+      "admin_name": "Puntarenas"
+    },
+    {
+      "city": "Santo Domingo",
+      "admin_name": "Heredia"
+    },
+    {
+      "city": "Coto Brus",
+      "admin_name": "Puntarenas"
+    },
+    {
+      "city": "Desamparados",
+      "admin_name": "San José"
+    },
+    {
+      "city": "La Uruca",
+      "admin_name": "San José"
+    },
+    {
+      "city": "San Vicente",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Buenos Aires",
+      "admin_name": "Puntarenas"
+    },
+    {
+      "city": "Poás",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "Curridabat",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Esparza",
+      "admin_name": "Puntarenas"
+    },
+    {
+      "city": "San Pablo",
+      "admin_name": "Heredia"
+    },
+    {
+      "city": "Purral",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Turrialba",
+      "admin_name": "Cartago"
+    },
+    {
+      "city": "Cañas",
+      "admin_name": "Guanacaste"
+    },
+    {
+      "city": "Desamparados",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "San Juan",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Horquetas",
+      "admin_name": "Heredia"
+    },
+    {
+      "city": "San Pedro",
+      "admin_name": "San José"
+    },
+    {
+      "city": "San Rafael Abajo",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Cartago",
+      "admin_name": "Cartago"
+    },
+    {
+      "city": "Guadalupe",
+      "admin_name": "San José"
+    },
+    {
+      "city": "San Isidro",
+      "admin_name": "Heredia"
+    },
+    {
+      "city": "Paraíso",
+      "admin_name": "Cartago"
+    },
+    {
+      "city": "Sartalillo",
+      "admin_name": "Cartago"
+    },
+    {
+      "city": "Aguas Zarcas",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "San Francisco",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Puerto Viejo",
+      "admin_name": "Heredia"
+    },
+    {
+      "city": "Guácima",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "Quepos",
+      "admin_name": "Puntarenas"
+    },
+    {
+      "city": "Bagaces",
+      "admin_name": "Guanacaste"
+    },
+    {
+      "city": "San Juan de Dios",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Heredia",
+      "admin_name": "Heredia"
+    },
+    {
+      "city": "Zapote",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Abangaritos",
+      "admin_name": "Puntarenas"
+    },
+    {
+      "city": "Colón",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Pital",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "San Isidro",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Upala",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "Parrita",
+      "admin_name": "Puntarenas"
+    },
+    {
+      "city": "Pozos",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Fortuna",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "San Rafael Arriba",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Florencia",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "Sardinal",
+      "admin_name": "Guanacaste"
+    },
+    {
+      "city": "Grecia",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "San Vito",
+      "admin_name": "Puntarenas"
+    },
+    {
+      "city": "Copalchí",
+      "admin_name": "Cartago"
+    },
+    {
+      "city": "Los Chiles",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "Santa Ana",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Matinilla",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Puerto Jiménez",
+      "admin_name": "Puntarenas"
+    },
+    {
+      "city": "Santiago",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Alajuelita",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Escazú",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Patarrá",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Jacó",
+      "admin_name": "Puntarenas"
+    },
+    {
+      "city": "San Josecito",
+      "admin_name": "Heredia"
+    },
+    {
+      "city": "Golfito",
+      "admin_name": "Puntarenas"
+    },
+    {
+      "city": "Nandayure",
+      "admin_name": "Guanacaste"
+    },
+    {
+      "city": "Río Cuarto",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "Sabalito",
+      "admin_name": "Puntarenas"
+    },
+    {
+      "city": "Río Segundo",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "Puente de Piedra",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "La Virgen",
+      "admin_name": "Heredia"
+    },
+    {
+      "city": "San Josecito",
+      "admin_name": "San José"
+    },
+    {
+      "city": "San Marcos",
+      "admin_name": "San José"
+    },
+    {
+      "city": "San Antonio",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "Dulce Nombre de Jesús",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Orotina",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "Venecia",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "Canoas",
+      "admin_name": "Puntarenas"
+    },
+    {
+      "city": "Tres Ríos",
+      "admin_name": "Cartago"
+    },
+    {
+      "city": "Carrillos",
+      "admin_name": "Alajuela"
+    },
+    {
+      "city": "La Cruz",
+      "admin_name": "Guanacaste"
+    },
+    {
+      "city": "San Ignacio",
+      "admin_name": "San José"
+    },
+    {
+      "city": "Tilarán",
+      "admin_name": "Guanacaste"
+    },
+    {
+      "city": "Ciudad Cortés",
+      "admin_name": "Puntarenas"
+    }
+  ]
+}

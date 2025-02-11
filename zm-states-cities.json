@@ -1,0 +1,210 @@
+{
+  "ACRONYM_ZM": [
+    {
+      "acronym": "CE",
+      "display": "Central"
+    },
+    {
+      "acronym": "CB",
+      "display": "Copperbelt"
+    },
+    {
+      "acronym": "EE",
+      "display": "Eastern"
+    },
+    {
+      "acronym": "LP",
+      "display": "Luapula"
+    },
+    {
+      "acronym": "LS",
+      "display": "Lusaka"
+    },
+    {
+      "acronym": "MU",
+      "display": "Muchinga"
+    },
+    {
+      "acronym": "NO",
+      "display": "Northern"
+    },
+    {
+      "acronym": "NW",
+      "display": "North-Western"
+    },
+    {
+      "acronym": "SO",
+      "display": "Southern"
+    },
+    {
+      "acronym": "WE",
+      "display": "Western"
+    }
+  ],
+  "CITIES_ZM": [
+    {
+      "city": "Lusaka",
+      "admin_name": "Lusaka"
+    },
+    {
+      "city": "Ndola",
+      "admin_name": "Copperbelt"
+    },
+    {
+      "city": "Kitwe",
+      "admin_name": "Copperbelt"
+    },
+    {
+      "city": "Kafue",
+      "admin_name": "Lusaka"
+    },
+    {
+      "city": "Mazabuka",
+      "admin_name": "Southern"
+    },
+    {
+      "city": "Mongu",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Kasama",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Kashikishi",
+      "admin_name": "Luapula"
+    },
+    {
+      "city": "Nchelenge",
+      "admin_name": "Luapula"
+    },
+    {
+      "city": "Chingola",
+      "admin_name": "Copperbelt"
+    },
+    {
+      "city": "Mansa",
+      "admin_name": "Luapula"
+    },
+    {
+      "city": "Mufulira",
+      "admin_name": "Copperbelt"
+    },
+    {
+      "city": "Bwana Mkubwa",
+      "admin_name": "Copperbelt"
+    },
+    {
+      "city": "Luanshya",
+      "admin_name": "Copperbelt"
+    },
+    {
+      "city": "Kabwe",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Kasempa",
+      "admin_name": "North-Western"
+    },
+    {
+      "city": "Mporokoso",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Chipata",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Solwezi",
+      "admin_name": "North-Western"
+    },
+    {
+      "city": "Chililabombwe",
+      "admin_name": "Copperbelt"
+    },
+    {
+      "city": "Chirundu",
+      "admin_name": "Southern"
+    },
+    {
+      "city": "Choma",
+      "admin_name": "Southern"
+    },
+    {
+      "city": "Livingstone",
+      "admin_name": "Southern"
+    },
+    {
+      "city": "Mpika",
+      "admin_name": "Muchinga"
+    },
+    {
+      "city": "Kawambwa",
+      "admin_name": "Luapula"
+    },
+    {
+      "city": "Mbala",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Sesheke",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Mumbwa",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Mwinilunga",
+      "admin_name": "North-Western"
+    },
+    {
+      "city": "Chinsali",
+      "admin_name": "Muchinga"
+    },
+    {
+      "city": "Kapiri Mposhi",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Kaoma",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Chifubu",
+      "admin_name": "Copperbelt"
+    },
+    {
+      "city": "Chilonga",
+      "admin_name": "Muchinga"
+    },
+    {
+      "city": "Lundazi",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Nakonde",
+      "admin_name": "Muchinga"
+    },
+    {
+      "city": "Senanga",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Kalabo",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Zambezi",
+      "admin_name": "North-Western"
+    },
+    {
+      "city": "Lukulu",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Nyimba",
+      "admin_name": "Eastern"
+    }
+  ]
+}

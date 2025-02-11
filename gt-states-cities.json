@@ -1,0 +1,1158 @@
+{
+  "ACRONYM_GT": [
+    {
+      "acronym": "AV",
+      "display": "Alta Verapaz"
+    },
+    {
+      "acronym": "BS",
+      "display": "Baja Verapaz"
+    },
+    {
+      "acronym": "CM",
+      "display": "Chimaltenango"
+    },
+    {
+      "acronym": "CQ",
+      "display": "Chiquimula"
+    },
+    {
+      "acronym": "ES",
+      "display": "Escuintla"
+    },
+    {
+      "acronym": "GU",
+      "display": "Guatemala"
+    },
+    {
+      "acronym": "HU",
+      "display": "Huehuetenango"
+    },
+    {
+      "acronym": "IZ",
+      "display": "Izabal"
+    },
+    {
+      "acronym": "JA",
+      "display": "Jalapa"
+    },
+    {
+      "acronym": "JU",
+      "display": "Jutiapa"
+    },
+    {
+      "acronym": "PE",
+      "display": "Petén"
+    },
+    {
+      "acronym": "QA",
+      "display": "Quetzaltenango"
+    },
+    {
+      "acronym": "QZ",
+      "display": "Quiché"
+    },
+    {
+      "acronym": "SM",
+      "display": "Santa Rosa"
+    },
+    {
+      "acronym": "SR",
+      "display": "San Marcos"
+    },
+    {
+      "acronym": "SO",
+      "display": "Sololá"
+    },
+    {
+      "acronym": "SU",
+      "display": "Suchitepéquez"
+    },
+    {
+      "acronym": "TO",
+      "display": "Totonicapán"
+    },
+    {
+      "acronym": "ZA",
+      "display": "Zacapa"
+    }
+  ],
+  "CITIES_GT": [
+    {
+      "city": "Guatemala City",
+      "admin_name": "Guatemala"
+    },
+    {
+      "city": "Mixco",
+      "admin_name": "Guatemala"
+    },
+    {
+      "city": "Villa Nueva",
+      "admin_name": "Guatemala"
+    },
+    {
+      "city": "San Juan Sacatepéquez",
+      "admin_name": "Guatemala"
+    },
+    {
+      "city": "San Pedro Carchá",
+      "admin_name": "Alta Verapaz"
+    },
+    {
+      "city": "Cobán",
+      "admin_name": "Alta Verapaz"
+    },
+    {
+      "city": "Quetzaltenango",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "Jalapa",
+      "admin_name": "Jalapa"
+    },
+    {
+      "city": "Escuintla",
+      "admin_name": "Escuintla"
+    },
+    {
+      "city": "Villa Canales",
+      "admin_name": "Guatemala"
+    },
+    {
+      "city": "Jutiapa",
+      "admin_name": "Jutiapa"
+    },
+    {
+      "city": "Amatitlán",
+      "admin_name": "Guatemala"
+    },
+    {
+      "city": "Chichicastenango",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "Momostenango",
+      "admin_name": "Totonicapán"
+    },
+    {
+      "city": "Huehuetenango",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "San Luis",
+      "admin_name": "Petén"
+    },
+    {
+      "city": "Petapa",
+      "admin_name": "Guatemala"
+    },
+    {
+      "city": "Santa Lucía Cotzumalguapa",
+      "admin_name": "Escuintla"
+    },
+    {
+      "city": "Chinautla",
+      "admin_name": "Guatemala"
+    },
+    {
+      "city": "Coatepeque",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "Totonicapán",
+      "admin_name": "Totonicapán"
+    },
+    {
+      "city": "Chimaltenango",
+      "admin_name": "Chimaltenango"
+    },
+    {
+      "city": "Tecpán Guatemala",
+      "admin_name": "Chimaltenango"
+    },
+    {
+      "city": "Pochuta",
+      "admin_name": "Chimaltenango"
+    },
+    {
+      "city": "Chiquimula",
+      "admin_name": "Chiquimula"
+    },
+    {
+      "city": "Puerto Barrios",
+      "admin_name": "Izabal"
+    },
+    {
+      "city": "Malacatán",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "Joyabaj",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "Morales",
+      "admin_name": "Izabal"
+    },
+    {
+      "city": "Sololá",
+      "admin_name": "Sololá"
+    },
+    {
+      "city": "Sayaxché",
+      "admin_name": "Petén"
+    },
+    {
+      "city": "Santa Cruz del Quiché",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "Senahú",
+      "admin_name": "Alta Verapaz"
+    },
+    {
+      "city": "San Martín Jilotepeque",
+      "admin_name": "Chimaltenango"
+    },
+    {
+      "city": "Chiantla",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "San José Pinula",
+      "admin_name": "Guatemala"
+    },
+    {
+      "city": "Santa Catarina Pinula",
+      "admin_name": "Guatemala"
+    },
+    {
+      "city": "Nahualá",
+      "admin_name": "Sololá"
+    },
+    {
+      "city": "San Pedro Sacatepéquez",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "Concepción Tutuapa",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "Mazatenango",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "El Estor",
+      "admin_name": "Izabal"
+    },
+    {
+      "city": "Nueva Concepción",
+      "admin_name": "Escuintla"
+    },
+    {
+      "city": "Tacaná",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "Panzos",
+      "admin_name": "Alta Verapaz"
+    },
+    {
+      "city": "San Cristóbal Verapaz",
+      "admin_name": "Alta Verapaz"
+    },
+    {
+      "city": "Comitancillo",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "Lívingston",
+      "admin_name": "Izabal"
+    },
+    {
+      "city": "San Pedro Pinula",
+      "admin_name": "Jalapa"
+    },
+    {
+      "city": "Fray Bartolomé de Las Casas",
+      "admin_name": "Alta Verapaz"
+    },
+    {
+      "city": "Jocotán",
+      "admin_name": "Chiquimula"
+    },
+    {
+      "city": "Palencia",
+      "admin_name": "Guatemala"
+    },
+    {
+      "city": "Uspantán",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "Palín",
+      "admin_name": "Escuintla"
+    },
+    {
+      "city": "Patzún",
+      "admin_name": "Chimaltenango"
+    },
+    {
+      "city": "Salamá",
+      "admin_name": "Baja Verapaz"
+    },
+    {
+      "city": "Santa María La Pila",
+      "admin_name": "Alta Verapaz"
+    },
+    {
+      "city": "Poptún",
+      "admin_name": "Petén"
+    },
+    {
+      "city": "Chisec",
+      "admin_name": "Alta Verapaz"
+    },
+    {
+      "city": "Puerto San José",
+      "admin_name": "Escuintla"
+    },
+    {
+      "city": "San Pedro Ayampuc",
+      "admin_name": "Guatemala"
+    },
+    {
+      "city": "Chicacao",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "Cuilco",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Zacapa",
+      "admin_name": "Zacapa"
+    },
+    {
+      "city": "San Francisco El Alto",
+      "admin_name": "Totonicapán"
+    },
+    {
+      "city": "San Antonio Suchitepéquez",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "Los Amates",
+      "admin_name": "Izabal"
+    },
+    {
+      "city": "Purulhá",
+      "admin_name": "Baja Verapaz"
+    },
+    {
+      "city": "Chiquimulilla",
+      "admin_name": "Santa Rosa"
+    },
+    {
+      "city": "Soloma",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Tiquisate",
+      "admin_name": "Escuintla"
+    },
+    {
+      "city": "Fraijanes",
+      "admin_name": "Guatemala"
+    },
+    {
+      "city": "Tajumulco",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "Camotán",
+      "admin_name": "Chiquimula"
+    },
+    {
+      "city": "San Juan Chamelco",
+      "admin_name": "Alta Verapaz"
+    },
+    {
+      "city": "Ostuncalco",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "La Democracia",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Santa Catarina Ixtahuacán",
+      "admin_name": "Sololá"
+    },
+    {
+      "city": "Barberena",
+      "admin_name": "Santa Rosa"
+    },
+    {
+      "city": "Cubulco",
+      "admin_name": "Baja Verapaz"
+    },
+    {
+      "city": "San Mateo Ixtatán",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Aguacatán",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Santa María Chiquimula",
+      "admin_name": "Totonicapán"
+    },
+    {
+      "city": "San Pedro Sacatepéquez",
+      "admin_name": "Guatemala"
+    },
+    {
+      "city": "Ixtahuacán",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Colomba",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "Esquipulas",
+      "admin_name": "Chiquimula"
+    },
+    {
+      "city": "Sacapulas",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "La Gomera",
+      "admin_name": "Escuintla"
+    },
+    {
+      "city": "San Miguel Ixtahuacán",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "San Pablo",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "El Tumbador",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "Chajul",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "Santa Eulalia",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Nentón",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Tucurú",
+      "admin_name": "Alta Verapaz"
+    },
+    {
+      "city": "Gualán",
+      "admin_name": "Zacapa"
+    },
+    {
+      "city": "San Marcos",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "La Libertad",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Santo Domingo Suchitepéquez",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "Masagua",
+      "admin_name": "Escuintla"
+    },
+    {
+      "city": "Asunción Mita",
+      "admin_name": "Jutiapa"
+    },
+    {
+      "city": "Mataquescuintla",
+      "admin_name": "Jalapa"
+    },
+    {
+      "city": "Cunén",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "Cantel",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "Cuilapa",
+      "admin_name": "Santa Rosa"
+    },
+    {
+      "city": "Rabinal",
+      "admin_name": "Baja Verapaz"
+    },
+    {
+      "city": "Santiago Atitlán",
+      "admin_name": "Sololá"
+    },
+    {
+      "city": "Colotenango",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Santa Bárbara",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Flores",
+      "admin_name": "Petén"
+    },
+    {
+      "city": "Jacaltenango",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "San Sebastián Huehuetenango",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Chicamán",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "Yepocapa",
+      "admin_name": "Chimaltenango"
+    },
+    {
+      "city": "San Cristóbal Totonicapán",
+      "admin_name": "Totonicapán"
+    },
+    {
+      "city": "Tactic",
+      "admin_name": "Alta Verapaz"
+    },
+    {
+      "city": "San Pedro Necta",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Patulul",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "Patzicía",
+      "admin_name": "Chimaltenango"
+    },
+    {
+      "city": "Raxruhá",
+      "admin_name": "Alta Verapaz"
+    },
+    {
+      "city": "Zacualpa",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "Todos Santos Cuchumatán",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Olintepeque",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "Nueva Santa Rosa",
+      "admin_name": "Santa Rosa"
+    },
+    {
+      "city": "San Raimundo",
+      "admin_name": "Guatemala"
+    },
+    {
+      "city": "La Unión",
+      "admin_name": "Zacapa"
+    },
+    {
+      "city": "San Pédro Jocopilas",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "Comapa",
+      "admin_name": "Jutiapa"
+    },
+    {
+      "city": "San Miguel Chicaj",
+      "admin_name": "Baja Verapaz"
+    },
+    {
+      "city": "Taxisco",
+      "admin_name": "Santa Rosa"
+    },
+    {
+      "city": "San Juan Cotzal",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "San Miguel Acatán",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Cuyotenango",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "San Carlos Sija",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "Santa Cruz Verapaz",
+      "admin_name": "Alta Verapaz"
+    },
+    {
+      "city": "San Andrés Itzapa",
+      "admin_name": "Chimaltenango"
+    },
+    {
+      "city": "La Blanca",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "San José Poaquil",
+      "admin_name": "Chimaltenango"
+    },
+    {
+      "city": "San Martín Sacatepéquez",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "Chiché",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "San Carlos Alzatate",
+      "admin_name": "Jalapa"
+    },
+    {
+      "city": "San Lucas Tolimán",
+      "admin_name": "Sololá"
+    },
+    {
+      "city": "Santa Catarina Mita",
+      "admin_name": "Jutiapa"
+    },
+    {
+      "city": "El Palmar",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "Jalpatagua",
+      "admin_name": "Jutiapa"
+    },
+    {
+      "city": "Jerez",
+      "admin_name": "Jutiapa"
+    },
+    {
+      "city": "Monjas",
+      "admin_name": "Jalapa"
+    },
+    {
+      "city": "Río Bravo",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "San Juan Ixcoy",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "San Antonio Ilotenango",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "Ciudad Melchor de Mencos",
+      "admin_name": "Petén"
+    },
+    {
+      "city": "Olopa",
+      "admin_name": "Chiquimula"
+    },
+    {
+      "city": "Dolores",
+      "admin_name": "Petén"
+    },
+    {
+      "city": "Quezaltepeque",
+      "admin_name": "Chiquimula"
+    },
+    {
+      "city": "Conguaco",
+      "admin_name": "Jutiapa"
+    },
+    {
+      "city": "San Andrés Xecul",
+      "admin_name": "Totonicapán"
+    },
+    {
+      "city": "Zaragoza",
+      "admin_name": "Chimaltenango"
+    },
+    {
+      "city": "San Agustín Chahal",
+      "admin_name": "Alta Verapaz"
+    },
+    {
+      "city": "Pueblo Nuevo Viñas",
+      "admin_name": "Santa Rosa"
+    },
+    {
+      "city": "Acatenango",
+      "admin_name": "Chimaltenango"
+    },
+    {
+      "city": "Cabricán",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "San Andrés Sajcabajá",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "Santa Bárbara",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "Ciudad Tecún Umán",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "Sipacapa",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "San Luis Jilotepeque",
+      "admin_name": "Jalapa"
+    },
+    {
+      "city": "Santa María Ixhuatán",
+      "admin_name": "Santa Rosa"
+    },
+    {
+      "city": "Samayac",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "Lanquín",
+      "admin_name": "Alta Verapaz"
+    },
+    {
+      "city": "Siquinalá",
+      "admin_name": "Escuintla"
+    },
+    {
+      "city": "La Máquina",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "Casillas",
+      "admin_name": "Santa Rosa"
+    },
+    {
+      "city": "San Juan Atitán",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "San Sebastián Coatán",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "El Quetzal",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "El Progreso",
+      "admin_name": "Jutiapa"
+    },
+    {
+      "city": "Santa Lucia La Reforma",
+      "admin_name": "Totonicapán"
+    },
+    {
+      "city": "La Esperanza",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "Ixchiguán",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "Flores Costa Cuca",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "San Francisco Zapotitlán",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "Tamahú",
+      "admin_name": "Alta Verapaz"
+    },
+    {
+      "city": "Santa Ana",
+      "admin_name": "Petén"
+    },
+    {
+      "city": "Quesada",
+      "admin_name": "Jutiapa"
+    },
+    {
+      "city": "El Tejar",
+      "admin_name": "Chimaltenango"
+    },
+    {
+      "city": "Santa Apolonia",
+      "admin_name": "Chimaltenango"
+    },
+    {
+      "city": "Pajapita",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "La Democracia",
+      "admin_name": "Escuintla"
+    },
+    {
+      "city": "Malacatancito",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "San José Ojetenam",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "San Pablo Jocopilas",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "Guazacapán",
+      "admin_name": "Santa Rosa"
+    },
+    {
+      "city": "Santa Lucía Utatlán",
+      "admin_name": "Sololá"
+    },
+    {
+      "city": "Salcajá",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "Santa Rosa de Lima",
+      "admin_name": "Santa Rosa"
+    },
+    {
+      "city": "Concepción Huista",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "San Antonio Sacatepéquez",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "Concepción Chiquirichapa",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "Palestina de los Altos",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "Parramos",
+      "admin_name": "Chimaltenango"
+    },
+    {
+      "city": "Iztapa",
+      "admin_name": "Escuintla"
+    },
+    {
+      "city": "Teculután",
+      "admin_name": "Zacapa"
+    },
+    {
+      "city": "Atescatempa",
+      "admin_name": "Jutiapa"
+    },
+    {
+      "city": "Cajolá",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "San Antonio Huista",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "San Juan Ermita",
+      "admin_name": "Chiquimula"
+    },
+    {
+      "city": "San Rafael La Independencia",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "San Vicente Pacaya",
+      "admin_name": "Escuintla"
+    },
+    {
+      "city": "San Rafael Pie de la Cuesta",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "Yupiltepeque",
+      "admin_name": "Jutiapa"
+    },
+    {
+      "city": "Sipacate",
+      "admin_name": "Escuintla"
+    },
+    {
+      "city": "San Cristóbal Cucho",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "Santa Cruz Naranjo",
+      "admin_name": "Santa Rosa"
+    },
+    {
+      "city": "Agua Blanca",
+      "admin_name": "Jutiapa"
+    },
+    {
+      "city": "Guanagazapa",
+      "admin_name": "Escuintla"
+    },
+    {
+      "city": "Almolonga",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "San Bernardino",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "Sibinal",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "Chuarrancho",
+      "admin_name": "Guatemala"
+    },
+    {
+      "city": "San Francisco",
+      "admin_name": "Petén"
+    },
+    {
+      "city": "Panajachel",
+      "admin_name": "Sololá"
+    },
+    {
+      "city": "Zunil",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "San Bartolomé Jocotenango",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "San Antonio Palopó",
+      "admin_name": "Sololá"
+    },
+    {
+      "city": "El Chal",
+      "admin_name": "Petén"
+    },
+    {
+      "city": "Huitán",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "Cabañas",
+      "admin_name": "Zacapa"
+    },
+    {
+      "city": "El Rodeo",
+      "admin_name": "Escuintla"
+    },
+    {
+      "city": "Esquipulas Palo Gordo",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "San José Acatempa",
+      "admin_name": "Jutiapa"
+    },
+    {
+      "city": "San Rafael Las Flores",
+      "admin_name": "Santa Rosa"
+    },
+    {
+      "city": "San Rafael Petzal",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Chinique",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "San Jorge",
+      "admin_name": "Zacapa"
+    },
+    {
+      "city": "San Juan La Laguna",
+      "admin_name": "Sololá"
+    },
+    {
+      "city": "San Jacinto",
+      "admin_name": "Chiquimula"
+    },
+    {
+      "city": "Usumatlán",
+      "admin_name": "Zacapa"
+    },
+    {
+      "city": "San Juan Tecuaco",
+      "admin_name": "Santa Rosa"
+    },
+    {
+      "city": "Santo Tomás La Unión",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "Ocós",
+      "admin_name": "San Marcos"
+    },
+    {
+      "city": "Canillá",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "Playa Grande",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "Concepción Las Minas",
+      "admin_name": "Chiquimula"
+    },
+    {
+      "city": "San Miguel Panán",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "San Bartolo",
+      "admin_name": "Totonicapán"
+    },
+    {
+      "city": "Huité",
+      "admin_name": "Zacapa"
+    },
+    {
+      "city": "San José El Ídolo",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "Tectitán",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "San Pedro La Laguna",
+      "admin_name": "Sololá"
+    },
+    {
+      "city": "Moyuta",
+      "admin_name": "Jutiapa"
+    },
+    {
+      "city": "Pasaco",
+      "admin_name": "Jutiapa"
+    },
+    {
+      "city": "Santa Cruz Balanyá",
+      "admin_name": "Chimaltenango"
+    },
+    {
+      "city": "Estanzuela",
+      "admin_name": "Zacapa"
+    },
+    {
+      "city": "Santa Ana Huista",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "San Gaspar Ixchil",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "Zapotitlán",
+      "admin_name": "Jutiapa"
+    },
+    {
+      "city": "Santiago Chimaltenango",
+      "admin_name": "Huehuetenango"
+    },
+    {
+      "city": "El Chol",
+      "admin_name": "Baja Verapaz"
+    },
+    {
+      "city": "Santa Clara La Laguna",
+      "admin_name": "Sololá"
+    },
+    {
+      "city": "Pachalum",
+      "admin_name": "Quiché"
+    },
+    {
+      "city": "San Miguel Sigüilá",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "San Francisco la Unión",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "San Juan Bautista",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "San José La Arada",
+      "admin_name": "Chiquimula"
+    },
+    {
+      "city": "San Manuel Chaparrón",
+      "admin_name": "Jalapa"
+    },
+    {
+      "city": "Sibilia",
+      "admin_name": "Quetzaltenango"
+    },
+    {
+      "city": "Zunilito",
+      "admin_name": "Suchitepéquez"
+    },
+    {
+      "city": "La Libertad",
+      "admin_name": "Petén"
+    }
+  ]
+}

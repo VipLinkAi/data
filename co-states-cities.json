@@ -1,0 +1,2678 @@
+{
+  "ACRONYM_CO": [
+    {
+      "acronym": "AMA",
+      "display": "Amazonas"
+    },
+    {
+      "acronym": "ANT",
+      "display": "Antioquia"
+    },
+    {
+      "acronym": "ARA",
+      "display": "Arauca"
+    },
+    {
+      "acronym": "ATL",
+      "display": "Atlántico"
+    },
+    {
+      "acronym": "BOL",
+      "display": "Bolívar"
+    },
+    {
+      "acronym": "BOY",
+      "display": "Boyacá"
+    },
+    {
+      "acronym": "CAL",
+      "display": "Caldas"
+    },
+    {
+      "acronym": "CAQ",
+      "display": "Caquetá"
+    },
+    {
+      "acronym": "CAS",
+      "display": "Casanare"
+    },
+    {
+      "acronym": "CUN",
+      "display": "Cundinamarca"
+    },
+    {
+      "acronym": "CHO",
+      "display": "Chocó"
+    },
+    {
+      "acronym": "COR",
+      "display": "Córdoba"
+    },
+    {
+      "acronym": "CUN",
+      "display": "Cundinamarca"
+    },
+    {
+      "acronym": "HUI",
+      "display": "Huila"
+    },
+    {
+      "acronym": "MAG",
+      "display": "Magdalena"
+    },
+    {
+      "acronym": "MET",
+      "display": "Meta"
+    },
+    {
+      "acronym": "NAR",
+      "display": "Nariño"
+    },
+    {
+      "acronym": "NSA",
+      "display": "Norte de Santander"
+    },
+    {
+      "acronym": "PUT",
+      "display": "Putumayo"
+    },
+    {
+      "acronym": "QUI",
+      "display": "Quindío"
+    },
+    {
+      "acronym": "RIS",
+      "display": "Risaralda"
+    },
+    {
+      "acronym": "SAN",
+      "display": "Santander"
+    },
+    {
+      "acronym": "SAN",
+      "display": "Sucre"
+    },
+    {
+      "acronym": "TOL",
+      "display": "Tolima"
+    },
+    {
+      "acronym": "VAL",
+      "display": "Valle del Cauca"
+    },
+    {
+      "acronym": "VCH",
+      "display": "Vaupés"
+    },
+    {
+      "acronym": "VIC",
+      "display": "Vichada"
+    }
+  ],
+  "CITIES_CO": [
+    {
+      "city": "Medellín",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Cali",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Barranquilla",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Cartagena",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Bucaramanga",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Cúcuta",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Palermo",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Soledad",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Villavicencio",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Pereira",
+      "admin_name": "Risaralda"
+    },
+    {
+      "city": "Bello",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Ibagué",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Montería",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Soacha",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Santa Marta",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Manizales",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Buenaventura",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Pasto",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Neiva",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Palmira",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Armenia",
+      "admin_name": "Quindío"
+    },
+    {
+      "city": "Floridablanca",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Sincelejo",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Itagüí",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Envigado",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Tuluá",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Tumaco",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Barrancabermeja",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Zipaquirá",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Florencia",
+      "admin_name": "Caquetá"
+    },
+    {
+      "city": "Turbo",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Dosquebradas",
+      "admin_name": "Risaralda"
+    },
+    {
+      "city": "Fusagasugá",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Ipiales",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Tunja",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Girón",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Piedecuesta",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Facatativá",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Cartago",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Malambo",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Rionegro",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Pitalito",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Quibdó",
+      "admin_name": "Chocó"
+    },
+    {
+      "city": "Jamundí",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Girardot",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Ciénaga",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Guadalajara de Buga",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Mosquera",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Duitama",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Chía",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Magangué",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Apartadó",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Ocaña",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Sogamoso",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Turbaco",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Madrid",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Yopal",
+      "admin_name": "Casanare"
+    },
+    {
+      "city": "Sabanalarga",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Arauca",
+      "admin_name": "Arauca"
+    },
+    {
+      "city": "Candelaria",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Yumbo",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Cereté",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Los Patios",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Funza",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Fundación",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Sahagún",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Caucasia",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Montelíbano",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Caldas",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Chiquinquirá",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Sabanalarga",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Chigorodó",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Sabaneta",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Tierralta",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Espinal",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Arjona",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Acacías",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Copacabana",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Santa Rosa de Cabal",
+      "admin_name": "Risaralda"
+    },
+    {
+      "city": "San Vicente del Caguán",
+      "admin_name": "Caquetá"
+    },
+    {
+      "city": "La Dorada",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Turbaná",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "El Banco",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Calarcá",
+      "admin_name": "Quindío"
+    },
+    {
+      "city": "La Estrella",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Corozal",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Villa del Rosario",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Garzón",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Planeta Rica",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Necoclí",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "El Carmen de Bolívar",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "La Ceja",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Marinilla",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Ciénaga de Oro",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Puerto Asís",
+      "admin_name": "Putumayo"
+    },
+    {
+      "city": "Carmen de Viboral",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Riosucio",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Plato",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "La Plata",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Villamaría",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Galapa",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "San Marcos",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Florida",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Pradera",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Orito",
+      "admin_name": "Putumayo"
+    },
+    {
+      "city": "Riosucio",
+      "admin_name": "Chocó"
+    },
+    {
+      "city": "Puerto Boyacá",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "El Cerrito",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Mocoa",
+      "admin_name": "Putumayo"
+    },
+    {
+      "city": "Saravena",
+      "admin_name": "Arauca"
+    },
+    {
+      "city": "Valle del Guamuez",
+      "admin_name": "Putumayo"
+    },
+    {
+      "city": "Cajicá",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Puerto Libertador",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Tame",
+      "admin_name": "Arauca"
+    },
+    {
+      "city": "Barbosa",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Lorica",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "San Onofre",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "San Gil",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "El Bagre",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Baranoa",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Girardota",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Guarne",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Chinchiná",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Chinú",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Pamplona",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Cimitarra",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "María la Baja",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Samaniego",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Carepa",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Chaparral",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "San Andrés de Sotavento",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Ayapel",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Urrao",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Zarzal",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Valencia",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Ortega",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "San Pelayo",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Arboletes",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Villeta",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Andes",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Aguazul",
+      "admin_name": "Casanare"
+    },
+    {
+      "city": "Cumaribo",
+      "admin_name": "Vichada"
+    },
+    {
+      "city": "Puerto Colombia",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "El Charco",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Cáceres",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Santa Rosa del Sur",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Montenegro",
+      "admin_name": "Quindío"
+    },
+    {
+      "city": "Pueblo Nuevo",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Yarumal",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Puerto Gaitán",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Tuchín",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Arauquita",
+      "admin_name": "Arauca"
+    },
+    {
+      "city": "Túquerres",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Sevilla",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Guaduas",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Segovia",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Pie de Pató",
+      "admin_name": "Chocó"
+    },
+    {
+      "city": "Cumbal",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Aracataca",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "La Unión",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Acevedo",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Líbano",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Villa de San Diego de Ubaté",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "La Tebaida",
+      "admin_name": "Quindío"
+    },
+    {
+      "city": "Puerto Berrío",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Tarazá",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Barbacoas",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Ábrego",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Sibaté",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Sampués",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "San Sebastián de Mariquita",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Santa Rosa de Osos",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Tibú",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Melgar",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Dagua",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "La Macarena",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Anserma",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Sonsón",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Tocancipá",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "San Pablo",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "San Bernardo del Viento",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Santiago de Tolú",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Guacarí",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Gigante",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Cartagena del Chairá",
+      "admin_name": "Caquetá"
+    },
+    {
+      "city": "Santuario",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Yarumal",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Quimbaya",
+      "admin_name": "Quindío"
+    },
+    {
+      "city": "Puerto López",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "San Luis de Sincé",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Campoalegre",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "San Agustín",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "San Juan Nepomuceno",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Majagual",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Quinchía",
+      "admin_name": "Risaralda"
+    },
+    {
+      "city": "Puerto Rico",
+      "admin_name": "Caquetá"
+    },
+    {
+      "city": "Roldanillo",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "San Antero",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Leticia",
+      "admin_name": "Amazonas"
+    },
+    {
+      "city": "Sabanagrande",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Pivijay",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Puebloviejo",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Bocas de Satinga",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Puerto Escondido",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "La Mesa",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Cota",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "El Difícil",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "La Virginia",
+      "admin_name": "Risaralda"
+    },
+    {
+      "city": "San Pedro de Urabá",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Remedios",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Santo Tomás",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Paipa",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Guachavés",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Sitionuevo",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Puerto Wilches",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Neira",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Guamo",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Socorro",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Amagá",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Planadas",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Fresno",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Tabio",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Barbosa",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Purificación",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Flandes",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Aipe",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Sopó",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Moñitos",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "La Dorada",
+      "admin_name": "Putumayo"
+    },
+    {
+      "city": "La Calera",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Caicedonia",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "San Carlos",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Isnos",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Puerto Leguízamo",
+      "admin_name": "Putumayo"
+    },
+    {
+      "city": "Coyaima",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Mitú",
+      "admin_name": "Vaupés"
+    },
+    {
+      "city": "Guamal",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "San Vicente de Chucurí",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Pacho",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Palmar de Varela",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Supía",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Ciudad Bolívar",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Tauramena",
+      "admin_name": "Casanare"
+    },
+    {
+      "city": "San Juan de Urabá",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Fortul",
+      "admin_name": "Arauca"
+    },
+    {
+      "city": "Los Córdobas",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Circasia",
+      "admin_name": "Quindío"
+    },
+    {
+      "city": "San Benito Abad",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Pensilvania",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Paz de Ariporo",
+      "admin_name": "Casanare"
+    },
+    {
+      "city": "Buesaco",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Mahates",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Istmina",
+      "admin_name": "Chocó"
+    },
+    {
+      "city": "Santa Ana",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "San Martín",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Nechí",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Yolombó",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Solano",
+      "admin_name": "Caquetá"
+    },
+    {
+      "city": "Vistahermosa",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "San José",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Belén de Umbría",
+      "admin_name": "Risaralda"
+    },
+    {
+      "city": "La Unión",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Chocontá",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Sandoná",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Pinillos",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Villanueva",
+      "admin_name": "Casanare"
+    },
+    {
+      "city": "Algeciras",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Santa Rosa",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Calamar",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Valdivia",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Puerto Guzmán",
+      "admin_name": "Putumayo"
+    },
+    {
+      "city": "Donmatías",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Rioblanco",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Marsella",
+      "admin_name": "Risaralda"
+    },
+    {
+      "city": "Cogua",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Zaragoza",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "El Zulia",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Honda",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Ituango",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Villanueva",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Canalete",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Teorama",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "San José",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Puerto Concordia",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Achí",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Dabeiba",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Luruaco",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Rivera",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Guadalupe",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Ataco",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Amalfi",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Buenavista",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Manzanares",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Santa Fe de Antioquia",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Sardinata",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Sabana de Torres",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Mutatá",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Sucre",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Natagaima",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "El Doncello",
+      "admin_name": "Caquetá"
+    },
+    {
+      "city": "El Colegio",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Repelón",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Tiquisio",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Silvania",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Taminango",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Villa de Leyva",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Los Palmitos",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Ginebra",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Puerto Triunfo",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "San Jacinto",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Nueva Granada",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Galeras",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Villagarzón",
+      "admin_name": "Putumayo"
+    },
+    {
+      "city": "San Bernardo",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "El Paujíl",
+      "admin_name": "Caquetá"
+    },
+    {
+      "city": "Santa Bárbara",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Cumaral",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Aguadas",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Montecristo",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Suaza",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Villapinzón",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Fredonia",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "El Retén",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Bugalagrande",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Sotomayor",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Moniquirá",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Ovejas",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Samacá",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Timaná",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "San Lorenzo",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Simití",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Concordia",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Tenjo",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Rovira",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Frontino",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Tolú Viejo",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Málaga",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Venadillo",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Ansermanuevo",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Polonuevo",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "La Unión",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "El Rosal",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Tadó",
+      "admin_name": "Chocó"
+    },
+    {
+      "city": "San Sebastián de Buenavista",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Anzoátegui",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Guachucal",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Vélez",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Tocaima",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Salamina",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Morales",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Pizarro",
+      "admin_name": "Chocó"
+    },
+    {
+      "city": "Ponedera",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Campo de la Cruz",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Buenavista",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Trujillo",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Andalucía",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "San Pedro",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Convención",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Ricaurte",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "San Vicente",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "San Pedro",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Salgar",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "El Carmen de Chucurí",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "La Primavera",
+      "admin_name": "Vichada"
+    },
+    {
+      "city": "Restrepo",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Abejorral",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Yondó",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Mistrató",
+      "admin_name": "Risaralda"
+    },
+    {
+      "city": "Puerto Guzmán",
+      "admin_name": "Putumayo"
+    },
+    {
+      "city": "Samaná",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Guaranda",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Suesca",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Betulia",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Cajamarca",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Tíogollo",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Toledo",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Lérida",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Cáqueza",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Gachancipá",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Retiro",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Garagoa",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "San Roque",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Puerto Carreño",
+      "admin_name": "Vichada"
+    },
+    {
+      "city": "El Piñón",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "La Cruz",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "San Estanislao",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Anorí",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Pupiales",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Toro",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Chinácota",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Nobsa",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Momil",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Yotoco",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Restrepo",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "El Peñol",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Cotorra",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Subachoque",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Tarqui",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Aquitania",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Darién",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Chivolo",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Pijiño del Carmen",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Guasca",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "La Montañita",
+      "admin_name": "Caquetá"
+    },
+    {
+      "city": "Ventaquemada",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Landázuri",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Támesis",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "La Apartada",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Puerto Salgar",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Obando",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Monterrey",
+      "admin_name": "Casanare"
+    },
+    {
+      "city": "Cocorná",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Riofrío",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Purísima de la Concepción",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Condoto",
+      "admin_name": "Chocó"
+    },
+    {
+      "city": "Cómbita",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Anapoima",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "San Martín de Loba",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "San Carlos",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Sopetrán",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Barranco de Loba",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Morroa",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "San Antonio",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Saldaña",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Tenerife",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Algarrobo",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Algarrobo",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Juan de Acosta",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Sibundoy",
+      "admin_name": "Putumayo"
+    },
+    {
+      "city": "Titiribí",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Tibasosa",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "El Carmen de Atrato",
+      "admin_name": "Chocó"
+    },
+    {
+      "city": "Santa Catalina",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Córdoba",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Bolívar",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Sesquilé",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Guamal",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Clemencia",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Jardín",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Palmito",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Altos del Rosario",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Castilla La Nueva",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Cañasgordas",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Ráquira",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Palestina",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Chimá",
+      "admin_name": "Córdoba"
+    },
+    {
+      "city": "Nemocón",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Manatí",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "San Juan de Betulia",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "San Jacinto del Cauca",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Maní",
+      "admin_name": "Casanare"
+    },
+    {
+      "city": "El Tablón",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "La Victoria",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Pácora",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Bagadó",
+      "admin_name": "Chocó"
+    },
+    {
+      "city": "San Jerónimo",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Cicuco",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "La Vega",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "San Antonio del Tequendama",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Simijaca",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "San Pablo",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Anolaima",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Ricaurte",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Santuario",
+      "admin_name": "Risaralda"
+    },
+    {
+      "city": "Alcalá",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Apía",
+      "admin_name": "Risaralda"
+    },
+    {
+      "city": "Santa Bárbara de Pinto",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Viotá",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "San Rafael",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "La Argentina",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "El Tambo",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Los Santos",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Viterbo",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Guática",
+      "admin_name": "Risaralda"
+    },
+    {
+      "city": "Pueblo Rico",
+      "admin_name": "Risaralda"
+    },
+    {
+      "city": "Chachagüí",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Saboyá",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "San Antonio",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Susa",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Arbeláez",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Hatillo de Loba",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Córdoba",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Pital",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Fómeque",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Unguía",
+      "admin_name": "Chocó"
+    },
+    {
+      "city": "Pasca",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Puerto Nare",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Ebéjico",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Marquetalia",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Jericó",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Acandí",
+      "admin_name": "Chocó"
+    },
+    {
+      "city": "Caimito",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Filandia",
+      "admin_name": "Quindío"
+    },
+    {
+      "city": "Curití",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Oiba",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "El Carmen",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Trinidad",
+      "admin_name": "Casanare"
+    },
+    {
+      "city": "Puente Nacional",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Candelaria",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Fuente de Oro",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Santa Lucía",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Santa Genoveva de Docordó",
+      "admin_name": "Chocó"
+    },
+    {
+      "city": "La Unión",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Cisneros",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "San Carlos de Guaroa",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Valdivia",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Guayabal",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Puerto Rico",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Hato Corozal",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Guachetá",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Zambrano",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "San José del Fragua",
+      "admin_name": "Caquetá"
+    },
+    {
+      "city": "Talaigua Nuevo",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Santa Rosa de Viterbo",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Coveñas",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "El Playón",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Lloró",
+      "admin_name": "Chocó"
+    },
+    {
+      "city": "Puerto Caicedo",
+      "admin_name": "Putumayo"
+    },
+    {
+      "city": "Oporapa",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Gachetá",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Belén de los Andaquíes",
+      "admin_name": "Caquetá"
+    },
+    {
+      "city": "El Águila",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "La Esperanza",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "La Palma",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Vijes",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Agua de Dios",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Cáchira",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Tarrá",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "El Tarra",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Yacopí",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Mogotes",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Buenavista",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "Icononzo",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Guaitarilla",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Santo Domingo",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Choachí",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Ubalá",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Villahermosa",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Tubará",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Yacuanquer",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Lejanías",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Chitagá",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Angostura",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Regidor",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Palestina",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Úmbita",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Caparrapí",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Venecia",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Tello",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Lenguazaque",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Puerto Santander",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Santa María",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Charalá",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Medina",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Mosquera",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Potosí",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Toca",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Génova",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Granada",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Saladoblanco",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Ramiriquí",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Suaita",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "El Cairo",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Vegachí",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "San Calixto",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Bellavista",
+      "admin_name": "Chocó"
+    },
+    {
+      "city": "Arroyohondo",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Coello",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Margarita",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Aranzazu",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Norosí",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Cachipay",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Socotá",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Sasaima",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "El Roble",
+      "admin_name": "Sucre"
+    },
+    {
+      "city": "San Fernando",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "San Fernando",
+      "admin_name": "Bolívar"
+    },
+    {
+      "city": "Tesalia",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Mesetas",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Hacarí",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Puerto Nariño",
+      "admin_name": "Amazonas"
+    },
+    {
+      "city": "Belalcázar",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Concordia",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Tuta",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Filadelfia",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Guateque",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Bolívar",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Cunday",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Chita",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Mutis",
+      "admin_name": "Chocó"
+    },
+    {
+      "city": "Suan",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Pesca",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Betania",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Sucre",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Bojacá",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Risaralda",
+      "admin_name": "Caldas"
+    },
+    {
+      "city": "Granada",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Falan",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Une",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Tibaná",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Solita",
+      "admin_name": "Caquetá"
+    },
+    {
+      "city": "Guatapé",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Palocabildo",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Carmen de Carupa",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "San Zenón",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "Consacá",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Campamento",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Íquira",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "La Florida",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Iscuandé",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Arboledas",
+      "admin_name": "Norte de Santander"
+    },
+    {
+      "city": "Puerto Lleras",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Linares",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Siachoque",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "Nuquí",
+      "admin_name": "Chocó"
+    },
+    {
+      "city": "Yaguará",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Angelópolis",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Tena",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Nunchía",
+      "admin_name": "Casanare"
+    },
+    {
+      "city": "Argelia",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Carmen de Apicalá",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Teruel",
+      "admin_name": "Huila"
+    },
+    {
+      "city": "Alvarado",
+      "admin_name": "Tolima"
+    },
+    {
+      "city": "Ospina",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Entrerríos",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Tausa",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Zapatoca",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Buenavista",
+      "admin_name": "Magdalena"
+    },
+    {
+      "city": "San Juan de Arama",
+      "admin_name": "Meta"
+    },
+    {
+      "city": "Carlosama",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Junín",
+      "admin_name": "Cundinamarca"
+    },
+    {
+      "city": "Iles",
+      "admin_name": "Nariño"
+    },
+    {
+      "city": "Briceño",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Nariño",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "La Belleza",
+      "admin_name": "Santander"
+    },
+    {
+      "city": "Yalí",
+      "admin_name": "Antioquia"
+    },
+    {
+      "city": "Usiacurí",
+      "admin_name": "Atlántico"
+    },
+    {
+      "city": "Muzo",
+      "admin_name": "Boyacá"
+    },
+    {
+      "city": "El Dovio",
+      "admin_name": "Valle del Cauca"
+    },
+    {
+      "city": "Orocué",
+      "admin_name": "Casanare"
+    },
+    {
+      "city": "Juradó",
+      "admin_name": "Chocó"
+    }
+  ]
+}

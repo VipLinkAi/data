@@ -1,0 +1,1250 @@
+{
+  "ACRONYM_ID": [
+    {
+      "acronym": "AC",
+      "display": "Aceh"
+    },
+    {
+      "acronym": "BB",
+      "display": "Bali"
+    },
+    {
+      "acronym": "BT",
+      "display": "Banten"
+    },
+    {
+      "acronym": "BG",
+      "display": "Bengkulu"
+    },
+    {
+      "acronym": "GO",
+      "display": "Gorontalo"
+    },
+    {
+      "acronym": "JK",
+      "display": "Jakarta"
+    },
+    {
+      "acronym": "JB",
+      "display": "Jambi"
+    },
+    {
+      "acronym": "JI",
+      "display": "Jawa Barat"
+    },
+    {
+      "acronym": "JT",
+      "display": "Jawa Tengah"
+    },
+    {
+      "acronym": "YO",
+      "display": "Yogyakarta"
+    },
+    {
+      "acronym": "JI",
+      "display": "Jawa Timur"
+    },
+    {
+      "acronym": "KB",
+      "display": "Kalimantan Barat"
+    },
+    {
+      "acronym": "KS",
+      "display": "Kalimantan Selatan"
+    },
+    {
+      "acronym": "KT",
+      "display": "Kalimantan Tengah"
+    },
+    {
+      "acronym": "KI",
+      "display": "Kalimantan Timur"
+    },
+    {
+      "acronym": "KA",
+      "display": "Kepulauan Bangka Belitung"
+    },
+    {
+      "acronym": "KR",
+      "display": "Kepulauan Riau"
+    },
+    {
+      "acronym": "LA",
+      "display": "Lampung"
+    },
+    {
+      "acronym": "MA",
+      "display": "Maluku"
+    },
+    {
+      "acronym": "MU",
+      "display": "Maluku Utara"
+    },
+    {
+      "acronym": "NT",
+      "display": "Nusa Tenggara Barat"
+    },
+    {
+      "acronym": "NTT",
+      "display": "Nusa Tenggara Timur"
+    },
+    {
+      "acronym": "PA",
+      "display": "Papua"
+    },
+    {
+      "acronym": "PB",
+      "display": "Papua Barat"
+    },
+    {
+      "acronym": "RI",
+      "display": "Riau"
+    },
+    {
+      "acronym": "SR",
+      "display": "Sulawesi Barat"
+    },
+    {
+      "acronym": "SN",
+      "display": "Sulawesi Selatan"
+    },
+    {
+      "acronym": "ST",
+      "display": "Sulawesi Tengah"
+    },
+    {
+      "acronym": "SG",
+      "display": "Sulawesi Utara"
+    },
+    {
+      "acronym": "SB",
+      "display": "Sumatera Barat"
+    },
+    {
+      "acronym": "SS",
+      "display": "Sumatera Selatan"
+    },
+    {
+      "acronym": "SU",
+      "display": "Sumatera Utara"
+    }
+  ],
+  "CITIES_ID": [
+    {
+      "city": "Jakarta",
+      "admin_name": "Jakarta"
+    },
+    {
+      "city": "Surabaya",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Medan",
+      "admin_name": "Sumatera Utara"
+    },
+    {
+      "city": "Malang",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Bekasi",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Bekasi Kota",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Tangerang",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Depok",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Semarang",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Palembang",
+      "admin_name": "Sumatera Selatan"
+    },
+    {
+      "city": "Sangereng",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Makassar",
+      "admin_name": "Sulawesi Selatan"
+    },
+    {
+      "city": "Bagam",
+      "admin_name": "Kepulauan Riau"
+    },
+    {
+      "city": "Sumedang",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Batam Centre",
+      "admin_name": "Kepulauan Riau"
+    },
+    {
+      "city": "Cilacap",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Bandar Lampung",
+      "admin_name": "Lampung"
+    },
+    {
+      "city": "Bogor",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Pekanbaru",
+      "admin_name": "Riau"
+    },
+    {
+      "city": "Padang",
+      "admin_name": "Sumatera Barat"
+    },
+    {
+      "city": "Denpasar",
+      "admin_name": "Bali"
+    },
+    {
+      "city": "Samarinda",
+      "admin_name": "Kalimantan Timur"
+    },
+    {
+      "city": "Tasikmalaya",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Banjarmasin",
+      "admin_name": "Kalimantan Selatan"
+    },
+    {
+      "city": "Jambi",
+      "admin_name": "Jambi"
+    },
+    {
+      "city": "Pontianak",
+      "admin_name": "Kalimantan Barat"
+    },
+    {
+      "city": "Serang",
+      "admin_name": "Banten"
+    },
+    {
+      "city": "Balikpapan",
+      "admin_name": "Kalimantan Timur"
+    },
+    {
+      "city": "Cimahi",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Surakarta",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Lembok",
+      "admin_name": "Nusa Tenggara Barat"
+    },
+    {
+      "city": "Kupang",
+      "admin_name": "Nusa Tenggara Timur"
+    },
+    {
+      "city": "Manado Light",
+      "admin_name": "Sulawesi Utara"
+    },
+    {
+      "city": "Manado",
+      "admin_name": "Sulawesi Utara"
+    },
+    {
+      "city": "Bandung",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Yogyakarta",
+      "admin_name": "Yogyakarta"
+    },
+    {
+      "city": "Jayapura",
+      "admin_name": "Papua"
+    },
+    {
+      "city": "Mataram",
+      "admin_name": "Nusa Tenggara Barat"
+    },
+    {
+      "city": "Cilegon",
+      "admin_name": "Banten"
+    },
+    {
+      "city": "Palu",
+      "admin_name": "Sulawesi Tengah"
+    },
+    {
+      "city": "Cibinong",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Bengkulu",
+      "admin_name": "Bengkulu"
+    },
+    {
+      "city": "Ambon",
+      "admin_name": "Maluku"
+    },
+    {
+      "city": "Dumai",
+      "admin_name": "Riau"
+    },
+    {
+      "city": "Cimanggis",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Sukabumi",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Karawang",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Binjai",
+      "admin_name": "Sumatera Utara"
+    },
+    {
+      "city": "Jember",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Pekalongan",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Cirebon",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Sorong",
+      "admin_name": "Papua Barat"
+    },
+    {
+      "city": "Pondokaren",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Tegal",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Mamuju",
+      "admin_name": "Sulawesi Barat"
+    },
+    {
+      "city": "Pematangsiantar",
+      "admin_name": "Sumatera Utara"
+    },
+    {
+      "city": "Pasarkemis",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Majene",
+      "admin_name": "Sulawesi Barat"
+    },
+    {
+      "city": "Kediri",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Palangkaraya",
+      "admin_name": "Kalimantan Tengah"
+    },
+    {
+      "city": "Banda Aceh",
+      "admin_name": "Aceh"
+    },
+    {
+      "city": "Purwokerto",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Singkawang",
+      "admin_name": "Kalimantan Barat"
+    },
+    {
+      "city": "Padangsidempuan",
+      "admin_name": "Sumatera Utara"
+    },
+    {
+      "city": "Cikupa",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Probolinggo",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Beji",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Pangkalpinang",
+      "admin_name": "Kepulauan Bangka Belitung"
+    },
+    {
+      "city": "Bitung",
+      "admin_name": "Sulawesi Utara"
+    },
+    {
+      "city": "Batu",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Banjarbaru",
+      "admin_name": "Kalimantan Selatan"
+    },
+    {
+      "city": "Ciputat",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Lubuklinggau",
+      "admin_name": "Sumatera Selatan"
+    },
+    {
+      "city": "Banjar",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Ternate",
+      "admin_name": "Maluku Utara"
+    },
+    {
+      "city": "Tanjungpinang",
+      "admin_name": "Kepulauan Riau"
+    },
+    {
+      "city": "Madiun",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Martapura",
+      "admin_name": "Kalimantan Selatan"
+    },
+    {
+      "city": "Gorontalo",
+      "admin_name": "Gorontalo"
+    },
+    {
+      "city": "Prabumulih",
+      "admin_name": "Sumatera Selatan"
+    },
+    {
+      "city": "Pasuruan",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Padalarang",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Pinrang",
+      "admin_name": "Sulawesi Selatan"
+    },
+    {
+      "city": "Lhokseumawe",
+      "admin_name": "Aceh"
+    },
+    {
+      "city": "Palopo",
+      "admin_name": "Sulawesi Selatan"
+    },
+    {
+      "city": "Petarukan",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Singosari",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Tanjungbalai",
+      "admin_name": "Sumatera Utara"
+    },
+    {
+      "city": "Purwakarta",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Langsa",
+      "admin_name": "Aceh"
+    },
+    {
+      "city": "Tebingtinggi",
+      "admin_name": "Sumatera Utara"
+    },
+    {
+      "city": "Cianjur",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Rantau Prapat",
+      "admin_name": "Sumatera Utara"
+    },
+    {
+      "city": "Salatiga",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Curug",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Metro",
+      "admin_name": "Lampung"
+    },
+    {
+      "city": "Sampit",
+      "admin_name": "Kalimantan Tengah"
+    },
+    {
+      "city": "Sawangan",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Ungaran",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Bontang",
+      "admin_name": "Kalimantan Timur"
+    },
+    {
+      "city": "Bima",
+      "admin_name": "Nusa Tenggara Barat"
+    },
+    {
+      "city": "Tigaraksa",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Singaraja",
+      "admin_name": "Bali"
+    },
+    {
+      "city": "Saumlaki",
+      "admin_name": "Maluku"
+    },
+    {
+      "city": "Pageralam",
+      "admin_name": "Sumatera Selatan"
+    },
+    {
+      "city": "Kisaran",
+      "admin_name": "Sumatera Utara"
+    },
+    {
+      "city": "Cinere",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Subang",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Teluknaga",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Gunungsitoli",
+      "admin_name": "Sumatera Utara"
+    },
+    {
+      "city": "Rangkasbitung",
+      "admin_name": "Banten"
+    },
+    {
+      "city": "Batang",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Gubeng",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Adonara",
+      "admin_name": "Nusa Tenggara Timur"
+    },
+    {
+      "city": "Blitar",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Mojokerto",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Parepare",
+      "admin_name": "Sulawesi Selatan"
+    },
+    {
+      "city": "Garut",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Payakumbuh",
+      "admin_name": "Sumatera Barat"
+    },
+    {
+      "city": "Magelang",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Leuwiliang",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Paleng",
+      "admin_name": "Sulawesi Tengah"
+    },
+    {
+      "city": "Pati",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Indramayu",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Kotamobagu",
+      "admin_name": "Sulawesi Utara"
+    },
+    {
+      "city": "Pelabuhanratu",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Soasio",
+      "admin_name": "Maluku Utara"
+    },
+    {
+      "city": "Banyuwangi",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Soreang",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Tarogong",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Rawajaya",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Rawasari",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Kuningan",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Bukittinggi",
+      "admin_name": "Sumatera Barat"
+    },
+    {
+      "city": "Baleraja",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Manokwari",
+      "admin_name": "Papua Barat"
+    },
+    {
+      "city": "Tenggarong",
+      "admin_name": "Kalimantan Timur"
+    },
+    {
+      "city": "Raba",
+      "admin_name": "Nusa Tenggara Barat"
+    },
+    {
+      "city": "Biak",
+      "admin_name": "Papua"
+    },
+    {
+      "city": "Tanjungpandan",
+      "admin_name": "Kepulauan Bangka Belitung"
+    },
+    {
+      "city": "Sungai Penuh",
+      "admin_name": "Jambi"
+    },
+    {
+      "city": "Sungailiat",
+      "admin_name": "Kepulauan Bangka Belitung"
+    },
+    {
+      "city": "Ciamis",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Sumber",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Tomohon",
+      "admin_name": "Sulawesi Utara"
+    },
+    {
+      "city": "Sibolga",
+      "admin_name": "Sumatera Utara"
+    },
+    {
+      "city": "Simeulu",
+      "admin_name": "Aceh"
+    },
+    {
+      "city": "Lawang",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Tual",
+      "admin_name": "Maluku"
+    },
+    {
+      "city": "Tatakan",
+      "admin_name": "Banten"
+    },
+    {
+      "city": "Sepatan",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Cisauk",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Pamekasan",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Maumere",
+      "admin_name": "Nusa Tenggara Timur"
+    },
+    {
+      "city": "Ende",
+      "admin_name": "Nusa Tenggara Timur"
+    },
+    {
+      "city": "Karanganyar",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Bangkalan",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Pariaman",
+      "admin_name": "Sumatera Barat"
+    },
+    {
+      "city": "Sumenep",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Atambua",
+      "admin_name": "Nusa Tenggara Timur"
+    },
+    {
+      "city": "Jepara",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Watampone",
+      "admin_name": "Sulawesi Selatan"
+    },
+    {
+      "city": "Subulussalam",
+      "admin_name": "Aceh"
+    },
+    {
+      "city": "Toboali",
+      "admin_name": "Kepulauan Bangka Belitung"
+    },
+    {
+      "city": "Mandiraja Kulon",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Tuban",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Solok",
+      "admin_name": "Sumatera Barat"
+    },
+    {
+      "city": "Sentani",
+      "admin_name": "Papua"
+    },
+    {
+      "city": "Ubud",
+      "admin_name": "Bali"
+    },
+    {
+      "city": "Majalengka",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Bagan Si Api-api",
+      "admin_name": "Riau"
+    },
+    {
+      "city": "Waingapu",
+      "admin_name": "Nusa Tenggara Timur"
+    },
+    {
+      "city": "Kampung Tengah",
+      "admin_name": "Riau"
+    },
+    {
+      "city": "Bengkalis",
+      "admin_name": "Riau"
+    },
+    {
+      "city": "Lahat",
+      "admin_name": "Sumatera Selatan"
+    },
+    {
+      "city": "Singaparna",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Sumbawa Besar",
+      "admin_name": "Nusa Tenggara Barat"
+    },
+    {
+      "city": "Meulaboh",
+      "admin_name": "Aceh"
+    },
+    {
+      "city": "Ambarawa",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Sawahlunto",
+      "admin_name": "Sumatera Barat"
+    },
+    {
+      "city": "Kresek",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Bebandem",
+      "admin_name": "Bali"
+    },
+    {
+      "city": "Barabai",
+      "admin_name": "Kalimantan Selatan"
+    },
+    {
+      "city": "Kuala Kapuas",
+      "admin_name": "Kalimantan Tengah"
+    },
+    {
+      "city": "Taliwang",
+      "admin_name": "Nusa Tenggara Barat"
+    },
+    {
+      "city": "Kronjo",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Dompu",
+      "admin_name": "Nusa Tenggara Barat"
+    },
+    {
+      "city": "Karak",
+      "admin_name": "Riau"
+    },
+    {
+      "city": "Padangpanjang",
+      "admin_name": "Sumatera Barat"
+    },
+    {
+      "city": "Menggala",
+      "admin_name": "Lampung"
+    },
+    {
+      "city": "Gombong",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Kandangan",
+      "admin_name": "Kalimantan Selatan"
+    },
+    {
+      "city": "Kefamenanu",
+      "admin_name": "Nusa Tenggara Timur"
+    },
+    {
+      "city": "Tunglangan",
+      "admin_name": "Bali"
+    },
+    {
+      "city": "Berastagi",
+      "admin_name": "Sumatera Utara"
+    },
+    {
+      "city": "Luwuk",
+      "admin_name": "Sulawesi Tengah"
+    },
+    {
+      "city": "Amahai",
+      "admin_name": "Maluku"
+    },
+    {
+      "city": "Poso",
+      "admin_name": "Sulawesi Tengah"
+    },
+    {
+      "city": "Muara Teweh",
+      "admin_name": "Kalimantan Tengah"
+    },
+    {
+      "city": "Parigi",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Barru",
+      "admin_name": "Sulawesi Selatan"
+    },
+    {
+      "city": "Pemangkat",
+      "admin_name": "Kalimantan Barat"
+    },
+    {
+      "city": "Kaimana",
+      "admin_name": "Papua Barat"
+    },
+    {
+      "city": "Lubuk Sikaping",
+      "admin_name": "Sumatera Barat"
+    },
+    {
+      "city": "Cimerak",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Rantepao",
+      "admin_name": "Sulawesi Selatan"
+    },
+    {
+      "city": "Kotabumi",
+      "admin_name": "Lampung"
+    },
+    {
+      "city": "Larantuka",
+      "admin_name": "Nusa Tenggara Timur"
+    },
+    {
+      "city": "Amuntai",
+      "admin_name": "Kalimantan Selatan"
+    },
+    {
+      "city": "Ruteng",
+      "admin_name": "Nusa Tenggara Timur"
+    },
+    {
+      "city": "Betun",
+      "admin_name": "Nusa Tenggara Timur"
+    },
+    {
+      "city": "Soe",
+      "admin_name": "Nusa Tenggara Timur"
+    },
+    {
+      "city": "Kualaserba",
+      "admin_name": "Aceh"
+    },
+    {
+      "city": "Ampana",
+      "admin_name": "Sulawesi Tengah"
+    },
+    {
+      "city": "Leramatang",
+      "admin_name": "Nusa Tenggara Timur"
+    },
+    {
+      "city": "Jambe",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Masamba",
+      "admin_name": "Sulawesi Selatan"
+    },
+    {
+      "city": "Manggar",
+      "admin_name": "Kepulauan Bangka Belitung"
+    },
+    {
+      "city": "Cakung",
+      "admin_name": "Jakarta"
+    },
+    {
+      "city": "Sabang",
+      "admin_name": "Aceh"
+    },
+    {
+      "city": "Mantingan",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Namlea",
+      "admin_name": "Maluku"
+    },
+    {
+      "city": "Bangkinang",
+      "admin_name": "Riau"
+    },
+    {
+      "city": "Bayur",
+      "admin_name": "Sumatera Barat"
+    },
+    {
+      "city": "Pande",
+      "admin_name": "Bali"
+    },
+    {
+      "city": "Saparua",
+      "admin_name": "Maluku"
+    },
+    {
+      "city": "Tambolaka",
+      "admin_name": "Nusa Tenggara Timur"
+    },
+    {
+      "city": "Sungaiselam",
+      "admin_name": "Kepulauan Bangka Belitung"
+    },
+    {
+      "city": "Tahuna",
+      "admin_name": "Sulawesi Utara"
+    },
+    {
+      "city": "Praya",
+      "admin_name": "Nusa Tenggara Barat"
+    },
+    {
+      "city": "Pangururan",
+      "admin_name": "Sumatera Utara"
+    },
+    {
+      "city": "Tobelo",
+      "admin_name": "Maluku Utara"
+    },
+    {
+      "city": "Waikabubak",
+      "admin_name": "Nusa Tenggara Timur"
+    },
+    {
+      "city": "Sanana",
+      "admin_name": "Maluku Utara"
+    },
+    {
+      "city": "Airmadidi",
+      "admin_name": "Sulawesi Utara"
+    },
+    {
+      "city": "Kulat",
+      "admin_name": "Bali"
+    },
+    {
+      "city": "Ranai",
+      "admin_name": "Kepulauan Riau"
+    },
+    {
+      "city": "Rappang",
+      "admin_name": "Sulawesi Selatan"
+    },
+    {
+      "city": "Bungku",
+      "admin_name": "Sulawesi Tengah"
+    },
+    {
+      "city": "Tegalbuleud",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Bintuni",
+      "admin_name": "Papua Barat"
+    },
+    {
+      "city": "Tapaktuan",
+      "admin_name": "Aceh"
+    },
+    {
+      "city": "Blangmangat",
+      "admin_name": "Aceh"
+    },
+    {
+      "city": "Puruk Cahu",
+      "admin_name": "Kalimantan Tengah"
+    },
+    {
+      "city": "Kuala Pembuang",
+      "admin_name": "Kalimantan Tengah"
+    },
+    {
+      "city": "Teminabuan",
+      "admin_name": "Papua Barat"
+    },
+    {
+      "city": "Fakfak",
+      "admin_name": "Papua Barat"
+    },
+    {
+      "city": "Kalabahi",
+      "admin_name": "Nusa Tenggara Timur"
+    },
+    {
+      "city": "Kasongan",
+      "admin_name": "Kalimantan Tengah"
+    },
+    {
+      "city": "Kolonodale",
+      "admin_name": "Sulawesi Tengah"
+    },
+    {
+      "city": "Buntok",
+      "admin_name": "Kalimantan Tengah"
+    },
+    {
+      "city": "Piru",
+      "admin_name": "Maluku"
+    },
+    {
+      "city": "Ransiki",
+      "admin_name": "Papua Barat"
+    },
+    {
+      "city": "Melonguane",
+      "admin_name": "Sulawesi Utara"
+    },
+    {
+      "city": "Cipanas",
+      "admin_name": "Jawa Barat"
+    },
+    {
+      "city": "Painan",
+      "admin_name": "Sumatera Barat"
+    },
+    {
+      "city": "Sungai Guntung",
+      "admin_name": "Riau"
+    },
+    {
+      "city": "Serui",
+      "admin_name": "Papua"
+    },
+    {
+      "city": "Kuala Kurun",
+      "admin_name": "Kalimantan Tengah"
+    },
+    {
+      "city": "Maba",
+      "admin_name": "Maluku Utara"
+    },
+    {
+      "city": "Pajo",
+      "admin_name": "Nusa Tenggara Timur"
+    },
+    {
+      "city": "Putussibau",
+      "admin_name": "Kalimantan Barat"
+    },
+    {
+      "city": "Ban",
+      "admin_name": "Bali"
+    },
+    {
+      "city": "Sonosari",
+      "admin_name": "Yogyakarta"
+    },
+    {
+      "city": "Kehen",
+      "admin_name": "Bali"
+    },
+    {
+      "city": "Tentena",
+      "admin_name": "Sulawesi Tengah"
+    },
+    {
+      "city": "Tibubeneng",
+      "admin_name": "Bali"
+    },
+    {
+      "city": "Tamiang Layang",
+      "admin_name": "Kalimantan Tengah"
+    },
+    {
+      "city": "Kelandis",
+      "admin_name": "Bali"
+    },
+    {
+      "city": "Haria",
+      "admin_name": "Maluku"
+    },
+    {
+      "city": "Makale",
+      "admin_name": "Sulawesi Selatan"
+    },
+    {
+      "city": "Karimunjawa",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Jantho",
+      "admin_name": "Aceh"
+    },
+    {
+      "city": "Tlagasana",
+      "admin_name": "Jawa Tengah"
+    },
+    {
+      "city": "Galela",
+      "admin_name": "Maluku Utara"
+    },
+    {
+      "city": "Slateng Dua",
+      "admin_name": "Jawa Timur"
+    },
+    {
+      "city": "Sofifi",
+      "admin_name": "Maluku Utara"
+    },
+    {
+      "city": "Tarutung",
+      "admin_name": "Sumatera Utara"
+    },
+    {
+      "city": "Buton",
+      "admin_name": "Kepulauan Riau"
+    }
+  ]
+}

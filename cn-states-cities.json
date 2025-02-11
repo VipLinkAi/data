@@ -1,0 +1,4642 @@
+{
+  "ACRONYM_CN": [
+    {
+      "acronym": "BJ",
+      "display": "Beijing"
+    },
+    {
+      "acronym": "TJ",
+      "display": "Tianjin"
+    },
+    {
+      "acronym": "HE",
+      "display": "Hebei"
+    },
+    {
+      "acronym": "SX",
+      "display": "Shanxi"
+    },
+    {
+      "acronym": "NM",
+      "display": "Inner Mongolia"
+    },
+    {
+      "acronym": "LN",
+      "display": "Liaoning"
+    },
+    {
+      "acronym": "JL",
+      "display": "Jilin"
+    },
+    {
+      "acronym": "HL",
+      "display": "Heilongjiang"
+    },
+    {
+      "acronym": "SH",
+      "display": "Shanghai"
+    },
+    {
+      "acronym": "JS",
+      "display": "Jiangsu"
+    },
+    {
+      "acronym": "ZJ",
+      "display": "Zhejiang"
+    },
+    {
+      "acronym": "AH",
+      "display": "Anhui"
+    },
+    {
+      "acronym": "FJ",
+      "display": "Fujian"
+    },
+    {
+      "acronym": "JX",
+      "display": "Jiangxi"
+    },
+    {
+      "acronym": "SD",
+      "display": "Shandong"
+    },
+    {
+      "acronym": "HA",
+      "display": "Henan"
+    },
+    {
+      "acronym": "HB",
+      "display": "Hubei"
+    },
+    {
+      "acronym": "HN",
+      "display": "Hunan"
+    },
+    {
+      "acronym": "GD",
+      "display": "Guangdong"
+    },
+    {
+      "acronym": "GX",
+      "display": "Guangxi"
+    },
+    {
+      "acronym": "HI",
+      "display": "Hainan"
+    },
+    {
+      "acronym": "CQ",
+      "display": "Chongqing"
+    },
+    {
+      "acronym": "SC",
+      "display": "Sichuan"
+    }
+  ],
+  "CITIES_CN": [
+    {
+      "city": "Guangzhou",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shanghai",
+      "admin_name": "Shanghai"
+    },
+    {
+      "city": "Beijing",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Shenzhen",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Chengdu",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Chongqing",
+      "admin_name": "Chongqing"
+    },
+    {
+      "city": "Baoding",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Linyi",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Dongguan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Tianjin",
+      "admin_name": "Tianjin"
+    },
+    {
+      "city": "Wuhan",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Nanyang",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Hangzhou",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Foshan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Tongshan",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Zhoukou",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Ganzhou",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Heze",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Quanzhou",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Nanjing",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Jining",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Fuyang",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Shenyang",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Shangqiu",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Cangzhou",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xingtai",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Zhumadian",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Zhanjiang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Yancheng",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Hengyang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Shaoyang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Shangrao",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Xinyang",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Maoming",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Jieyang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Liaocheng",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Huanggang",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Dalian",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Qingdao",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Yulin",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Nangandao",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Pudong",
+      "admin_name": "Shanghai"
+    },
+    {
+      "city": "Zhengzhou",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Dezhou",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Nanchong",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Jinan",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Tai’an",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Langfang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Dazhou",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Suzhou",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Yongzhou",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Changde",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Xiangyang",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Zhangzhou",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Yichun",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Bozhou",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Suqian",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Ji’an",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Guilin",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Pingdingshan",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Mianyang",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Huanglongsi",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Yuncheng",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Changsha",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Chenzhou",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Jiangmen",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Jiujiang",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Xinpu",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Yibin",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Huaihua",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Yangzhou",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Taizhou",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Yiyang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Changchun",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Lu’an",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Jiangguanchi",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Meizhou",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Suzhou",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Guigang",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Shantou",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Xiaoganzhan",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Luzhou",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Hefei",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Hengshui",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Anqing",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Liuzhou",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Zhangjiakou",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Zhaoqing",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shijiazhuang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Ningbo",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Qiqihar",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Fuzhou",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Chifeng",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Xiaoxita",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Chuzhou",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Linfen",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Qingyuan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Loudi",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Binzhou",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Zhuzhou",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Taiyuan",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Nanning",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Harbin",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Suihua",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Zaozhuang",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Xiamen",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Neijiang",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Fuzhou",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Baicheng",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Wuhu",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Wenzhou",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Changzhou",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Puyang",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Jiaozuo",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Nanchang",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Deyang",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Hohhot",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Hechi",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Tangshan",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Shiyan",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Anshan",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Qinzhou",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Bengbu",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Bazhou",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Suining",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Wuxi",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Putian",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Zhenjiang",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Guang’an",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Changzhi",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Leshan",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Qinhuangdao",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xinzhou",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Wuzhou",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Huainan",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Rizhao",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Meishan",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Ningde",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Zhongshan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Weihai",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Haikou",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Tongliao",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Chaoyang",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Shaoguan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Heyuan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Daqing",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Xiangtan",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Longyan",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Baotou",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Handan",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Jinzhou",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Nanping",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Shanwei",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Chaozhou",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Weifang",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Huai’an",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Zibo",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Gulou",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Sanming",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Yangjiang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Jiamusi",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Luohe",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Shaoxing",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Yantai",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Huizhou",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Lishui",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Xuanzhou",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Zigong",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Guangyuan",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Huangshi",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Zhuhai",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Huludao",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Lianshan",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Jilin",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Tieling",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Yunfu",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Luoyang",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Yingkou",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Yanjiang",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Mudanjiang",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Jincheng",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Nantong",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Laibin",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Shengli",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Dandong",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Gaoping",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Taizhou",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Ma’anshan",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Puning",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Huaibei",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Chongzuo",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Yushan",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Hezhou",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Qingyang",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Sanmenxia",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Baicheng",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Pingxiang",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Xiping",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Jixi",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Fushun",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Beihai",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Fuxin",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Siping",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Shuyangzha",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Shuozhou",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Sanzhou",
+      "admin_name": "Chongqing"
+    },
+    {
+      "city": "Changshu",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Heihe",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Ximeicun",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Jingdezhen",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Liaoyang",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Chengtangcun",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Jiangyin",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Hebi",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Huzhou",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Jiaxing",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Zhangjiajie",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Guiping",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Lianjiang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Jianguang",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Yucheng",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Xushan",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Leizhou",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Huazhou",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Jinhua",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Pizhou",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Yangshe",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Rui’an",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Wenling",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Gaozhou",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Fuqing",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Pingdu",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Yangquan",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Yutan",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Chizhou",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Liangshi",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Huangshan",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Benxi",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Xintai",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Wusong",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Yushu",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Kuaidamao",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Huazhou",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Baishan",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Haicheng",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Yicheng",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Rucheng",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Huaiyin",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Shaoyang",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Laiwu",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Jingling",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Yongcheng",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Yiwu",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Dadukou",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Lingcheng",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Shuangyashan",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Xinyu",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Liaoyuan",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Guankou",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Lianyuan",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Rongcheng",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Kaiyuan",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Zhuji",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Yingtan",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Leiyang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Yichun",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Xiantao",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Yingchuan",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Dongtai",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Dingzhou",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Yuyao",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Hanchuan",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Gongzhuling",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Zhufeng",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Ezhou",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Xiashi",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Mizhou",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Xishan",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Hegang",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Fangchenggang",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Jiancheng",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Shouguang",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Sanya",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Wutong",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Linhai",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Wafangdian",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Zhongxiang",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Xinyi",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Zaoyang",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Shuizhai",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Xingcheng",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Taixing",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Xinhualu",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Yingcheng",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Luocheng",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Huilong",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Wuchuan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Nada",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Taishan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Anqiu",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Feicheng",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Meishan",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Taihe",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Xin’an",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Taihecun",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Qingzhou",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Daye",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Hengzhou",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Zhuanghe",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Quzhou",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Jiaozhou",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Wuchang",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Yangchun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Dengtalu",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Zhoushan",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Hai’an",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Laiyang",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Kaifeng Chengguanzhen",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Gaomi",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Wuxi",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Leping",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Hailun",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Macheng",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Zijinglu",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Yuci",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Dehui",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Chengxiang",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Rongjiawan",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Weichanglu",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Renqiu",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xindi",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Wu’an",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Qingping",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Gaoyou",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Yiyang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Hejian",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Puxi",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Danyang",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Dongyang",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Xiangxiang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Chaohucun",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Zouping",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Fuyang",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Songzi",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Laixi",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Zhongba",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Qingnian",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Guangshui",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Lichuan",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Licheng",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Chengguan",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Nehe",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Zunhua",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Wugang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Shuangqiao",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Langzhong",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Qian’an",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Cencheng",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Guli",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Anlu",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Changsha",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Songyang",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Yatou",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Xichang",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Dashiqiao",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Shishi",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Miluo Chengguanzhen",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Gaizhou",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Leling",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Jianshe",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Jingcheng",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Xinmin",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Shanhu",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Pinghu",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Guankou",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Qionghu",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Zhaodong",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Puyang Chengguanzhen",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Wenchang",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Shulan",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Lingbao Chengguanzhen",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Sanhe",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Jieshou",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Suohe",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Guixi",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Wuxue",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Ruiming",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Qufu",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Xinshi",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Jin’e",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Xinxing",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Meilan",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Bazhou",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Meihekou",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Jurong",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Yuhuan",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Xinji",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Changping",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Zhangshu",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Zhuozhou",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Tianchang",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Sihui",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Luocheng",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Shangzhi",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Botou",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xiulin",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Fu’an",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Luofeng",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Lingyuan",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Shenzhou",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Kuiju",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Zhenzhou",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Wencheng",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Lanxi",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Dangyang",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Luanzhou",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Wuhai",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Yanji",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Huanghua",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xingcheng",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Wancheng",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Kaiyuan",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Fengcheng",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Fuding",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Chang’an",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Mingguang",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Gaobeidian",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Yucheng",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Anda",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Longzhou",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Heshan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Jiaji",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Beining",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Yicheng",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Encheng",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Meicheng",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Nenjiang",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Hongjiang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Beipiao",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Dengtacun",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Zhijiang",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Suoluntun",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Chengjiao",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Yuanping",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Yueqing",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Shahe",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Gaoping",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Dunhua",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Jiannan",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Nangong",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Jiaojiangcun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Laohekou",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Beian",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Fujin",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Xiaoyi",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Jiangshan",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Longjiang",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Jian’ou",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Huadian",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Minzhu",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Tanbei",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Pingquan",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Baisha",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Yongji",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Danjiangkou",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Ning’an",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Guangming",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Zhuangyuan",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Huili Chengguanzhen",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Hailin",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Mishan",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Zhengjiatun",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Lecheng",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Pencheng",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Da’an",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Fenyang",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Fangting",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Linghai",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Zhangjiakou Shi Xuanhua Qu",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Wanyuan",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Jiexiu",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Jiangjiafan",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Hejin",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Zhugang",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Tieli",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Lianzhou",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Yidu",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Lingxi",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Helixi",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Lengshuijiang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Panshi",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Huichang",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Anguo",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Nanqiao",
+      "admin_name": "Shanghai"
+    },
+    {
+      "city": "Wudalianchi",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Shuanghe",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Yong’an",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Yakeshi",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Tangdong",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Yingzhong",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Licheng",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Hangu",
+      "admin_name": "Tianjin"
+    },
+    {
+      "city": "Bamiantong",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Ulanhot",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Yunzhong",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Zalantun",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Xiaoli",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Datang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Longquan",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Yonghetun",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Qianzhou",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Yakou",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Dexing",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Hulin",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Hong’an",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Huozhou",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Jining",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Xingsha",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Shaowu",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Bijiao",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Jinshi",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Manzhouli",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Beichengqu",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Zhangping",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Diaobingshancun",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Wuyishan",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Longquan",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Dianbu",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Hunchun",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Nong’an",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Ji’an Shi",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Longjiang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Gujiao",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Dongxing",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Xigujing",
+      "admin_name": "Shanghai"
+    },
+    {
+      "city": "Dongning",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Taisheng",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Jiutai",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Puqi",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Huangyan",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Helong",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Longjing",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Tongjiang",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Longjin",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Kangqiao",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Linjiang",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Basuo",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Tiantoujiao",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Zhanlicun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Jinggang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Zhengding",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xiaping",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Nan Zhuang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Chaoshan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Danzao",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Jinghai",
+      "admin_name": "Tianjin"
+    },
+    {
+      "city": "Dahuaishu",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Tafeng",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Fengyicun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Xianshuigu",
+      "admin_name": "Tianjin"
+    },
+    {
+      "city": "Dongsheng",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Xinjing",
+      "admin_name": "Shanghai"
+    },
+    {
+      "city": "Yima",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Xintang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Zhaoxiang",
+      "admin_name": "Shanghai"
+    },
+    {
+      "city": "Jinjiang",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Shizhaobi",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Mabacun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Yunxian Chengguanzhen",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Zhangmu Touwei",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Nanqiaotou",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shuangcheng",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Nantou",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Baiyashi",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Lucheng",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Cili",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Fengcheng",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Dongsheng",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Zhaozhou",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Fuyuan",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Jizhou",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Longtian",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Gexianzhuang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Shiyan",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Lianhe",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Wuling",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Tumen",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Genhe",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Shuixi",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Sanxi",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Yongqing",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Yangliuqing",
+      "admin_name": "Tianjin"
+    },
+    {
+      "city": "Xuqiaocun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Quyang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Dongsheng",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Yulu",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shacheng",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Zhijiang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Kaiyun",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Changbang",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Tangjia",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shihuajie",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Xishancun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Nantang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Mazhang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Chongshan",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Longjiang",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Jincheng",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Houzhuang",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Mositai",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Yishi",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Fugangcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Hengnan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Jingping",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Weifen",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Banzhuangcun",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Xiongzhou",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Fengning",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xiegang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Heshan",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Nanxicun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Fanyang",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Doudian",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Longkeng",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Longquan",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Boli",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Dongping",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Meizichong",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Bayan Hot",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Yishui",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Yi Xian",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Lingtang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Wangjia",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Fenggang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Linquan",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Xiancun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Julu",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Tangjia",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Wangqing",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Leping",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Leshou",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Qiantangcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Changting",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Shuangshuicun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Bama",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Heyunkeng",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Tangxing",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Taohuajiang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Tuncheng",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Yaofeng",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Dingcheng",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Shaoshanzhan",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Longhua",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Taishan Houcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Ducheng",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Fusui",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Luancheng",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xishancun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Wutiancun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Mingxing",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Nantingcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Wuyi",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Kongjiazhuangcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Shuibian",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Xiedian",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Gaoliying Ercun",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Shiji",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Wujindian",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Yanggao",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Hengbei",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Pingyi",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Huolu",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Chengbin",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Linkou",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "E’erguna",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Funing",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Fancheng",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Tailai",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Rulin",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Laiyuan",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xinglong",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Dongguan",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Puqiancun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Panggezhuang",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Dayong",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shancheng",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Chaigoubu",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Jingzhou",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Zhuolu",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Lanxi",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Longkoucun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Keshan",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Bailongqiaocun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Nanfengcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Jinsha",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Yinying",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Baiquan",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Longtangwan",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Zhanggu",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Yueshanwan",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Rongcheng",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Liuhe",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Lindong",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Shashijie",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Yuquan",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Huajing",
+      "admin_name": "Shanghai"
+    },
+    {
+      "city": "Wanggezhuang",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Guangping",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Huquan",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Zanhuang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xiantangcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Xieqiaocun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Xibang",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Sangzishi",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Lechang",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Qinggang",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Kangbao",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Yangqingcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Lingshou",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Gusang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Wenxicun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Shangtangcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Sihushan",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Zengqiao",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Meihuacun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Shihe",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Yisuhe",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Suifenhe",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Dongcun",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Lianzhuangcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Wangzhuang",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Zhoujiajing",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Gannan",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Xikeng",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Ma’erkang",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Tianningcun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Liannong",
+      "admin_name": "Shanghai"
+    },
+    {
+      "city": "Liantangcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Zengcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Sucun",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Suileng",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Xiezhou",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Gengzhuangqiaocun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Yanguancun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Qianwu",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Tieshansi",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Huaixiangcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Chini",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Longxing",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Cuizhuangzi",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Langtang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Changling",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Nawucun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Siliancun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Xinqing",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Wangguanzhuang Sicun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Wuhuang",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Songjiangcun",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Chaiwu",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Jinchang",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Caojia",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Shidong",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shidongcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Jihong",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Hongshandian",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Yangmei",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Qingan",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Dongsheng",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Xincheng",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Xingcheng",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Yaozhuangcun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Zhangjiazhuang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Zhangjiazhuangcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Lengquancun",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Shimencun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Huaiyang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Youfangcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Qinhe",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Gutao",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Xiayang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Dongxishan",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Jieshangya",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Shankou",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Fangcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Yong’an",
+      "admin_name": "Chongqing"
+    },
+    {
+      "city": "Dongzhang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Jiashizhuangcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Dongshan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Qulicun",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Liutuancun",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Santangpai",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Gaocheng",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Zhongtanying",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Qingyuan",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Dahutang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Jitaicun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Yashan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Daxiang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Dongnanyanfa",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Wangtan",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Shimenzhai",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Huilongcun",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Hexiwu",
+      "admin_name": "Tianjin"
+    },
+    {
+      "city": "Anshan",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Dongsu",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Tangdukou",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Qianjiang Shequ",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Shangshan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Xinji",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Liuquancun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Tangjiacun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Houbu",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Beigangwa",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Changtoushang",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Daijiazhuang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Yuchengcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Xinjun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Jinku",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Yutiancun",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Shanshan",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Zhangliangcun",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Nandongcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Nandazhang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Zhangcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Shuilou",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Loufan",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Bairuo",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Xidiancun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Shenjiatun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Liantang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Songhuajiangcun",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Lingquan",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Yangcunzai",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Yinggen",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Litian Gezhuang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Tanxia",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Dongyangshi",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Shengaocun",
+      "admin_name": "Jiangsu"
+    },
+    {
+      "city": "Dongluocun",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Hongfengcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Lijiaxiang",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Yingzhou Linchang",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Baichigan",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Yangtangxu",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Yatangcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Taicheng",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Oroqen Zizhiqi",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Lishaocun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Yian",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Sanjiang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Tangpingcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Huanren",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Yangfang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Huangyoutang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Xiwanzi",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Tianchang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Sungandiancun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Lanyi",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Shijiazhuangnan",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Qiaotouyi",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Chuangjian",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Zhongdong Shequ",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Dengtangcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Yamen",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Baocheng",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Shiji",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Fengguangcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Dajiecun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Wangsicun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Nanshuicun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shaxi",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Pingxiangcheng",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Zuojiawu",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xinpo",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Ulan Hua",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Matan",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Dabutou",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Baishan",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Bulicun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Danihe",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Yandian",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Yejituo",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Pingshang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Yangshuwa",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Daiyue",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Taozhou",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Zhentang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shangzhuangcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Baohezhuangcun",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Dama",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Tilingzhai",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Maojiatang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Cangxi",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Shenjiabang",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Zhangziying",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Yangquan",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Yihezhuang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Lixingcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Pingtang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Qingyang",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Puqiancun",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Zhegaozhen",
+      "admin_name": "Anhui"
+    },
+    {
+      "city": "Guying",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Zhaitangcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Chaodongcun",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Xinzhancun",
+      "admin_name": "Jilin"
+    },
+    {
+      "city": "Xiaotangzhuang",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Cishan",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xincheng",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Luxitun",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Shalingzicun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Rencun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shaliuhe",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xiaodian",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Yinchengpu",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Shilou",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Donggou",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Zhaoyu",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Jiming",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Shenwan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shentang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Tanmen",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Beidaying",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Yingyangcun",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Huangxicun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Dashao",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Andingcun",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Taozhuangcun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Fengrenxu",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Xinpo",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Wuyuan",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Gongyefu",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Liaojiayuan",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Shibancun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Hengshuicun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Yong’ancun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Yingshouyingzi",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Mashan",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Nan’ao",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Dongyuya",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Duanzhuang",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Yangshuling",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Guotang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Benhao",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Shuangtian",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Zhongwangzhuang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Matouying",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Duzhuang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Pingdeng",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Tanglou",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Tantoucun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shangluhu",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Baishaling",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Qianxucun",
+      "admin_name": "Shandong"
+    },
+    {
+      "city": "Huanghuajing",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Heshancun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Qianshanhong Nongchang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Jiaoxiling",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Longtan",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Shatiancun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shilan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Wengtiancun",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Wangtang",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Tongyangdao",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Sihecun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Bo’ao",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Haiyang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Lishanpu",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Liugoucun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xima",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Chuanliaocun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Xincun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Jinju",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Zhaicun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Liushuquan",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Dongfeng",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Tianyingcun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Dengjiazhuang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Majiadiancun",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Xishan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Nanpingcun",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Zhutailing",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Malanguan",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Haiwei",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Yanyan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Wumayingcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Lanling",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Dalupo",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Liangwu",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Beifan",
+      "admin_name": "Hubei"
+    },
+    {
+      "city": "Shitan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Donggangli",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Dongxiaozhai",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xinxing",
+      "admin_name": "Heilongjiang"
+    },
+    {
+      "city": "Qianwangcun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Zhangshanying",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Ganzhu",
+      "admin_name": "Jiangxi"
+    },
+    {
+      "city": "Qiaomaichuan",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Tangcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Jurh",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Gaojiayingcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Hoh Ereg",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Dasungezhuang",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Xiaojiangcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Xiaping",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Neihuzhai",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Mujiayu",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Xingang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Zhaoling",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Beixingzhuang",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Taishituncun",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Zhucaoying",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Huangzhai",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Pingtan",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Caojiachuan",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Jizhuang",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Banbishancun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Aoshang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Lihuzhuang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Yaojiazhuangcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Yaojiafen",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Jiangjiadong",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Xinnongcun",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Fengjia",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Dabaozi",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Hexiang",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Hanmayingcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Donggou",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Longbangcun",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Zhangjiazhuang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Sanjianxiang",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Zhaodianzi",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xingangli",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Hushihacun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xihuangcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Heishanzuicun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Tazishan",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Lejiangxiang",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Qitai",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Zhangshicun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Longjia",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Sanpaicun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shuangluan",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Mengjiacun",
+      "admin_name": "Liaoning"
+    },
+    {
+      "city": "Longjia",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Zhongguyue",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Quanzhang",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Shangjing",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shanglingcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Bakeshiyingcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xintangcun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Yanggezhuang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Dalain Hob",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Dazhangzicun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Dazhangzi",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xixinzhuangzhen",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Fuying",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Fuyingzicun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Wentang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Jinjicun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Jinji",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Taohongpozhen",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Yaojia",
+      "admin_name": "Chongqing"
+    },
+    {
+      "city": "Longji",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Luzhou",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Xiaozhengzhuang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xixucun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Wenwu",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Dalanping",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Andicun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Dengshangcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Humayingcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xiangyuncun",
+      "admin_name": "Fujian"
+    },
+    {
+      "city": "Xihuangni",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Beizhou",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Quan’ancun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Weizhou",
+      "admin_name": "Guangxi"
+    },
+    {
+      "city": "Shuichecun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shimubi",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Jun Bel",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Guanduqiao",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Wulong",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Sanjiang Nongchang",
+      "admin_name": "Hainan"
+    },
+    {
+      "city": "Lakoucun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Beiwusidui",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Ping’anbao",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Huangyadong",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Chaoyangdicun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Qingxicun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shangping",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Ganxi",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Bugugoucun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Damaishan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Ceyu",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Huguan Nongchang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Shanyincun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Pingtiancun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Dongyuancun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Jiuduhe",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Reshuijie",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Huodoushancun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xinbocun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Xiushuicun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Baxiangshan",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Yuxiaguan",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Xincheng",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Muping",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Diao’ecun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Shuinancun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Wulingshancun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Aba",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Pingcha",
+      "admin_name": "Hunan"
+    },
+    {
+      "city": "Xintianfeng",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Guantingzhan",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Gaohucun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Bangshang",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Haikoucun",
+      "admin_name": "Zhejiang"
+    },
+    {
+      "city": "Nanfang",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Gaolingcun",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Xiada",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Jingjiazhuang",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Zhangping",
+      "admin_name": "Shanxi"
+    },
+    {
+      "city": "Dachengzicun",
+      "admin_name": "Beijing"
+    },
+    {
+      "city": "Xiangping",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Nanmucun",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Dashouping",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Daping",
+      "admin_name": "Guangdong"
+    },
+    {
+      "city": "Nanzhangcheng",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Bifeng",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Hongtuliang",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Fulin",
+      "admin_name": "Sichuan"
+    },
+    {
+      "city": "Linxi",
+      "admin_name": "Inner Mongolia"
+    },
+    {
+      "city": "Panying",
+      "admin_name": "Henan"
+    },
+    {
+      "city": "Chengde",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Nanyangcun",
+      "admin_name": "Hebei"
+    },
+    {
+      "city": "Huinan",
+      "admin_name": "Jilin"
+    }
+  ]
+}

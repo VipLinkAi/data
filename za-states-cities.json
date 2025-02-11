@@ -1,0 +1,1206 @@
+{
+  "ACRONYM_ZA": [
+    {
+      "acronym": "EC",
+      "display": "Eastern Cape"
+    },
+    {
+      "acronym": "FS",
+      "display": "Free State"
+    },
+    {
+      "acronym": "GT",
+      "display": "Gauteng"
+    },
+    {
+      "acronym": "KZN",
+      "display": "KwaZulu-Natal"
+    },
+    {
+      "acronym": "LP",
+      "display": "Limpopo"
+    },
+    {
+      "acronym": "MP",
+      "display": "Mpumalanga"
+    },
+    {
+      "acronym": "NC",
+      "display": "Northern Cape"
+    },
+    {
+      "acronym": "NW",
+      "display": "North West"
+    },
+    {
+      "acronym": "WC",
+      "display": "Western Cape"
+    }
+  ],
+  "CITIES_ZA": [
+    {
+      "city": "Johannesburg",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Cape Town",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Soweto",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Gqeberha",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Pietermaritzburg",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Durban",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Pretoria",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Rustenburg",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Newcastle",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "East London",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Katlehong",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Khayelitsha",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Randburg",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Roodepoort",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Mitchells Plain",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Boksburg",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Bloemfontein",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Germiston",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Centurion",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Kimberley",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Sandton",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Klerksdorp",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Bethelsdorp",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Kempton Park",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Nqutu",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Kroonstad",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Benoni",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "George",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Potchefstroom",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Pinetown",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Krugersdorp",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Mthatha",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Polokwane",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Springs",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Alberton",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Upington",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Winterveld",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Parow",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Paarl",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Empangeni",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Witbank",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Uitenhage",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "KwaDukuza",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Vereeniging",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Worcester",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Vanderbijlpark",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Grahamstown",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Oudtshoorn",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Midrand",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Middelburg",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Ermelo",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Randfontein",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Stellenbosch",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Sasolburg",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Brakpan",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Thaba Nchu",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Kwamhlanga",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Thohoyandou",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Queenstown",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Virginia",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Ladysmith",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Welkom",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Odendaalsrus",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Bethal",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Mossel Bay",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Richards Bay",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Wellington",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Meyerton",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Queensburgh",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Phuthaditjhaba",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Brits",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Harrismith",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Kokstad",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Knysna",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Edenvale",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Vryheid",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Kuilsrivier",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Bothaville",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Parys",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Grabouw",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Musina",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Schweizer-Reineke",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Secunda",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Despatch",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Vredenburg",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Nigel",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Mmabatho",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Lydenburg",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Siyabuswa",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Makan",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Namakgale",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Malmesbury",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Graaff-Reinet",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Port Shepstone",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Lebowakgomo",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Dundee",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Phokeng",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Beaufort West",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Mankoeng",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Acornhoek",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Ceres",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Plettenberg Bay",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Westville",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Postmasburg",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Kloof",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Ulundi",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Humansdorp",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Mondlo",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Thabazimbi",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Saldanha",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Heilbron",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Jeffrey’s Bay",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Wesselsbron",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Margate",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Dinokana",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Lichtenburg",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Frankfort",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Giyani",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Mathibestad",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Port Alfred",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Mpophomeni",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Fort Beaufort",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Louis Trichardt",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Stutterheim",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Hennenman",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Volksrust",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "uMhlanga Rocks",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Jan Kempdorp",
+      "admin_name": "North West"
+    },
+    {
+      "city": "De Aar",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Bultfontein",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Ka-Bungeni",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Carletonville",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Warrenton",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Nkowakowa",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Hartbeespoort",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Estcourt",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Robertson",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Pampierstad",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Howick",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Hammanskraal",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Vryburg",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Bronkhorstspruit",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Reitz",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Barkly West",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Douglas",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Indwe",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Itsoseng",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Garsfontein",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Deneysville",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Setlagode",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Allanridge",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Ganyesa",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Ballitoville",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Somerset East",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Middelburg",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Taung",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Vredendal",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Stilfontein",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Mooirivier",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Vrede",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Glencoe",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Swellendam",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Villiers",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Colesberg",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Kingsborough",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Bethlehem",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "eMuziwezinto",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Riversdale",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Bethulie",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Turffontein",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Bredasdorp",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Kinross",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Kriel",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Montagu",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Alice",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Mahikeng",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Makapanstad",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Eshowe",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Vredefort",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Tzaneen",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Edenburg",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Breyten",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Morokweng",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Prieska",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Primrose",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Bedfordview",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "eManzimtoti",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Koppies",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Kirkwood",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Daniëlskuil",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Orkney",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Makwassie",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Hillcrest",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Ashton",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Okkerneutboom",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Phalaborwa",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Kuruman",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Caledon",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Fouriesburg",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Pretoria-Noord",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Elandsdoorn",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Petrus Steyn",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Moorreesburg",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Springbok",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Casteel",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Buffelshoek",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Groutville",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Summerstrand",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "New Germany",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Jeppe’s Reef",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Dysselsdorp",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Matatiele",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "eXobho",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Amersfoort",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Adelaide",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Lenyenye",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Piketberg",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Keimoes",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Barberton",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Hankey",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Gansbaai",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Molteno",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Saint Helena Bay",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Kathu",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Mount Fletcher",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Gonubie",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Mogogelo",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Scottburgh",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Vaal Reefs",
+      "admin_name": "North West"
+    },
+    {
+      "city": "De Doorns",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Riebeeckstad",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Ventersburg",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Bhisho",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Langeloop",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Ekuvukeni",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Velddrif",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Sannieshof",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Warden",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Mogwase",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Delareyville",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Groot-Brakrivier",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Standerton",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Hartswater",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Darling",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Koffiefontein",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Delportshoop",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Hopetown",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Westonaria",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Olifantshoek",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Evander",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Alexandria",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Villiersdorp",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Barkly East",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Koloti",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Kraaipan",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Ga-Kgapane",
+      "admin_name": "Limpopo"
+    },
+    {
+      "city": "Ncora",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Sitebe",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Wepener",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Harding",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Kakamas",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Fochville",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Hertzogville",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Mabeskraal",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Boekenhouthoek",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Sabie",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Steynsrus",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Zeerust",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Bonnievale",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Greytown",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Mbuzini",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Tulbagh",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Machadodorp",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Cofimvaba",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Doornkop",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Cullinan",
+      "admin_name": "Gauteng"
+    },
+    {
+      "city": "Gillitts",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Cradock",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Boshof",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Carnarvon",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Port Saint John’s",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Vanrhynsdorp",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Hermanus",
+      "admin_name": "Western Cape"
+    },
+    {
+      "city": "Komatipoort",
+      "admin_name": "Mpumalanga"
+    },
+    {
+      "city": "Aliwal North",
+      "admin_name": "Eastern Cape"
+    },
+    {
+      "city": "Pofadder",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Brandfort",
+      "admin_name": "Free State"
+    },
+    {
+      "city": "Bloemhof",
+      "admin_name": "North West"
+    },
+    {
+      "city": "Alexander Bay",
+      "admin_name": "Northern Cape"
+    },
+    {
+      "city": "Ubombo",
+      "admin_name": "KwaZulu-Natal"
+    },
+    {
+      "city": "Nelspruit",
+      "admin_name": "Mpumalanga"
+    }
+  ]
+}

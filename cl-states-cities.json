@@ -1,0 +1,618 @@
+{
+  "ACRONYM_CL": [
+    {
+      "acronym": "AR",
+      "display": "Arica and Parinacota"
+    },
+    {
+      "acronym": "II",
+      "display": "Antofagasta"
+    },
+    {
+      "acronym": "AT",
+      "display": "Atacama"
+    },
+    {
+      "acronym": "BI",
+      "display": "Biobío"
+    },
+    {
+      "acronym": "CO",
+      "display": "Coquimbo"
+    },
+    {
+      "acronym": "LI",
+      "display": "Libertador General Bernardo O'Higgins"
+    },
+    {
+      "acronym": "LR",
+      "display": "Los Lagos"
+    },
+    {
+      "acronym": "LL",
+      "display": "Los Ríos"
+    },
+    {
+      "acronym": "MA",
+      "display": "Magallanes and Chilean Antarctica"
+    },
+    {
+      "acronym": "ML",
+      "display": "Maule"
+    },
+    {
+      "acronym": "RM",
+      "display": "Santiago Metropolitan"
+    },
+    {
+      "acronym": "TA",
+      "display": "Tarapacá"
+    },
+    {
+      "acronym": "VS",
+      "display": "Valparaíso"
+    }
+  ],
+  "CITIES_CL": [
+    {
+      "city": "Concepción",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Antofagasta",
+      "admin_name": "Antofagasta"
+    },
+    {
+      "city": "Viña del Mar",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Valparaíso",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Talca",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Coquimbo",
+      "admin_name": "Coquimbo"
+    },
+    {
+      "city": "La Serena",
+      "admin_name": "Coquimbo"
+    },
+    {
+      "city": "Iquique",
+      "admin_name": "Tarapacá"
+    },
+    {
+      "city": "Puerto Montt",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Osorno",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Calama",
+      "admin_name": "Antofagasta"
+    },
+    {
+      "city": "Copiapó",
+      "admin_name": "Atacama"
+    },
+    {
+      "city": "Talcahuano",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Valdivia",
+      "admin_name": "Los Ríos"
+    },
+    {
+      "city": "Quilpué",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Los Ángeles",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Curicó",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Villa Alemana",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Coronel",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Alto Hospicio",
+      "admin_name": "Tarapacá"
+    },
+    {
+      "city": "San Antonio",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Chiguayante",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Ovalle",
+      "admin_name": "Coquimbo"
+    },
+    {
+      "city": "Linares",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Quillota",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "San Felipe",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Los Andes",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "La Calera",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Penco",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Vallenar",
+      "admin_name": "Atacama"
+    },
+    {
+      "city": "Limache",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Lota",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "San Clemente",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Tomé",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Alerce",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Constitución",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Molina",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Parral",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Placilla de Peñuelas",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Ancud",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Maule",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Cañete",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Castro",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Curanilahue",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Concón",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Quintero",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Monte Patria",
+      "admin_name": "Coquimbo"
+    },
+    {
+      "city": "San Javier",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Longaví",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Cabrero",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Mulchén",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Teno",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Nacimiento",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "La Unión",
+      "admin_name": "Los Ríos"
+    },
+    {
+      "city": "Puerto Varas",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Salamanca",
+      "admin_name": "Coquimbo"
+    },
+    {
+      "city": "Vicuña",
+      "admin_name": "Coquimbo"
+    },
+    {
+      "city": "Tocopilla",
+      "admin_name": "Antofagasta"
+    },
+    {
+      "city": "Quellón",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Lebu",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Cartagena",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Llaillay",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Laja",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "La Cruz",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Nogales",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Los Vilos",
+      "admin_name": "Coquimbo"
+    },
+    {
+      "city": "Hualqui",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Purranque",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Illapel",
+      "admin_name": "Coquimbo"
+    },
+    {
+      "city": "Yumbel",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Los Álamos",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Los Bajos",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Frutillar Alto",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Cabildo",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "La Ligua",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Paillaco",
+      "admin_name": "Los Ríos"
+    },
+    {
+      "city": "Retiro",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Los Lagos",
+      "admin_name": "Los Ríos"
+    },
+    {
+      "city": "Hijuelas",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Colbún",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Arauco",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Sagrada Familia",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "San Esteban",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Río Bueno",
+      "admin_name": "Los Ríos"
+    },
+    {
+      "city": "Yerbas Buenas",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Llanquihue",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Caldera",
+      "admin_name": "Atacama"
+    },
+    {
+      "city": "Los Muermos",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Calbuco",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Olmué",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Maullín",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Putaendo",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Bellavista",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Río Negro",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Villa Alegre",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Santa María",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Tierra Amarilla",
+      "admin_name": "Atacama"
+    },
+    {
+      "city": "Diego de Almagro",
+      "admin_name": "Atacama"
+    },
+    {
+      "city": "Futrono",
+      "admin_name": "Los Ríos"
+    },
+    {
+      "city": "Combarbalá",
+      "admin_name": "Coquimbo"
+    },
+    {
+      "city": "Tucapel",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Santa Bárbara",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Calle Larga",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "El Tabo",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Catemu",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Santa Juana",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Chañaral",
+      "admin_name": "Atacama"
+    },
+    {
+      "city": "Frutillar",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Taltal",
+      "admin_name": "Antofagasta"
+    },
+    {
+      "city": "Puyehue",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "El Quisco",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Andacollo",
+      "admin_name": "Coquimbo"
+    },
+    {
+      "city": "Punitaqui",
+      "admin_name": "Coquimbo"
+    },
+    {
+      "city": "Algarrobo",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "San Pablo",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Petorca",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "Huachipato",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Tirúa",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Lago Ranco",
+      "admin_name": "Los Ríos"
+    },
+    {
+      "city": "Rauco",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Negrete",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Curepto",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Hualañe",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Pozo Almonte",
+      "admin_name": "Tarapacá"
+    },
+    {
+      "city": "Mejillones",
+      "admin_name": "Antofagasta"
+    },
+    {
+      "city": "Canela Baja",
+      "admin_name": "Coquimbo"
+    },
+    {
+      "city": "Chanco",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Puerto Octay",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Huasco",
+      "admin_name": "Atacama"
+    },
+    {
+      "city": "Florida",
+      "admin_name": "Biobío"
+    },
+    {
+      "city": "Rocas de Santo Domingo",
+      "admin_name": "Valparaíso"
+    },
+    {
+      "city": "San Juan de la Costa",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Hualaihué",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Oficina María Elena",
+      "admin_name": "Antofagasta"
+    },
+    {
+      "city": "Chonchi",
+      "admin_name": "Los Lagos"
+    },
+    {
+      "city": "Toconao",
+      "admin_name": "Antofagasta"
+    },
+    {
+      "city": "Cauquenes",
+      "admin_name": "Maule"
+    },
+    {
+      "city": "Cuya",
+      "admin_name": "Tarapacá"
+    },
+    {
+      "city": "Lagunas",
+      "admin_name": "Tarapacá"
+    },
+    {
+      "city": "Chuquicamata",
+      "admin_name": "Antofagasta"
+    }
+  ]
+}
