@@ -1,0 +1,46 @@
+{
+  "ACRONYM_NP": [
+    {
+      "acronym": "PA",
+      "display": "Province 1"
+    },
+    {
+      "acronym": "BA",
+      "display": "Bagmati Province"
+    },
+    {
+      "acronym": "GA",
+      "display": "Gandaki Province"
+    },
+    {
+      "acronym": "LU",
+      "display": "Lumbini Province"
+    },
+    {
+      "acronym": "KA",
+      "display": "Karnali Province"
+    },
+    {
+      "acronym": "SU",
+      "display": "Sudurpashchim Province"
+    },
+    {
+      "acronym": "WI",
+      "display": "Western Development Region"
+    },
+    {
+      "acronym": "CE",
+      "display": "Central Development Region"
+    },
+    {
+      "acronym": "EA",
+      "display": "Eastern Development Region"
+    }
+  ],
+  "CITIES_NP": [
+    {
+      "city": "",
+      "admin_name": ""
+    }
+  ]
+}

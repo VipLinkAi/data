@@ -1,0 +1,18 @@
+{
+  "ACRONYM_NZ": [
+    {
+      "acronym": "NI",
+      "display": "North Island"
+    },
+    {
+      "acronym": "SI",
+      "display": "South Island"
+    }
+  ],
+  "CITIES_NZ": [
+    {
+      "city": "",
+      "admin_name": ""
+    }
+  ]
+}
