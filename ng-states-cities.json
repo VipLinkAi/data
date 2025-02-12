@@ -1,0 +1,654 @@
+{
+  "ACRONYM_NG": [
+    {
+      "acronym": "AB",
+      "display": "Abia"
+    },
+    {
+      "acronym": "AD",
+      "display": "Adamawa"
+    },
+    {
+      "acronym": "AK",
+      "display": "Akwa Ibom"
+    },
+    {
+      "acronym": "AN",
+      "display": "Anambra"
+    },
+    {
+      "acronym": "BA",
+      "display": "Bauchi"
+    },
+    {
+      "acronym": "BE",
+      "display": "Benue"
+    },
+    {
+      "acronym": "BO",
+      "display": "Borno"
+    },
+    {
+      "acronym": "CR",
+      "display": "Cross River"
+    },
+    {
+      "acronym": "DE",
+      "display": "Delta"
+    },
+    {
+      "acronym": "EB",
+      "display": "Ebonyi"
+    },
+    {
+      "acronym": "ED",
+      "display": "Edo"
+    },
+    {
+      "acronym": "EK",
+      "display": "Ekiti"
+    },
+    {
+      "acronym": "EN",
+      "display": "Enugu"
+    },
+    {
+      "acronym": "GC",
+      "display": "Gombe"
+    },
+    {
+      "acronym": "IM",
+      "display": "Imo"
+    },
+    {
+      "acronym": "JI",
+      "display": "Jigawa"
+    },
+    {
+      "acronym": "KD",
+      "display": "Kaduna"
+    },
+    {
+      "acronym": "KN",
+      "display": "Kano"
+    },
+    {
+      "acronym": "KT",
+      "display": "Katsina"
+    },
+    {
+      "acronym": "KE",
+      "display": "Kebbi"
+    },
+    {
+      "acronym": "KO",
+      "display": "Kogi"
+    },
+    {
+      "acronym": "KW",
+      "display": "Kwara"
+    },
+    {
+      "acronym": "LA",
+      "display": "Lagos"
+    },
+    {
+      "acronym": "NA",
+      "display": "Nasarawa"
+    },
+    {
+      "acronym": "NI",
+      "display": "Niger"
+    },
+    {
+      "acronym": "OG",
+      "display": "Ogun"
+    },
+    {
+      "acronym": "ON",
+      "display": "Ondo"
+    },
+    {
+      "acronym": "OS",
+      "display": "Osun"
+    },
+    {
+      "acronym": "OY",
+      "display": "Oyo"
+    },
+    {
+      "acronym": "PL",
+      "display": "Plateau"
+    },
+    {
+      "acronym": "RI",
+      "display": "Rivers"
+    },
+    {
+      "acronym": "SO",
+      "display": "Sokoto"
+    },
+    {
+      "acronym": "TA",
+      "display": "Taraba"
+    },
+    {
+      "acronym": "YO",
+      "display": "Yobe"
+    },
+    {
+      "acronym": "ZA",
+      "display": "Zamfara"
+    }
+  ],
+  "CITIES_NG": [
+    {
+      "city": "Lagos",
+      "admin_name": "Lagos"
+    },
+    {
+      "city": "Ibadan",
+      "admin_name": "Oyo"
+    },
+    {
+      "city": "Awka",
+      "admin_name": "Anambra"
+    },
+    {
+      "city": "Kano",
+      "admin_name": "Kano"
+    },
+    {
+      "city": "Port Harcourt",
+      "admin_name": "Rivers"
+    },
+    {
+      "city": "Nneyi-Umuleri",
+      "admin_name": "Anambra"
+    },
+    {
+      "city": "Onitsha",
+      "admin_name": "Anambra"
+    },
+    {
+      "city": "Maiduguri",
+      "admin_name": "Borno"
+    },
+    {
+      "city": "Aba",
+      "admin_name": "Abia"
+    },
+    {
+      "city": "Benin City",
+      "admin_name": "Edo"
+    },
+    {
+      "city": "Shagamu",
+      "admin_name": "Ogun"
+    },
+    {
+      "city": "Ikare",
+      "admin_name": "Ondo"
+    },
+    {
+      "city": "Ogbomoso",
+      "admin_name": "Oyo"
+    },
+    {
+      "city": "Mushin",
+      "admin_name": "Lagos"
+    },
+    {
+      "city": "Owerri",
+      "admin_name": "Imo"
+    },
+    {
+      "city": "Abeokuta",
+      "admin_name": "Ogun"
+    },
+    {
+      "city": "Ikeja",
+      "admin_name": "Lagos"
+    },
+    {
+      "city": "Akure",
+      "admin_name": "Ondo"
+    },
+    {
+      "city": "Ilorin",
+      "admin_name": "Kwara"
+    },
+    {
+      "city": "Kaduna",
+      "admin_name": "Kaduna"
+    },
+    {
+      "city": "Osogbo",
+      "admin_name": "Osun"
+    },
+    {
+      "city": "Enugu",
+      "admin_name": "Enugu"
+    },
+    {
+      "city": "Bauchi",
+      "admin_name": "Bauchi"
+    },
+    {
+      "city": "Lokoja",
+      "admin_name": "Kogi"
+    },
+    {
+      "city": "Agege",
+      "admin_name": "Lagos"
+    },
+    {
+      "city": "Jalingo",
+      "admin_name": "Taraba"
+    },
+    {
+      "city": "Jos",
+      "admin_name": "Plateau"
+    },
+    {
+      "city": "Somolu",
+      "admin_name": "Lagos"
+    },
+    {
+      "city": "Uyo",
+      "admin_name": "Akwa Ibom"
+    },
+    {
+      "city": "Ile-Ife",
+      "admin_name": "Osun"
+    },
+    {
+      "city": "Ado-Ekiti",
+      "admin_name": "Ekiti"
+    },
+    {
+      "city": "Sokoto",
+      "admin_name": "Sokoto"
+    },
+    {
+      "city": "Ugep",
+      "admin_name": "Cross River"
+    },
+    {
+      "city": "Zaria",
+      "admin_name": "Kaduna"
+    },
+    {
+      "city": "Yola",
+      "admin_name": "Adamawa"
+    },
+    {
+      "city": "Nnewi",
+      "admin_name": "Anambra"
+    },
+    {
+      "city": "Gwoza",
+      "admin_name": "Borno"
+    },
+    {
+      "city": "Saki",
+      "admin_name": "Oyo"
+    },
+    {
+      "city": "Oyo",
+      "admin_name": "Oyo"
+    },
+    {
+      "city": "Ilesa",
+      "admin_name": "Osun"
+    },
+    {
+      "city": "Gusau",
+      "admin_name": "Zamfara"
+    },
+    {
+      "city": "Warri",
+      "admin_name": "Delta"
+    },
+    {
+      "city": "Umuahia",
+      "admin_name": "Abia"
+    },
+    {
+      "city": "Lafia",
+      "admin_name": "Nasarawa"
+    },
+    {
+      "city": "Okene",
+      "admin_name": "Kogi"
+    },
+    {
+      "city": "Katsina",
+      "admin_name": "Katsina"
+    },
+    {
+      "city": "Minna",
+      "admin_name": "Niger"
+    },
+    {
+      "city": "Kaura Namoda",
+      "admin_name": "Zamfara"
+    },
+    {
+      "city": "Nguru",
+      "admin_name": "Yobe"
+    },
+    {
+      "city": "Gombe",
+      "admin_name": "Gombe"
+    },
+    {
+      "city": "Hong",
+      "admin_name": "Adamawa"
+    },
+    {
+      "city": "Ondo",
+      "admin_name": "Ondo"
+    },
+    {
+      "city": "Sapele",
+      "admin_name": "Delta"
+    },
+    {
+      "city": "Iseyin",
+      "admin_name": "Oyo"
+    },
+    {
+      "city": "Damboa",
+      "admin_name": "Borno"
+    },
+    {
+      "city": "Ijebu-Ode",
+      "admin_name": "Ogun"
+    },
+    {
+      "city": "Owo",
+      "admin_name": "Ondo"
+    },
+    {
+      "city": "Osisioma",
+      "admin_name": "Abia"
+    },
+    {
+      "city": "Apapa",
+      "admin_name": "Lagos"
+    },
+    {
+      "city": "Burutu",
+      "admin_name": "Delta"
+    },
+    {
+      "city": "Kukawa",
+      "admin_name": "Borno"
+    },
+    {
+      "city": "Mai’Adua",
+      "admin_name": "Katsina"
+    },
+    {
+      "city": "Isanlu",
+      "admin_name": "Kogi"
+    },
+    {
+      "city": "Baure",
+      "admin_name": "Katsina"
+    },
+    {
+      "city": "Iwo",
+      "admin_name": "Osun"
+    },
+    {
+      "city": "Malumfashi",
+      "admin_name": "Katsina"
+    },
+    {
+      "city": "Epe",
+      "admin_name": "Lagos"
+    },
+    {
+      "city": "Inisa",
+      "admin_name": "Osun"
+    },
+    {
+      "city": "Ikot Ekpene",
+      "admin_name": "Akwa Ibom"
+    },
+    {
+      "city": "Funtua",
+      "admin_name": "Katsina"
+    },
+    {
+      "city": "Calabar",
+      "admin_name": "Cross River"
+    },
+    {
+      "city": "Biu",
+      "admin_name": "Borno"
+    },
+    {
+      "city": "Ada",
+      "admin_name": "Osun"
+    },
+    {
+      "city": "Bida",
+      "admin_name": "Niger"
+    },
+    {
+      "city": "Makurdi",
+      "admin_name": "Benue"
+    },
+    {
+      "city": "Offa",
+      "admin_name": "Kwara"
+    },
+    {
+      "city": "Ede",
+      "admin_name": "Osun"
+    },
+    {
+      "city": "Kisi",
+      "admin_name": "Oyo"
+    },
+    {
+      "city": "Zango",
+      "admin_name": "Katsina"
+    },
+    {
+      "city": "Dutse",
+      "admin_name": "Jigawa"
+    },
+    {
+      "city": "Ipokia",
+      "admin_name": "Ogun"
+    },
+    {
+      "city": "Auchi",
+      "admin_name": "Edo"
+    },
+    {
+      "city": "Asaba",
+      "admin_name": "Delta"
+    },
+    {
+      "city": "Numan",
+      "admin_name": "Adamawa"
+    },
+    {
+      "city": "Igboho",
+      "admin_name": "Oyo"
+    },
+    {
+      "city": "Ipetumodu",
+      "admin_name": "Osun"
+    },
+    {
+      "city": "Idanre",
+      "admin_name": "Ondo"
+    },
+    {
+      "city": "Mubi",
+      "admin_name": "Adamawa"
+    },
+    {
+      "city": "Gashua",
+      "admin_name": "Yobe"
+    },
+    {
+      "city": "Unwana",
+      "admin_name": "Abia"
+    },
+    {
+      "city": "Bama",
+      "admin_name": "Borno"
+    },
+    {
+      "city": "Ilobu",
+      "admin_name": "Osun"
+    },
+    {
+      "city": "Nsukka",
+      "admin_name": "Enugu"
+    },
+    {
+      "city": "Itele",
+      "admin_name": "Ogun"
+    },
+    {
+      "city": "Nkpor",
+      "admin_name": "Anambra"
+    },
+    {
+      "city": "Birnin Kebbi",
+      "admin_name": "Kebbi"
+    },
+    {
+      "city": "Azare",
+      "admin_name": "Bauchi"
+    },
+    {
+      "city": "Kontagora",
+      "admin_name": "Niger"
+    },
+    {
+      "city": "Wukari",
+      "admin_name": "Taraba"
+    },
+    {
+      "city": "Damaturu",
+      "admin_name": "Yobe"
+    },
+    {
+      "city": "Potiskum",
+      "admin_name": "Yobe"
+    },
+    {
+      "city": "Keffi",
+      "admin_name": "Nasarawa"
+    },
+    {
+      "city": "Idah",
+      "admin_name": "Kogi"
+    },
+    {
+      "city": "Ikom",
+      "admin_name": "Cross River"
+    },
+    {
+      "city": "Iperu",
+      "admin_name": "Ogun"
+    },
+    {
+      "city": "Iju",
+      "admin_name": "Ogun"
+    },
+    {
+      "city": "Igbanke",
+      "admin_name": "Edo"
+    },
+    {
+      "city": "Otukpo",
+      "admin_name": "Benue"
+    },
+    {
+      "city": "Chibok",
+      "admin_name": "Borno"
+    },
+    {
+      "city": "Ipele",
+      "admin_name": "Ondo"
+    },
+    {
+      "city": "Oke-Mesi",
+      "admin_name": "Ekiti"
+    },
+    {
+      "city": "Ikot Okoro",
+      "admin_name": "Akwa Ibom"
+    },
+    {
+      "city": "Itapa-Ekiti",
+      "admin_name": "Ekiti"
+    },
+    {
+      "city": "Kumo",
+      "admin_name": "Gombe"
+    },
+    {
+      "city": "Ikot Abasi",
+      "admin_name": "Akwa Ibom"
+    },
+    {
+      "city": "Ire",
+      "admin_name": "Osun"
+    },
+    {
+      "city": "Choba",
+      "admin_name": "Rivers"
+    },
+    {
+      "city": "Okuta",
+      "admin_name": "Kwara"
+    },
+    {
+      "city": "Koko",
+      "admin_name": "Kebbi"
+    },
+    {
+      "city": "Zungeru",
+      "admin_name": "Niger"
+    },
+    {
+      "city": "Tegina",
+      "admin_name": "Niger"
+    },
+    {
+      "city": "Jebba",
+      "admin_name": "Kwara"
+    },
+    {
+      "city": "Aiyetoro Gbede",
+      "admin_name": "Kogi"
+    },
+    {
+      "city": "Amawom",
+      "admin_name": "Abia"
+    },
+    {
+      "city": "Orlu",
+      "admin_name": "Imo"
+    },
+    {
+      "city": "Abakaliki",
+      "admin_name": "Ebonyi"
+    },
+    {
+      "city": "Isemi-Ile",
+      "admin_name": "Oyo"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "ACRONYM_AE": [
+    {
+      "acronym": "AZ",
+      "display": "Abu Dhabi"
+    },
+    {
+      "acronym": "DU",
+      "display": "Dubai"
+    },
+    {
+      "acronym": "SH",
+      "display": "Sharjah"
+    },
+    {
+      "acronym": "AJ",
+      "display": "Ajman"
+    },
+    {
+      "acronym": "UA",
+      "display": "Umm Al-Quwain"
+    },
+    {
+      "acronym": "RA",
+      "display": "Ras Al Khaimah"
+    },
+    {
+      "acronym": "FU",
+      "display": "Fujairah"
+    }
+  ],
+  "CITIES_AE": [
+    {
+      "city": "Dubai",
+      "admin_name": "Dubai"
+    },
+    {
+      "city": "Abu Dhabi",
+      "admin_name": "Abu Dhabi"
+    },
+    {
+      "city": "Sharjah",
+      "admin_name": "Sharjah"
+    },
+    {
+      "city": "Al ‘Ayn",
+      "admin_name": "Abu Dhabi"
+    },
+    {
+      "city": "Ajman",
+      "admin_name": "Ajman"
+    },
+    {
+      "city": "Ras Al Khaimah",
+      "admin_name": "Ras Al Khaimah"
+    },
+    {
+      "city": "Fujairah",
+      "admin_name": "Fujairah"
+    },
+    {
+      "city": "Umm Al-Quwain",
+      "admin_name": "Umm Al-Quwain"
+    },
+    {
+      "city": "Kalbā",
+      "admin_name": "Sharjah"
+    },
+    {
+      "city": "Khawr Fakkān",
+      "admin_name": "Sharjah"
+    },
+    {
+      "city": "Madīnat Zāyid",
+      "admin_name": "Abu Dhabi"
+    },
+    {
+      "city": "Al Jazīrah al Ḩamrā’",
+      "admin_name": "Ras Al Khaimah"
+    }
+  ]
+}

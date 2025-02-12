@@ -1,0 +1,262 @@
+{
+  "ACRONYM_MY": [
+    {
+      "acronym": "JHR",
+      "display": "Johor"
+    },
+    {
+      "acronym": "KDH",
+      "display": "Kedah"
+    },
+    {
+      "acronym": "KTN",
+      "display": "Kelantan"
+    },
+    {
+      "acronym": "MLK",
+      "display": "Melaka"
+    },
+    {
+      "acronym": "NSN",
+      "display": "Negeri Sembilan"
+    },
+    {
+      "acronym": "PHG",
+      "display": "Pahang"
+    },
+    {
+      "acronym": "PLS",
+      "display": "Perlis"
+    },
+    {
+      "acronym": "PNG",
+      "display": "Penang"
+    },
+    {
+      "acronym": "SGR",
+      "display": "Perak"
+    },
+    {
+      "acronym": "SLW",
+      "display": "Selangor"
+    },
+    {
+      "acronym": "TRG",
+      "display": "Terengganu"
+    },
+    {
+      "acronym": "KUL",
+      "display": "Kuala Lumpur"
+    },
+    {
+      "acronym": "LBN",
+      "display": "Labuan"
+    },
+    {
+      "acronym": "PUT",
+      "display": "Putrajaya"
+    }
+  ],
+  "CITIES_MY": [
+    {
+      "city": "Kuala Lumpur",
+      "admin_name": "Kuala Lumpur"
+    },
+    {
+      "city": "Seberang Jaya",
+      "admin_name": "Penang"
+    },
+    {
+      "city": "Klang",
+      "admin_name": "Selangor"
+    },
+    {
+      "city": "Ipoh",
+      "admin_name": "Perak"
+    },
+    {
+      "city": "George Town",
+      "admin_name": "Penang"
+    },
+    {
+      "city": "Petaling Jaya",
+      "admin_name": "Selangor"
+    },
+    {
+      "city": "Kuantan",
+      "admin_name": "Pahang"
+    },
+    {
+      "city": "Shah Alam",
+      "admin_name": "Selangor"
+    },
+    {
+      "city": "Sungai Petani",
+      "admin_name": "Kedah"
+    },
+    {
+      "city": "Johor Bahru",
+      "admin_name": "Johor"
+    },
+    {
+      "city": "Kota Bharu",
+      "admin_name": "Kelantan"
+    },
+    {
+      "city": "Melaka",
+      "admin_name": "Melaka"
+    },
+    {
+      "city": "Seremban",
+      "admin_name": "Negeri Sembilan"
+    },
+    {
+      "city": "Kluang",
+      "admin_name": "Johor"
+    },
+    {
+      "city": "Muar",
+      "admin_name": "Johor"
+    },
+    {
+      "city": "Pasir Gudang",
+      "admin_name": "Johor"
+    },
+    {
+      "city": "Kuala Terengganu",
+      "admin_name": "Terengganu"
+    },
+    {
+      "city": "Taiping",
+      "admin_name": "Perak"
+    },
+    {
+      "city": "Kajang",
+      "admin_name": "Selangor"
+    },
+    {
+      "city": "Teluk Intan",
+      "admin_name": "Perak"
+    },
+    {
+      "city": "Kulai",
+      "admin_name": "Johor"
+    },
+    {
+      "city": "Alor Setar",
+      "admin_name": "Kedah"
+    },
+    {
+      "city": "Bukit Mertajam",
+      "admin_name": "Penang"
+    },
+    {
+      "city": "Segamat",
+      "admin_name": "Johor"
+    },
+    {
+      "city": "Tumpat",
+      "admin_name": "Kelantan"
+    },
+    {
+      "city": "Batu Pahat",
+      "admin_name": "Johor"
+    },
+    {
+      "city": "Batu Gajah",
+      "admin_name": "Perak"
+    },
+    {
+      "city": "Bayan Lepas",
+      "admin_name": "Penang"
+    },
+    {
+      "city": "Port Dickson",
+      "admin_name": "Negeri Sembilan"
+    },
+    {
+      "city": "Labuan",
+      "admin_name": "Labuan"
+    },
+    {
+      "city": "Raub",
+      "admin_name": "Pahang"
+    },
+    {
+      "city": "Cukai",
+      "admin_name": "Terengganu"
+    },
+    {
+      "city": "Butterworth",
+      "admin_name": "Penang"
+    },
+    {
+      "city": "Putrajaya",
+      "admin_name": "Putrajaya"
+    },
+    {
+      "city": "Taman Senai",
+      "admin_name": "Johor"
+    },
+    {
+      "city": "Taman Johor Jaya",
+      "admin_name": "Johor"
+    },
+    {
+      "city": "Machang",
+      "admin_name": "Kelantan"
+    },
+    {
+      "city": "Tangkak",
+      "admin_name": "Johor"
+    },
+    {
+      "city": "Kangar",
+      "admin_name": "Perlis"
+    },
+    {
+      "city": "Rengam",
+      "admin_name": "Johor"
+    },
+    {
+      "city": "Cameron Highlands",
+      "admin_name": "Pahang"
+    },
+    {
+      "city": "Bukit Gambir",
+      "admin_name": "Johor"
+    },
+    {
+      "city": "Kampung Baharu Nilai",
+      "admin_name": "Negeri Sembilan"
+    },
+    {
+      "city": "Simpang Renggam",
+      "admin_name": "Johor"
+    },
+    {
+      "city": "Kuah",
+      "admin_name": "Kedah"
+    },
+    {
+      "city": "Parit Buntar",
+      "admin_name": "Perak"
+    },
+    {
+      "city": "Bidur",
+      "admin_name": "Perak"
+    },
+    {
+      "city": "Kuala Lipis",
+      "admin_name": "Pahang"
+    },
+    {
+      "city": "Perai",
+      "admin_name": "Penang"
+    },
+    {
+      "city": "Padang Besar",
+      "admin_name": "Perlis"
+    }
+  ]
+}

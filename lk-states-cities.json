@@ -1,0 +1,254 @@
+{
+  "ACRONYM_LK": [
+    {
+      "acronym": "WP",
+      "display": "Western Province"
+    },
+    {
+      "acronym": "CP",
+      "display": "Central Province"
+    },
+    {
+      "acronym": "EP",
+      "display": "Eastern Province"
+    },
+    {
+      "acronym": "NP",
+      "display": "Northern Province"
+    },
+    {
+      "acronym": "SP",
+      "display": "Southern Province"
+    },
+    {
+      "acronym": "UP",
+      "display": "Uva Province"
+    },
+    {
+      "acronym": "JP",
+      "display": "Sabaragamuwa Province"
+    },
+    {
+      "acronym": "NWP",
+      "display": "North Western Province"
+    }
+  ],
+  "CITIES_LK": [
+    {
+      "city": "Colombo",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Mount Lavinia",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Kesbewa",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Maharagama",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Moratuwa",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Ratnapura",
+      "admin_name": "Sabaragamuwa Province"
+    },
+    {
+      "city": "Negombo",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Kandy",
+      "admin_name": "Central Province"
+    },
+    {
+      "city": "Sri Jayewardenepura Kotte",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Mawanella",
+      "admin_name": "Sabaragamuwa Province"
+    },
+    {
+      "city": "Kotmale",
+      "admin_name": "Central Province"
+    },
+    {
+      "city": "Kalmunai",
+      "admin_name": "Eastern Province"
+    },
+    {
+      "city": "Hikkaduwa",
+      "admin_name": "Southern Province"
+    },
+    {
+      "city": "Trincomalee",
+      "admin_name": "Eastern Province"
+    },
+    {
+      "city": "Galle",
+      "admin_name": "Southern Province"
+    },
+    {
+      "city": "Kalpitiya",
+      "admin_name": "North Western Province"
+    },
+    {
+      "city": "Batticaloa",
+      "admin_name": "Eastern Province"
+    },
+    {
+      "city": "Athurugiriya",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Tissamaharama",
+      "admin_name": "Southern Province"
+    },
+    {
+      "city": "Mawatagama",
+      "admin_name": "North Western Province"
+    },
+    {
+      "city": "Weligama",
+      "admin_name": "Southern Province"
+    },
+    {
+      "city": "Tangalla",
+      "admin_name": "Southern Province"
+    },
+    {
+      "city": "Dambulla",
+      "admin_name": "Central Province"
+    },
+    {
+      "city": "Matara",
+      "admin_name": "Southern Province"
+    },
+    {
+      "city": "Kolonnawa",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Akurana",
+      "admin_name": "Central Province"
+    },
+    {
+      "city": "Galgamuwa",
+      "admin_name": "North Western Province"
+    },
+    {
+      "city": "Anuradhapura",
+      "admin_name": "Northern Province"
+    },
+    {
+      "city": "Gampaha",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Narammala",
+      "admin_name": "North Western Province"
+    },
+    {
+      "city": "Dikwella South",
+      "admin_name": "Southern Province"
+    },
+    {
+      "city": "Kalawana",
+      "admin_name": "Sabaragamuwa Province"
+    },
+    {
+      "city": "Nikaweratiya",
+      "admin_name": "North Western Province"
+    },
+    {
+      "city": "Puttalam",
+      "admin_name": "North Western Province"
+    },
+    {
+      "city": "Bakamune",
+      "admin_name": "Northern Province"
+    },
+    {
+      "city": "Badulla",
+      "admin_name": "Uva Province"
+    },
+    {
+      "city": "Sevanagala",
+      "admin_name": "Uva Province"
+    },
+    {
+      "city": "Matale",
+      "admin_name": "Central Province"
+    },
+    {
+      "city": "Gampola",
+      "admin_name": "Central Province"
+    },
+    {
+      "city": "Kalutara",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Bentota",
+      "admin_name": "Southern Province"
+    },
+    {
+      "city": "Bandarawela",
+      "admin_name": "Uva Province"
+    },
+    {
+      "city": "Pothuhera",
+      "admin_name": "North Western Province"
+    },
+    {
+      "city": "Kurunegala",
+      "admin_name": "North Western Province"
+    },
+    {
+      "city": "Mabole",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Hakmana",
+      "admin_name": "Southern Province"
+    },
+    {
+      "city": "Nuwara Eliya",
+      "admin_name": "Central Province"
+    },
+    {
+      "city": "Galhinna",
+      "admin_name": "Central Province"
+    },
+    {
+      "city": "Kegalle",
+      "admin_name": "Sabaragamuwa Province"
+    },
+    {
+      "city": "Hatton",
+      "admin_name": "Central Province"
+    },
+    {
+      "city": "Gandara West",
+      "admin_name": "Southern Province"
+    },
+    {
+      "city": "Hambantota",
+      "admin_name": "Southern Province"
+    },
+    {
+      "city": "Abasingammedda",
+      "admin_name": "Central Province"
+    },
+    {
+      "city": "Monaragala",
+      "admin_name": "Uva Province"
+    }
+  ]
+}

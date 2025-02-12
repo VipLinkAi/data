@@ -1,0 +1,1906 @@
+{
+  "ACRONYM_AR": [
+    {
+      "acronym": "B",
+      "display": "Buenos Aires"
+    },
+    {
+      "acronym": "K",
+      "display": "Catamarca"
+    },
+    {
+      "acronym": "H",
+      "display": "Chaco"
+    },
+    {
+      "acronym": "U",
+      "display": "Corrientes"
+    },
+    {
+      "acronym": "X",
+      "display": "Entre Ríos"
+    },
+    {
+      "acronym": "W",
+      "display": "Formosa"
+    },
+    {
+      "acronym": "Y",
+      "display": "Jujuy"
+    },
+    {
+      "acronym": "D",
+      "display": "La Pampa"
+    },
+    {
+      "acronym": "F",
+      "display": "La Rioja"
+    },
+    {
+      "acronym": "M",
+      "display": "Mendoza"
+    },
+    {
+      "acronym": "N",
+      "display": "Misiones"
+    },
+    {
+      "acronym": "Q",
+      "display": "Neuquén"
+    },
+    {
+      "acronym": "R",
+      "display": "Río Negro"
+    },
+    {
+      "acronym": "A",
+      "display": "Salta"
+    },
+    {
+      "acronym": "J",
+      "display": "San Juan"
+    },
+    {
+      "acronym": "S",
+      "display": "San Luis"
+    },
+    {
+      "acronym": "C",
+      "display": "Santa Cruz"
+    },
+    {
+      "acronym": "E",
+      "display": "Santa Fé"
+    },
+    {
+      "acronym": "I",
+      "display": "Santiago del Estero"
+    },
+    {
+      "acronym": "V",
+      "display": "Tierra del Fuego"
+    },
+    {
+      "acronym": "T",
+      "display": "Tucumán"
+    },
+    {
+      "acronym": "P",
+      "display": "Chubut"
+    },
+    {
+      "acronym": "WF",
+      "display": "Ciudad Autónoma de Buenos Aires"
+    }
+  ],
+  "CITIES_AR": [
+    {
+      "city": "Buenos Aires",
+      "admin_name": "Ciudad Autónoma de Buenos Aires"
+    },
+    {
+      "city": "Rosario",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Santiago del Estero",
+      "admin_name": "Santiago del Estero"
+    },
+    {
+      "city": "Comodoro Rivadavia",
+      "admin_name": "Chubut"
+    },
+    {
+      "city": "Mar del Plata",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Miguel de Tucumán",
+      "admin_name": "Tucumán"
+    },
+    {
+      "city": "Salta",
+      "admin_name": "Salta"
+    },
+    {
+      "city": "San Juan",
+      "admin_name": "San Juan"
+    },
+    {
+      "city": "Lanús",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Santa Fé",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Corrientes",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "San Salvador de Jujuy",
+      "admin_name": "Jujuy"
+    },
+    {
+      "city": "Bahía Blanca",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Pilar",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Resistencia",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Posadas",
+      "admin_name": "Misiones"
+    },
+    {
+      "city": "Quilmes",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Paraná",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Merlo",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "González Catán",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Formosa",
+      "admin_name": "Formosa"
+    },
+    {
+      "city": "Neuquén",
+      "admin_name": "Neuquén"
+    },
+    {
+      "city": "Banfield",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "José C. Paz",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Rafael",
+      "admin_name": "Mendoza"
+    },
+    {
+      "city": "La Plata",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Godoy Cruz",
+      "admin_name": "Mendoza"
+    },
+    {
+      "city": "Isidro Casanova",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Las Heras",
+      "admin_name": "Mendoza"
+    },
+    {
+      "city": "La Rioja",
+      "admin_name": "La Rioja"
+    },
+    {
+      "city": "Berazategui",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Luis",
+      "admin_name": "San Luis"
+    },
+    {
+      "city": "San Fernando",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "General Roca",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "José María Ezeiza",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Nicolás de los Arroyos",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Catamarca",
+      "admin_name": "Catamarca"
+    },
+    {
+      "city": "San Miguel",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Concordia",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Rafael Castillo",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Florencio Varela",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Justo",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Ituzaingó",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Temperley",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Ramos Mejía",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Puerto Madryn",
+      "admin_name": "Chubut"
+    },
+    {
+      "city": "Mendoza",
+      "admin_name": "Mendoza"
+    },
+    {
+      "city": "San Carlos de Bariloche",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "Lomas de Zamora",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Villa Mercedes",
+      "admin_name": "San Luis"
+    },
+    {
+      "city": "Bernal",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Esteban Echeverría",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Gualeguaychú",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Castelar",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Villa Krause",
+      "admin_name": "San Juan"
+    },
+    {
+      "city": "Luján",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Maipú",
+      "admin_name": "Mendoza"
+    },
+    {
+      "city": "La Banda",
+      "admin_name": "Santiago del Estero"
+    },
+    {
+      "city": "Pergamino",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Santa Rosa",
+      "admin_name": "La Pampa"
+    },
+    {
+      "city": "Concepción del Uruguay",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Libertad",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Morón",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Burzaco",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Zárate",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Río Grande",
+      "admin_name": "Tierra del Fuego"
+    },
+    {
+      "city": "Trelew",
+      "admin_name": "Chubut"
+    },
+    {
+      "city": "Río Gallegos",
+      "admin_name": "Santa Cruz"
+    },
+    {
+      "city": "Caseros",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Villa Luzuriaga",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Ciudad General Belgrano",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Rafaela",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "San Francisco Solano",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Necochea",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Presidencia Roque Sáenz Peña",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Olavarría",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Berisso",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Cipolletti",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "Chimbas",
+      "admin_name": "San Juan"
+    },
+    {
+      "city": "Campana",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Junín",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "General Rodríguez",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Grand Bourg",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Monte Chingolo",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Rivadavia",
+      "admin_name": "San Juan"
+    },
+    {
+      "city": "Rivadavia",
+      "admin_name": "Mendoza"
+    },
+    {
+      "city": "Puerto Iguazú",
+      "admin_name": "Misiones"
+    },
+    {
+      "city": "Remedios de Escalada",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Gobernador Gálvez",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Ezpeleta",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Martín",
+      "admin_name": "Mendoza"
+    },
+    {
+      "city": "Villa Celina",
+      "admin_name": "Ciudad Autónoma de Buenos Aires"
+    },
+    {
+      "city": "San Ramón de la Nueva Orán",
+      "admin_name": "Salta"
+    },
+    {
+      "city": "San Pedro",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Reconquista",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Ciudadela",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Luján de Cuyo",
+      "admin_name": "Mendoza"
+    },
+    {
+      "city": "Goya",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Bella Vista",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Lomas del Mirador",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Oberá",
+      "admin_name": "Misiones"
+    },
+    {
+      "city": "Wilde",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Martínez",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Santo Tomé",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Don Torcuato",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Gerli",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Pirané",
+      "admin_name": "Formosa"
+    },
+    {
+      "city": "Mercedes",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Banda del Río Salí",
+      "admin_name": "Tucumán"
+    },
+    {
+      "city": "Tartagal",
+      "admin_name": "Salta"
+    },
+    {
+      "city": "Villa Domínico",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Viedma",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "Los Polvorines",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Sarandí",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Hurlingham",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Garín",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "El Palomar",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Beccar",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Pedro",
+      "admin_name": "Jujuy"
+    },
+    {
+      "city": "Punta Alta",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Chivilcoy",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Glew",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "General Pico",
+      "admin_name": "La Pampa"
+    },
+    {
+      "city": "Eldorado",
+      "admin_name": "Misiones"
+    },
+    {
+      "city": "Tres Arroyos",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Ushuaia",
+      "admin_name": "Tierra del Fuego"
+    },
+    {
+      "city": "Rafael Calzada",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Azul",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Barranqueras",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Belén de Escobar",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Ensenada",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Mariano Acosta",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Clorinda",
+      "admin_name": "Formosa"
+    },
+    {
+      "city": "Guernica",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Caleta Olivia",
+      "admin_name": "Santa Cruz"
+    },
+    {
+      "city": "Ensenada Berisso",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "El Talar de Pacheco",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Palpalá",
+      "admin_name": "Jujuy"
+    },
+    {
+      "city": "Yerba Buena",
+      "admin_name": "Tucumán"
+    },
+    {
+      "city": "Concepción",
+      "admin_name": "Tucumán"
+    },
+    {
+      "city": "Villaguay",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Tunuyán",
+      "admin_name": "Mendoza"
+    },
+    {
+      "city": "Florida",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "La Reja",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Lorenzo",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Longchamps",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Catriel",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "Villa Constitución",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "General Martín Miguel de Güemes",
+      "admin_name": "Salta"
+    },
+    {
+      "city": "Libertador General San Martín",
+      "admin_name": "Jujuy"
+    },
+    {
+      "city": "San Lorenzo",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Trenque Lauquen",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Chajarí",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Balcarce",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Vicente",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Isidro",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "General Pacheco",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Paso de los Libres",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Dock Sur",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Gualeguay",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Coronel Suárez",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Esperanza",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Tolosa",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Llavallol",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Villa Ángela",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Tortuguitas",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Claypole",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Villa Alsina",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "José Mármol",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Apóstoles",
+      "admin_name": "Misiones"
+    },
+    {
+      "city": "Pinamar",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Tafí Viejo",
+      "admin_name": "Tucumán"
+    },
+    {
+      "city": "Virreyes",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Marcos Paz",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Ingeniero Pablo Nogués",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Chacabuco",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Aristóbulo del Valle",
+      "admin_name": "Misiones"
+    },
+    {
+      "city": "San Antonio de Padua",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Haedo",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Granadero Baigorria",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Esquel",
+      "admin_name": "Chubut"
+    },
+    {
+      "city": "Nueve de Julio",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Munro",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Cutral-Có",
+      "admin_name": "Neuquén"
+    },
+    {
+      "city": "Villa Adelina",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Villa Ballester",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Casilda",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Curuzú Cuatiá",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Centenario",
+      "admin_name": "Neuquén"
+    },
+    {
+      "city": "Chilecito",
+      "admin_name": "La Rioja"
+    },
+    {
+      "city": "Chascomús",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Mercedes",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Bragado",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "City Bell",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Plottier",
+      "admin_name": "Neuquén"
+    },
+    {
+      "city": "Termas de Río Hondo",
+      "admin_name": "Santiago del Estero"
+    },
+    {
+      "city": "Zapala",
+      "admin_name": "Neuquén"
+    },
+    {
+      "city": "Aguilares",
+      "admin_name": "Tucumán"
+    },
+    {
+      "city": "Quitilipi",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Fontana",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Cañuelas",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Avellaneda",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "General José de San Martín",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Pehuajó",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Lobos",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Pichanal",
+      "admin_name": "Salta"
+    },
+    {
+      "city": "Gobernador Virasora",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Victoria",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Miramar",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Villa Regina",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "General Alvear",
+      "admin_name": "Mendoza"
+    },
+    {
+      "city": "Villa Gesell",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Capitán Bermúdez",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Cañada de Gómez",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Garupá",
+      "admin_name": "Misiones"
+    },
+    {
+      "city": "Bella Vista",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Baradero",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "General San Martín",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Adrogue",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Caucete",
+      "admin_name": "San Juan"
+    },
+    {
+      "city": "Lincoln",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Martín de los Andes",
+      "admin_name": "Neuquén"
+    },
+    {
+      "city": "Malargüe",
+      "admin_name": "Mendoza"
+    },
+    {
+      "city": "Castelli",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Arrecifes",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Las Flores",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Frías",
+      "admin_name": "Santiago del Estero"
+    },
+    {
+      "city": "Charata",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Pérez",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Muñiz",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Rosario de la Frontera",
+      "admin_name": "Salta"
+    },
+    {
+      "city": "Dolores",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Firmat",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Jardín América",
+      "admin_name": "Misiones"
+    },
+    {
+      "city": "Mar de Ajó",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Leandro N. Alem",
+      "admin_name": "Misiones"
+    },
+    {
+      "city": "El Calafate",
+      "admin_name": "Santa Cruz"
+    },
+    {
+      "city": "Candelaria",
+      "admin_name": "Misiones"
+    },
+    {
+      "city": "Tres Isletas",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Rawson",
+      "admin_name": "Chubut"
+    },
+    {
+      "city": "La Paz",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Vicente López",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Embarcación",
+      "admin_name": "Salta"
+    },
+    {
+      "city": "Tapiales",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Funes",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Monte Caseros",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Veinticinco de Mayo",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Avellaneda",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Santo Tomé",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Añatuya",
+      "admin_name": "Santiago del Estero"
+    },
+    {
+      "city": "Monteros",
+      "admin_name": "Tucumán"
+    },
+    {
+      "city": "Colón",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Colón",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "San Andrés de Giles",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Manuel B. Gonnet",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Las Breñas",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Famaillá",
+      "admin_name": "Tucumán"
+    },
+    {
+      "city": "Allen",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "Nogoyá",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Cinco Saltos",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "Melchor Romero",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Martín",
+      "admin_name": "San Juan"
+    },
+    {
+      "city": "Machagai",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "San Justo",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Rosario de Lerma",
+      "admin_name": "Salta"
+    },
+    {
+      "city": "Alejandro Korn",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Antonio de Areco",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Carlos Casares",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Isidro de Lules",
+      "admin_name": "Tucumán"
+    },
+    {
+      "city": "Joaquín V. González",
+      "admin_name": "Salta"
+    },
+    {
+      "city": "San José de Jáchal",
+      "admin_name": "San Juan"
+    },
+    {
+      "city": "Pico Truncado",
+      "admin_name": "Santa Cruz"
+    },
+    {
+      "city": "Don Bosco",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Profesor Salvador Mazza",
+      "admin_name": "Salta"
+    },
+    {
+      "city": "Arroyo Seco",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Sunchales",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Carmen de Patagones",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Gálvez",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Matheu",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Brandsen",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Saavedra",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Villa Elisa",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Ituzaingó",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Crespo",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Vera",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Diamante",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Billinghurst",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Martín Coronado",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "El Bolsón",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "Carlos Spegazzini",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Rufino",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Saladas",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Aldo Bonzi",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Coronda",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "General Juan Madariaga",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Las Heras",
+      "admin_name": "Santa Cruz"
+    },
+    {
+      "city": "Santa Elena",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Cerrillos",
+      "admin_name": "Salta"
+    },
+    {
+      "city": "San Jorge",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Puerto Rico",
+      "admin_name": "Misiones"
+    },
+    {
+      "city": "Villa Sarmiento",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Ayacucho",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Santa María",
+      "admin_name": "Catamarca"
+    },
+    {
+      "city": "La Quiaca",
+      "admin_name": "Jujuy"
+    },
+    {
+      "city": "Daireaux",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Federación",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Puan",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Villa San José",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Carcarañá",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "General Villegas",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Antonio Oeste",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "Carhué",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Federal",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "La Lucila",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Santa Rosa",
+      "admin_name": "Mendoza"
+    },
+    {
+      "city": "General Pinedo",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Wanda",
+      "admin_name": "Misiones"
+    },
+    {
+      "city": "San Luis del Palmar",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Villa Paranacito",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Fray Luis A. Beltrán",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Bella Vista",
+      "admin_name": "Tucumán"
+    },
+    {
+      "city": "Villa Ocampo",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Villa Ojo de Agua",
+      "admin_name": "Santiago del Estero"
+    },
+    {
+      "city": "Carmen de Areco",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Tostado",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Ceres",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Rauch",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Cristóbal",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Roldán",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Benito Juárez",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Puerto Deseado",
+      "admin_name": "Santa Cruz"
+    },
+    {
+      "city": "Andalgalá",
+      "admin_name": "Catamarca"
+    },
+    {
+      "city": "Pigüé",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Las Rosas",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "San Javier",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "General Belgrano",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "General Viamonte",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Empedrado",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Puerto San Martín",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Plaza Huincul",
+      "admin_name": "Neuquén"
+    },
+    {
+      "city": "General Enrique Mosconi",
+      "admin_name": "Salta"
+    },
+    {
+      "city": "Chos Malal",
+      "admin_name": "Neuquén"
+    },
+    {
+      "city": "Chamical",
+      "admin_name": "La Rioja"
+    },
+    {
+      "city": "Acasusso",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Rosario del Tala",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "General Las Heras",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San Salvador",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Junín de los Andes",
+      "admin_name": "Neuquén"
+    },
+    {
+      "city": "General Acha",
+      "admin_name": "La Pampa"
+    },
+    {
+      "city": "Monte Quemado",
+      "admin_name": "Santiago del Estero"
+    },
+    {
+      "city": "Ingeniero Maschwitz",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Las Lomitas",
+      "admin_name": "Formosa"
+    },
+    {
+      "city": "Las Parejas",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Laguna Paiva",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Villa Unión",
+      "admin_name": "La Rioja"
+    },
+    {
+      "city": "Belén",
+      "admin_name": "Catamarca"
+    },
+    {
+      "city": "Presidencia de la Plaza",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Lobería",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Justo Daract",
+      "admin_name": "San Luis"
+    },
+    {
+      "city": "Villa Berthet",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Recreo",
+      "admin_name": "Catamarca"
+    },
+    {
+      "city": "Cafayate",
+      "admin_name": "Salta"
+    },
+    {
+      "city": "Tornquist",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Río Colorado",
+      "admin_name": "La Pampa"
+    },
+    {
+      "city": "Santa Lucía",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Navarro",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Coronel Dorrego",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Tinogasta",
+      "admin_name": "Catamarca"
+    },
+    {
+      "city": "Ramallo",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Humahuaca",
+      "admin_name": "Jujuy"
+    },
+    {
+      "city": "Capitán Sarmiento",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Armstrong",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "San Bernardo",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "El Trébol",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Villa La Angostura",
+      "admin_name": "Neuquén"
+    },
+    {
+      "city": "San Carlos Centro",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Quimilí",
+      "admin_name": "Santiago del Estero"
+    },
+    {
+      "city": "Roque Pérez",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Bernardo de Irigoyen",
+      "admin_name": "Misiones"
+    },
+    {
+      "city": "San Roque",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Sarmiento",
+      "admin_name": "Chubut"
+    },
+    {
+      "city": "Villa Nougues",
+      "admin_name": "Tucumán"
+    },
+    {
+      "city": "Campo Largo",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Ingeniero White",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Corzuela",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Ranchos",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "San José de Feliciano",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Villa Elisa",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Batán",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Choele Choel",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "La Leonesa",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Kaiken",
+      "admin_name": "Tierra del Fuego"
+    },
+    {
+      "city": "Alcorta",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Ciudad de Loreto",
+      "admin_name": "Santiago del Estero"
+    },
+    {
+      "city": "General Alvear",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Puerto Tirol",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Basavilbaso",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Henderson",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "La Paz",
+      "admin_name": "Mendoza"
+    },
+    {
+      "city": "Pedro Luro",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Adolfo Gonzáles Chaves",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Villa Cañás",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Abra Pampa",
+      "admin_name": "Jujuy"
+    },
+    {
+      "city": "Punta Indio",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Magdalena",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Capilla del Señor",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Romang",
+      "admin_name": "Santa Fé"
+    },
+    {
+      "city": "Monte Rico",
+      "admin_name": "Jujuy"
+    },
+    {
+      "city": "Sauce",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Rada Tilly",
+      "admin_name": "Chubut"
+    },
+    {
+      "city": "Santa Sylvina",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Coronel Du Graty",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "Mburucuyá",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Urdinarrain",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Villa Aberastain",
+      "admin_name": "San Juan"
+    },
+    {
+      "city": "Viale",
+      "admin_name": "Entre Ríos"
+    },
+    {
+      "city": "Maipú",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Yacimiento Río Turbio",
+      "admin_name": "Santa Cruz"
+    },
+    {
+      "city": "La Cruz",
+      "admin_name": "Corrientes"
+    },
+    {
+      "city": "Pampa del Infierno",
+      "admin_name": "Chaco"
+    },
+    {
+      "city": "San Julián",
+      "admin_name": "Santa Cruz"
+    },
+    {
+      "city": "Ingeniero Guillermo N. Juárez",
+      "admin_name": "Formosa"
+    },
+    {
+      "city": "Comandante Luis Piedra Buena",
+      "admin_name": "Santa Cruz"
+    },
+    {
+      "city": "Ingeniero Jacobacci",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "Veintiocho de Noviembre",
+      "admin_name": "Santa Cruz"
+    },
+    {
+      "city": "Chepes",
+      "admin_name": "La Rioja"
+    },
+    {
+      "city": "Veinticinco de Mayo",
+      "admin_name": "La Pampa"
+    },
+    {
+      "city": "General Conesa",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "San Antonio de los Cobres",
+      "admin_name": "Salta"
+    },
+    {
+      "city": "Perito Moreno",
+      "admin_name": "Santa Cruz"
+    },
+    {
+      "city": "Gobernador Gregores",
+      "admin_name": "Santa Cruz"
+    },
+    {
+      "city": "Victorica",
+      "admin_name": "La Pampa"
+    },
+    {
+      "city": "Comandante Fontana",
+      "admin_name": "Formosa"
+    },
+    {
+      "city": "Las Lajas",
+      "admin_name": "Neuquén"
+    },
+    {
+      "city": "El Maitén",
+      "admin_name": "Chubut"
+    },
+    {
+      "city": "Uspallata",
+      "admin_name": "Mendoza"
+    },
+    {
+      "city": "Darregueira",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Trancas",
+      "admin_name": "Tucumán"
+    },
+    {
+      "city": "Villalonga",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Río Mayo",
+      "admin_name": "Chubut"
+    },
+    {
+      "city": "Rodeo",
+      "admin_name": "San Juan"
+    },
+    {
+      "city": "Chumbicha",
+      "admin_name": "Catamarca"
+    },
+    {
+      "city": "Alto Río Senguer",
+      "admin_name": "Chubut"
+    },
+    {
+      "city": "Sierra Colorada",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "Los Blancos",
+      "admin_name": "Salta"
+    },
+    {
+      "city": "Susques",
+      "admin_name": "Jujuy"
+    },
+    {
+      "city": "Comallo",
+      "admin_name": "Río Negro"
+    },
+    {
+      "city": "Gastre",
+      "admin_name": "Chubut"
+    },
+    {
+      "city": "Telsen",
+      "admin_name": "Chubut"
+    },
+    {
+      "city": "Tandil",
+      "admin_name": "Buenos Aires"
+    },
+    {
+      "city": "Rinconada",
+      "admin_name": "Jujuy"
+    },
+    {
+      "city": "Venado Tuerto",
+      "admin_name": "Santa Fé"
+    }
+  ]
+}

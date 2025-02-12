@@ -1,0 +1,330 @@
+{
+  "ACRONYM_GH": [
+    {
+      "acronym": "AA",
+      "display": "Ashanti"
+    },
+    {
+      "acronym": "BA",
+      "display": "Brong-Ahafo"
+    },
+    {
+      "acronym": "CE",
+      "display": "Central"
+    },
+    {
+      "acronym": "EP",
+      "display": "Eastern"
+    },
+    {
+      "acronym": "NE",
+      "display": "Northern"
+    },
+    {
+      "acronym": "OT",
+      "display": "Oti"
+    },
+    {
+      "acronym": "TV",
+      "display": "Volta"
+    },
+    {
+      "acronym": "UE",
+      "display": "Upper East"
+    },
+    {
+      "acronym": "UW",
+      "display": "Upper West"
+    },
+    {
+      "acronym": "WR",
+      "display": "Western"
+    },
+    {
+      "acronym": "X",
+      "display": "Western North"
+    }
+  ],
+  "CITIES_GH": [
+    {
+      "city": "Kumasi",
+      "admin_name": "Ashanti"
+    },
+    {
+      "city": "Boankra",
+      "admin_name": "Ashanti"
+    },
+    {
+      "city": "Tamale",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Domaa-Ahenkro",
+      "admin_name": "Brong-Ahafo"
+    },
+    {
+      "city": "Sekondi",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Sunyani",
+      "admin_name": "Brong-Ahafo"
+    },
+    {
+      "city": "Obuase",
+      "admin_name": "Ashanti"
+    },
+    {
+      "city": "Cape Coast",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Koforidua",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Suhum",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Wa",
+      "admin_name": "Upper West"
+    },
+    {
+      "city": "Dzolokpuita",
+      "admin_name": "Volta"
+    },
+    {
+      "city": "Ho",
+      "admin_name": "Volta"
+    },
+    {
+      "city": "Ahenkro",
+      "admin_name": "Oti"
+    },
+    {
+      "city": "Konongo",
+      "admin_name": "Ashanti"
+    },
+    {
+      "city": "Ejura",
+      "admin_name": "Ashanti"
+    },
+    {
+      "city": "Bawku",
+      "admin_name": "Upper East"
+    },
+    {
+      "city": "Swedru",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Bolgatanga",
+      "admin_name": "Upper East"
+    },
+    {
+      "city": "Aflao",
+      "admin_name": "Volta"
+    },
+    {
+      "city": "Berekum",
+      "admin_name": "Brong-Ahafo"
+    },
+    {
+      "city": "Nkawkaw",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Tafo",
+      "admin_name": "Ashanti"
+    },
+    {
+      "city": "Oda",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Hohoe",
+      "admin_name": "Volta"
+    },
+    {
+      "city": "Winneba",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Yendi",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Bogoso",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Begoro",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Nsawam",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Mampong",
+      "admin_name": "Ashanti"
+    },
+    {
+      "city": "Asamankese",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Savelugu",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Agogo",
+      "admin_name": "Ashanti"
+    },
+    {
+      "city": "Anloga",
+      "admin_name": "Volta"
+    },
+    {
+      "city": "Prestea",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Effia-Kuma",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Tarkwa",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Gyapekurom",
+      "admin_name": "Brong-Ahafo"
+    },
+    {
+      "city": "Elmina",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Kpandu",
+      "admin_name": "Volta"
+    },
+    {
+      "city": "Axim",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Navrongo",
+      "admin_name": "Upper East"
+    },
+    {
+      "city": "Apam",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Saltpond",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Akwatia",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Shama",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Nyakrom",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Keta",
+      "admin_name": "Volta"
+    },
+    {
+      "city": "Seva",
+      "admin_name": "Volta"
+    },
+    {
+      "city": "Somanya",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Peduasi",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Aburi",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Mumford",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Kade",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Odumase",
+      "admin_name": "Brong-Ahafo"
+    },
+    {
+      "city": "Anomabu",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Akropong",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Diari",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Gumani",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Kete Krachi",
+      "admin_name": "Oti"
+    },
+    {
+      "city": "Kibi",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Kpandae",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Mpraeso",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Akim Swedru",
+      "admin_name": "Eastern"
+    },
+    {
+      "city": "Karaga",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Aboso",
+      "admin_name": "Western"
+    },
+    {
+      "city": "Chamba",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Dambai",
+      "admin_name": "Oti"
+    },
+    {
+      "city": "Sefwi Wiawso",
+      "admin_name": "Western North"
+    }
+  ]
+}

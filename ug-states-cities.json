@@ -1,0 +1,26 @@
+{
+  "ACRONYM_UG": [
+    {
+      "acronym": "C",
+      "display": "Central Region"
+    },
+    {
+      "acronym": "E",
+      "display": "Eastern Region"
+    },
+    {
+      "acronym": "N",
+      "display": "Northern Region"
+    },
+    {
+      "acronym": "W",
+      "display": "Western Region"
+    }
+  ],
+  "CITIES_UG": [
+    {
+      "city": "",
+      "admin_name": ""
+    }
+  ]
+}

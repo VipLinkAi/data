@@ -1,0 +1,286 @@
+{
+  "ACRONYM_IL": [
+    {
+      "acronym": "D",
+      "display": "Dan"
+    },
+    {
+      "acronym": "C",
+      "display": "Central"
+    },
+    {
+      "acronym": "J",
+      "display": "Jerusalem"
+    },
+    {
+      "acronym": "N",
+      "display": "Northern"
+    },
+    {
+      "acronym": "S",
+      "display": "Southern"
+    },
+    {
+      "acronym": "T",
+      "display": "Tel Aviv"
+    }
+  ],
+  "CITIES_IL": [
+    {
+      "city": "Tel Aviv-Yafo",
+      "admin_name": "Tel Aviv"
+    },
+    {
+      "city": "Jerusalem",
+      "admin_name": "Jerusalem"
+    },
+    {
+      "city": "Rishon LeẔiyyon",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Petaẖ Tiqwa",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Ashdod",
+      "admin_name": "Southern"
+    },
+    {
+      "city": "Netanya",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Beersheba",
+      "admin_name": "Southern"
+    },
+    {
+      "city": "Holon",
+      "admin_name": "Tel Aviv"
+    },
+    {
+      "city": "Bené Beraq",
+      "admin_name": "Tel Aviv"
+    },
+    {
+      "city": "Ramat Gan",
+      "admin_name": "Tel Aviv"
+    },
+    {
+      "city": "Ashqelon",
+      "admin_name": "Southern"
+    },
+    {
+      "city": "Reẖovot",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Bat Yam",
+      "admin_name": "Tel Aviv"
+    },
+    {
+      "city": "Bet Shemesh",
+      "admin_name": "Jerusalem"
+    },
+    {
+      "city": "Kefar Sava",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Modi‘in Makkabbim Re‘ut",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Herẕliyya",
+      "admin_name": "Tel Aviv"
+    },
+    {
+      "city": "Nazareth",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Lod",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Ramla",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Ra‘ananna",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Qiryat Gat",
+      "admin_name": "Southern"
+    },
+    {
+      "city": "Rahat",
+      "admin_name": "Southern"
+    },
+    {
+      "city": "Afula",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Nahariyya",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Givatayim",
+      "admin_name": "Tel Aviv"
+    },
+    {
+      "city": "Hod HaSharon",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Rosh Ha‘Ayin",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Eilat",
+      "admin_name": "Southern"
+    },
+    {
+      "city": "Nes Ẕiyyona",
+      "admin_name": "Central"
+    },
+    {
+      "city": "‘Akko",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "El‘ad",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Ramat HaSharon",
+      "admin_name": "Tel Aviv"
+    },
+    {
+      "city": "Karmiel",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Tiberias",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Eṭ Ṭaiyiba",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Ben Zakkay",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Qiryat Ono",
+      "admin_name": "Tel Aviv"
+    },
+    {
+      "city": "Shefar‘am",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Or Yehuda",
+      "admin_name": "Tel Aviv"
+    },
+    {
+      "city": "Ẕefat",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Dimona",
+      "admin_name": "Southern"
+    },
+    {
+      "city": "Tamra",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Netivot",
+      "admin_name": "Southern"
+    },
+    {
+      "city": "Sakhnīn",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Be’er Ya‘aqov",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Yehud",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Ofaqim",
+      "admin_name": "Southern"
+    },
+    {
+      "city": "Kefar Yona",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Gedera",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Eṭ Ṭīra",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Migdal Ha‘Emeq",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Giv‘at Shemu’él",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Arad",
+      "admin_name": "Southern"
+    },
+    {
+      "city": "Yoqne‘am ‘Illit",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Ma‘alot Tarshīḥā",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Qiryat Mal’akhi",
+      "admin_name": "Southern"
+    },
+    {
+      "city": "Sederot",
+      "admin_name": "Southern"
+    },
+    {
+      "city": "Qiryat Shemona",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Gan Yavne",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Kafr Qāsim",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Qalansuwa",
+      "admin_name": "Central"
+    },
+    {
+      "city": "Bet She’an",
+      "admin_name": "Northern"
+    },
+    {
+      "city": "Majdal Shams",
+      "admin_name": "Northern"
+    }
+  ]
+}
