@@ -1,0 +1,30 @@
+{
+  "ACRONYM_SJ": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_SJ": [
+    {
+      "city": "Olonkinbyen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grumantbyen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moskushamn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Camp Morton",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Revesmauet (historical)",
+      "admin_name": "N/A"
+    }
+  ]
+}

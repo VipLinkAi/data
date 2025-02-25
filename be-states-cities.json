@@ -1,0 +1,1166 @@
+{
+  "ACRONYM_BE": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_BE": [
+    {
+      "city": "Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Laken",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neder-Over-Heembeek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haren",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Atomium",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Manneken Pis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brussels Central Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Law Courts of Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sablon area",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tour et Taxis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City of Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Musical Instruments Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "building Berlaymont",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Galeries Royales Saint-Hubert",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "building Justus Lipsius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mont des Arts",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "King Baudouin Stadium",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Royal Museums of Fine Arts of Belgium",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Royal Palace of Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Notre-Dame de Laeken",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "castle Laken",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Théâtre Royal de la Monnaie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brussels Expo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bruxells Schuman",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brussel Kapellekerk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "European Parliament",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St. Michael and St. Gudula Cathedral",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Le Plaza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Astoria Brussels - managed by Sofitel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Metropole Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saint-Louis University, Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Center for Fine Arts",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Delirium cafè",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Université libre de Bruxelles (ULB)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dansaert area",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Royal Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "European district",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Toukoul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vleurgat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belgian National Geographic Institute",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hilton Brussels Grand Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Royal Museum of the Armed Forces and Military History",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vlaamse Dienst voor Arbeidsbemiddeling en Opleiding Headquarters",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Mondo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Plaza Liege City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City hall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Turnhout City Htl",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Arlon Porte De Luxembourg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anselmus City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Plus Turnhout City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Arlon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Express by Holiday Inn Mechelen City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Police Antwerp City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Express Antwerp City North",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lindner Hotel & City Lounge Antwerpen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Styles Antwerpen City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo Charleroi City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Apartments Antwerpen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Inn Luxe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel ANTWERP CITY CENTER HOTEL",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel LINDNER & CITY LOUNGE",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Thon Hotel Brussels City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hilton Garden Inn Brussels City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nh Brussels City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pillows Brussels City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nh City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "DoubleTree by Hilton Brussels City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western City Centre Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bw City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pentahotel Brussels City Centre Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Be Manos Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Dominican",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Garden Court Brussels Expo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "NH Du Grand Sablon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Comic centrum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maison Communale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Central Station Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Indumat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Conrad Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jolly Hotel Du Grand Sablon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "NH Grand Place Arenberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "New Hotel Charlemagne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Martin's Central Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Floris Arlequin Grand'Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saint-Nicolas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marivaux Hotel & Congress Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Royal Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Royal Windsor Hotel Grand'Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Silken Berlaymont Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bedford Hotel & Congress Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radisson SAS Royal Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Floris Ustel Midi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bristol Stephanie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Euroflat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bedford",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eurostars Grand Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Opera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Royal Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Astoria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Royal Windsor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Crowne Plaza Europa Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Off Grand Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amigo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel Off Grand Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nh Collection Brussels Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "President Nord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marriott Brussels Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eurovillage",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eurostars Grand Place Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Le Dome",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Astrid Centre Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rocco Forte Hotel Amigo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Metropole Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Premier Hotel Carrefour de l'Europe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Le Chatelain All Suite Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Floris Grand-Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Du Congres",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Queen Anne Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Izan Avenue Louise",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Euro Capital Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Continental Bruxelles",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Beau Site",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brussels Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Atel Capital",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Brussels Off Grand Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Atlas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Atel Opera Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "La Madeleine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aris Grand Place Hotel Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Belmont",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aristote Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Scandic Grand Place Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Warwick Barsey Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Floris Avenue",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "First Euroflat Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Chantecler",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eurostars Sablon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Centrale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Citadines Sainte-Catherine Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel George V",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Le Centenaire",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Auberge Autrichienne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "MAS Residence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eurostars Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alma Grand Place Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The White Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Residence Florence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel Brussels Centre Tour Noire",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Brussels Centre Sainte Catherine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Manoir Du Lac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pegasus Apparthotel Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ehsal Europese Hogeschool Brussel / Campus Prinssenstraat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ehsal Europese Hogeschool Brussel / Campus Economische Hogeschool",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ehsal Europese Hogeschool Brussel / Campus Nieuwland",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Erasmushogeschool Brussel / Campus Communicatie / Hotel & Toerisme",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Erasmushogeschool Brussel / Campus Koninklijk Conservatorium",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Erasmushogeschool Brussel / Rits",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Erasmushogeschool Brussel / Campus Toegepaste Taalkunde",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haute Ecole De Bruxelles / Heb",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haute Ecole De Bruxelles / Esi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haute Ecole De La Communauté Française Paul Henri Spaak / Algemeen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haute Ecole Francisco Ferrer De La Ville De Bruxelles / Algemeen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Embassy of Somalia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Manhattan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tulip Inn Boulevard Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alliance Hotel Brussels Expo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel Brussels Off Grand Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Exe Grand Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rs Lemonnier",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Georges V",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rs Hotel Midi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "B-Aparthotels Grand Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Steigenberger Grandhotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mini Europe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chez Jef Et Fils",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parking 58",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolle Mol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mokafe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Le Bier Circus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio Access Brussels Europe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Martins Brussels Eu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sandton Pillows Brussels Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "B Aparthotel Grand Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radisson Blu Royal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Max Hotel Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio Brussels Centre Monnaie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Apartments Apart Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Thon Hotel Eu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Midi Business Lodge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marriott Executive Apartments",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Saint Michel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Barry",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "B&B Taptoe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Cafe Pacific",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Matignon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Opera Residence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Loft Apartments",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "European Union Flats",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "B-Aparthotel Ambiorix",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Expo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Le Centenaire Brussels Expo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Midi Station Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "B-Aparthotel Regent",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saint Roch Apartment",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sandton Brussels Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Slina Hotel Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Moon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Residence Marie Therese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Odette En Ville",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Noga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marivaux Congress and Seminar Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maison Noble",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Le Grand Colombier",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Le Dixseptième",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Le Centenaire Apparthotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "La Vieille Lanterne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "La Madelaine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "La Legende",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Orts Café",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Heysel Expo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Galia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Esperance",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brussels@Heart",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bandb Lit de Senne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bandb Le Val Des Roses",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bandb Le Coup de Coeur",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alma Grande Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Agenda Louise",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Abberdeen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aatrid Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "A La Grande Cloche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio Brussels Centre Monnaire Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nh Brussels Carrefour de El Europe Non Refoundable",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Le Centrenaire Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Warwick Barsey Hotel Non Refundable Room",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Solys Midi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Crown Plaza Brussels Europa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Le 9Hotel Central",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Floris Arlequin At Grand Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Astrid Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Apts Citadines Sainte Catherine Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chelton Hotel Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yser",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nh Brussels Carrefour De Le Europe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Gc Expo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel First Euroflat Bruxelles",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Floris Arlequin Grand Place Bruxelles",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Aloft Shuman Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Floris Avenue Bruxelles",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Apts Adagio Bruxelles Centre Monnaie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Grand Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nh Gp Arenberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Georgev",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Le Dome I And Ii",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Citadines Bruxelles Sainte Catherine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Citadines St Catherine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Le Chatelain Boutique Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "9Hotel Central",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Mozart",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nh Brussels Carrefour De L'Europe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museés Royaux d´Art et d´Histoire",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Martin's Brussels Eu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Steigenberger Grand Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "La Madeleine Hotel Grand Place Brussels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Exe Sablon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brussels Apartmentsapart",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Styles Brussels Louise Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Agora Apartments",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vendome",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio Cithotel Brussels Centre Monnaie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "B-Aparthotels Ambiorix",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Hotel Royal Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bed & Breakfast La Villa Zarin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mini Europe Eiffel Tower",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "ERTICO Blue Tower Louise",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel ADAGIO BRUSSELS CENTRE MONNAIE",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel ALOFT SCHUMAN",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel RADISSON BLU ROYAL",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel SANDTON BRUSSELS CENTRE",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brussels Town Hall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Place des Martyrs",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Château du Stuyvenberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Catalonia Grand Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barsey By Warwick",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dansaert",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Labokube",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Aloft Shuman Brussells",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Floris Louise Bruxelles",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Embassy of the Republic of Armenia to the Kingdom of Belgium",
+      "admin_name": "N/A"
+    }
+  ]
+}

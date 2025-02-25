@@ -1,0 +1,1030 @@
+{
+  "ACRONYM_SI": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_SI": [
+    {
+      "city": "Ljubljana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maribor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maribor City Municipality",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Opština Maribor-Rotovže",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljansko Barje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Polje District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Center District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bežigrad District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dravlje District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golovec District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jarše District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Posavje District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rožnik District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sostro District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šentvid District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šmarna Gora",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trnovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vič District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Limbuš",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kamnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Razvanje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pekre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bresternica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gaj nad Mariborom",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dogoše",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jelovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rošpoh",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Počehova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šober",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meljski Hrib",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malečnik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zrkovci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vrhov Dol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grušova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trčova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrastje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Laznica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Celestrina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ribniško Selo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vinarje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vodole",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Srednje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pekel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Za Kalvarijo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nebova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Glinica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lipe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kozarje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koseze",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ježica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Javor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Janče",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Savlje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rudnik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rašica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podgrad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tacen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Studenec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stožice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sostro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šentpavel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Črnuče",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Besnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nadgorica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sneberje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zalog",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vižmarje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vevče",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tuji Grm",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolgo Brdo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dvor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zgornja Besnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sadinja Vas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Češnjica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pance",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dole pri Polici",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dobrunje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jarše",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prežganje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Polje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podmolnik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podlipoglav",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Toško Čelo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stanežiče",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spodnji Kašelj",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spodnje Gameljne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spodnja Zadobrova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spodnja Hrušica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šmartno pod Šmarno Goro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šmartno ob Savi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šmarna gora",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Črna Vas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Medno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malo Trebeljevo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mali Lipoglav",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bizovik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zgornji Kašelj",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zgornje Gameljne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zgornja Zadobrova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zgornja Hrušica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zadvor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Volavlje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vnajnarje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Veliko Trebeljevo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Veliki Lipoglav",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brezje pri Lipoglavu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zagradišče",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Selo pri Pancah",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ravno Brdo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Srednje Gameljne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gabrje pri Jančah",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zavrh pod Šmarno goro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mali Vrh pri Prežganju",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dravlje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ježa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podgorica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spodnja Šiška",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šentvid",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moste",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zgornja Šiška",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vič",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "BTC City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maribor Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mariborski Otok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Drenikov Vrh",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sveti Jakob ob Savi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljansko Polje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prešeren monument",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana Thermal Power Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piran city",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brezje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vautošek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blanke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piramida",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sveti Urban",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žavcerjev Vrh",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maribor Bus Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grmada",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrastje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grajska Planota",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fužine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pogled",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Orlov Vrh",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mrše",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lomniki",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ilovica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mežnar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Urh",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gunclje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pobrežje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gruberjev Prekop",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Štepanjsko naselje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tivoli park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel City Maribor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marles",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Limbuš",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bau",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bellevue",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Habakuk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Betnava",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lent",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arena",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tabor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lipa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dras",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Ljubljana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maribor Tezno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maribor Tabor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maribor Studenci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maribor Sokolska",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tezno Radio Mast",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Habakukspa & Wellness",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gozdna Villa Mari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Bajt - Garni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Orel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Plus Hotel Piramida",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Villa Emei",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Youth Hostel Uni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Videc",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Habakuk Annex",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zgornje Radvanje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Motel Pri Lesniku",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana Tivoli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Litostroj",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana Stegne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Medno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana Vodmat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana Moste",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana Zalog",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana Brinje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana Brinje Industrijska",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana Ježica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana Črnuče",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Smelt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana Šiška",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana Rakovnik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana Polje Train Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana Vižmarje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Velika Graben",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lev Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel M",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kongo Hotel and Casino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Hotel Union - Executive",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mons Hotel & Congress Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Domina Ljubljana Hotel & Spa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bw Premier Hotel Slon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Trojane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alibi Hostel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Park Hostel Ljubljana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alibi M14 Hostel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vila Minka Apartments",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Union Garni Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hostel Tresor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plaza Ljiubljana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nox Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ahotel Ljubljana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Birokrat Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana Resort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Antiq Palace Hotel & Spa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Levc",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Premier Hotel Slon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "G Design",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Emonec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Austria Trend Ljubljana Non Refundable Room",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stil",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lesar Hotel Angel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bit Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Allegro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pri Ancki Pension",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plaza Hotel Ljubljana Rs",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Old Town Rooms And Apartmens",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Medno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St. Nicholas' Cathedral",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mesarski Bridge (Butchers' Bridge, Lockers' Bridge)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zmajski Bridge (Franz Joseph's Bridge, Dragons' Bridge)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chimney of Ljubljana Thermal Power Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šiška Heating Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel ANTIQ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Antiq Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel AUSTRIA TREND LJUBLJANA",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel BEST WESTERN SLON",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel CENTRAL",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel CUBO",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel GRAND UNION BUSINESS",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel MEKSIKO",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel VANDER URBANI RESORT",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Emona House Archaeological Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubljana grad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St.Cyril Orthodox Church",
+      "admin_name": "N/A"
+    }
+  ]
+}

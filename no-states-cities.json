@@ -1,0 +1,54 @@
+{
+  "ACRONYM_NO": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_NO": [
+    {
+      "city": "Olonkinbyen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "My City Home Apartments",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Scandic Oslo City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Living Hotel Tromso",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Scandic Bergen City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Living Scholler",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Living Hotel Lipp",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Scandic Rock City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Scandic Stavanger City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Scandic City Fredrikstad",
+      "admin_name": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "ACRONYM_BZ": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_BZ": [
+    {
+      "city": "Belize City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belize City Municipal Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Medway City Main Village",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fort George",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anchorage Resort Hotel Belize City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "BIRDS EYE VIEW LODGE",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Caye Chapel Island Resort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radisson Fort George Hotel and Marina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Princess Hotel and Casino Belize",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Belize Biltmore Plaza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Great House Belize",
+      "admin_name": "N/A"
+    }
+  ]
+}

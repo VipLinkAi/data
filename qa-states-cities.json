@@ -1,0 +1,58 @@
+{
+  "ACRONYM_QA": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_QA": [
+    {
+      "city": "Mercure Grand Hotel Doha City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Intercontinental Doha The City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marriott Marquis City Center D",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Inn Al Seef Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Courtyard By Marriott Doha City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Courtyard Doha City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Renaissance Doha City Center H",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marriott Executive Apartments Doha City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marriott Marquis City Center Doha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Villa Hotel and Residence City Center Doha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Villa Hotel and Residence City Centre Doha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Villa Hotel And Residence City Centre Doha",
+      "admin_name": "N/A"
+    }
+  ]
+}

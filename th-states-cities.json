@@ -1,0 +1,826 @@
+{
+  "ACRONYM_TH": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_TH": [
+    {
+      "city": "Bangkok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Don Mueang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Phra Nakhon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Phra Kaew",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Phuket City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Happy City Golf Resort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Sam Phraya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Phraborom Maharatchawang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Samran Rat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Chaopho Suea",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sao Chingcha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Ratchabophit",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bowon Niwet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Talat Yot",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chana Songkhram",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ban Phan Thom",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bang Khun Phrom",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wang Burapha Phirom",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rangsit City Municipality",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ban Phli Siti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ban Kaden City Polo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Mahathat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Pho",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Democracy Monument",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Walled City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Chana Songkhram Ratchaworawihan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Bu Ron Siri Ma Taya Ram",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Rat Pradit Sathit Maha Sima Ram",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Phra Chetuphon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Noranat Suntha Ri Ka Ram",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bang Lam Phu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Phra Nakhon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Khao San",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Siam Park City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Wat Suthat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mahawitthayalai Sinlapakon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Wat Mahan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mahawitthayalai Thammasat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Witthayalai Nattasin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Bowonniwet Wihan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Satri Witthaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Rachini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Pho",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Sangwet Witsayaram",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Sam Phraya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sathaban Theknoloyi Ratchamongkhon Witthayakhet Pho Chang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Ben Chom Racha Lai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Si Rattana Satsada Ram",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Lak Mueang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Mahora Ron Pha Ram",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Phra Nakhon Phanitchayakan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Wat Mahathat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Amphon Phaisan Anuson",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Wat Sangwet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Benchama Racha Lai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Suthat Thep Wara Ram",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Rat Natda Ram Worawihan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Wat Bowonniwet Wihan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Trithot Thep",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Wat Makut Kasat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Makut Kasat Tri Ya Ram",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Mai Amata Rut",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Mai Amata Rot",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Wat Makut Kasat Ri Ya Ram",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Iam Won Nut",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat In Thon Wihan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Wat In Thon Wihan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Satri Won Nak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Wat Rat Bophit",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Saen Ya Nu Tharon Witthaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Witthayalai Achiwa Sueksa Saowapha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Suan Kulap Witthayalai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Wat Rat Burana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rongrian Tang Tong Chit Phanitchayakan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Rat Baphit Sathit Maha Sima Ram",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Rat Burana Ratchaworawihan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Thip Wari Wihan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Chao Pho Ho Klong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Park Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nouvo City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "New World City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bangkok City Inn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Lodge Soi 19",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Lodge Soi9",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Siam City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bangkok Rama Place City Resort & Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Lodge Bangkok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pratunam City Inn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Silom City Inn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oakwood City Residence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Royal City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Lodge Soi 9",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mida City Resort Bangkok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oakwood City Residence Bangkok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Diamond City Hotel Pratunam",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jasmine City (Deluxe Studio)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Lodge Sukhumvit Soi 9",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Lodge Sukhumvit Soi 19",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chatrium Riverside (Grand City)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amari City Lodge Soi 19",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amari City Lodge Soi 9",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ratchada City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mida City Resort Bangkok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sun City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Diamond City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibrik Resort In The City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "New World City Hotel Formerly New World Lodge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chatrium RiversideGrnd Ste 1Br City Vw",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gassan Lake City Golf & Resort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Patong City Hotel Phuket",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "BP Chiang Mai City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ambassador City Jomtien",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Royal Phuket City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krabi City Seaview Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golden City Rayong Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Thai City Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Siwalai City Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sun City Pattaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ambassador City Jomtien - Garden Wing",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ambassador City Jomtien - Inn Wing",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ambassador City Jomtien - Tower Wing",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ambassador City Jomtien - Ocean Wing)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Sriracha And Spa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kee Resort And Spa Deluxe City Vw Ro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Patong Bay Garden Deluxe City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ambassador City Jomtien Jomtien Beach",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bp Chiangmai City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The City Hotel Sriracha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tohsang City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palm Springs Hotel And City Resort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Deevana (Superior City View)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Thipurai City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Beach Resort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Xin City Samui Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bang Khun Prom Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Mongkut Krasat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Karuha Bodi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Theppathida",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Sam Chin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Pakini Nart",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bossotel Inn Bangkok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Navalai River Resort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sawasdee Khaosan Inn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sawasdee Krungthep Inn  Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trang Hotel Bangkok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Convenient Resort Suvarnabhumi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buddy Lodge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wat Indrawihan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Menam Riverside",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viengtai Hotel Near Khao Sarn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nine Forty One Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sabye Bangkok Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Top Inn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Feung Nakorn Balcony",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Steve Boutique Hostel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "13 Coins Tower Hotel Tiwanon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "13 Coins Resort Yotin Pattana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Miramar Hotel Bangkok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bhiman Inn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viengtai Standard",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sala Rattanakosin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riva Surya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golden Tulip Essential Vasu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rambuttri Village Inn and Plaza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sourire @ Rattanakosin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Diamond House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Here Hostel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sawasdee Smile InnRoom Only",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villa Cha Cha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sleep With Inn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Thai Cozy House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suneta Hostel Khaosan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rikka Inn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Khaosan Palace Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banglumpoo Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baan Noppawong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Old Bangkok Inn Bangkok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sawasdee Welcome Inn Ro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sawasdee Banglumpoo Inn Ro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tuptim Bed & Breakfast",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rambuttri Village Inn & Plaza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Alpine Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aurum The River Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Old Bangkok Inn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "13 Coins Resort Yothin Pattana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buddy Boutique Inn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wild Orchid Villa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Green House Hostel Bangkok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Siamese Views Lodge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nappark Hostel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Korbua House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amarin Inn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arun Residence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baan Chart Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lucky House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dang Derm Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "D&D Inn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chakrabongse Villas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Royal Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bang Bua Thong Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riverine Place Riverside Serviced Apartment",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grande Ville Superior Room Only",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Feung Nakorn Balcony Rooms & Cafe",
+      "admin_name": "N/A"
+    }
+  ]
+}

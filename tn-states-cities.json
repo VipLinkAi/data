@@ -1,0 +1,30 @@
+{
+  "ACRONYM_TN": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_TN": [
+    {
+      "city": "Amira City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Médina City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City One Gammarth",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mido Club Toboggan City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Acholla",
+      "admin_name": "N/A"
+    }
+  ]
+}

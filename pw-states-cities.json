@@ -1,0 +1,1082 @@
+{
+  "ACRONYM_PW": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_PW": [
+    {
+      "city": "Koror",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koror Town",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koror",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malakal Port",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jellyfish Lake",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerekebesang Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerchemai Hamlet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ulebsechel Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koror Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngeruktabel Islands",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerukeuid Islands Wildlife Preserve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malakal Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mecherchar Islands",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ulong Islands",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rael Dil",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerukeuid Islands",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rock Islands",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mecherchar Islands",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ulong Islands",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngeruktabel Islands",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rock Islands",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerkeseuaol Hamlet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngermid Hamlet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerbeched Hamlet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerumetochel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngemlis Islands",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ongetkatel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bukrrairong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belual A Kelat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngetmeduch",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerur",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngertechiel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerdis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngebedangel Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngeanges",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerbechetei Islets",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kuabesngas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iilblau",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rock Islands",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dmasech",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eil Malk - Bkul a Chesemiich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chemoi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Beduliaes",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ongael",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngkesill",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngedesakr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngetkuml",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Echol Hamlet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngeremekediu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ucheliungs",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Toirius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tlutkaraguis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tengetcheyangel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngermeaus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngebedel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kuat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kemokem",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iyebukel Hamlet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Desomel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cheleu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bailechesengel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eil Malk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chomedokl Islets",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerechong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bkul a Ngchus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oimadelchesuch",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oilouch",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chowid",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerchaol Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngermeuangel Peninsula",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngelsibel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngebedangel Island North Tip",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meyungs Hamlet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meduu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Medalaii Hamlet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mchochaeo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kuabeserrai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Itabchemingl - NW Ngermeuangel Peninsula",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Toachel Iou",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iberor Islets",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Beab Islets",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bablomekang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerumekoal Spawning Area",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngederrak Reef Conservation Area",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngkisaol Sardines Sanctuary",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rock Islands Conservation Area",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngemlis Islands No Fishing Area",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aulong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Icebox Park - Malakal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngaremeduu Bay Conservation Area",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tuker",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kltaltebechel Marine Lake",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Desomel Ridge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rirs Bital",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Echang Hamlet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sngall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Roiskebesang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngeremdiu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngereklim Rocks",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerchebukl",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerbodel Hamlet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rois Ketund",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ioulomekang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Euidelchol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Itelblong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bkulsechuul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Emesiochel - Ngeruktabel Island NorthWest Tip",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Toachel ra Ngel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Uchelbeluu Barrier Reef",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngederrak Reef Awash",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klouel Toi Passage",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Toachel ra Kesebekuu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Beluuchoar Bank",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerkebuit",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Roisemelachel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngeruktabel Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gamudoko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Etpison Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerkebeas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerusisech",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngkael",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palau High School",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arimasuku",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schonian Harbor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Biduul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tngeronger Hamlet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chesemiich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerikuul Bay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Metukeruikull",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Omekang Barrier Reef",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meketii Hamlet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerekebesang Hamlet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Llebuchel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Emesiochel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Denges Channel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chesau Barrier Reef",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belau National Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kmekumer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Olkeriil",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kisaol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Butottoribo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngeritang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngermalk Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerunguikl",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngesomel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ongingiang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ordachel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Reberaber",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tibedul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Uchulangas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ullemetamel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngellang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Idid Hamlet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malakal Harbor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rikelau",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Uchulayas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerchaol Island East Tip",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngeruktabel Island North Tip",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngeruktabel Island NorthEast Tip",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngeruktabel Island South Tip",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bridge Islet - Natural Arch",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ulebsechel Island North Tip",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koror Historic Capital Island -2006",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Survivor Camp of Antelope Wreck 1783",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bkul A Techedoched",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koror Road",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mesikm Channel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kekereiel Toi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sam's Tours Diving Malakal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rock Islands - Limestone Forest Cover",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bkulatiull Mangroves",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koror Harbor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malakal Causeway and Bridge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kobasang Harbor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kabes Barrier Reef Awash",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Toachel Belau",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ikelau Hamlet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meyungs Causeway",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Teongel Channel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nikko Bay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "WCTC Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerchebed Dock",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malakal Quarry",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Public Library",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Freshwater Pond",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerikuul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Terrangel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Edchib",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ikesiil Bay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daerur",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ongelunge Channel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Long Beach",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cave Paintings",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malakal Water Tower",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malakal Telecom Tower",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malakal Pass Light House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malakal Smaller Vessel Pass",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sea Passion Hotel - Malakal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palau Royal Resort - Malakal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolphins Pacific - Shows and Education",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "West Plaza Malakal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "West Plaza Coral Reef - Koror",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "West Plaza by the Sea - Koror",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Asahi Baseball Stadium",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "National Track and Field Stadium",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palasia Hotel Palau - Koror",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Carolines Resort - Ngerkebesang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koror Docks",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meyungs Water Tower",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palau Visitors Authority",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Landmark Marina Hotel - Koror",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Waterfront Villa - Koror",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "PICRC Palau International Coral Reef Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malakal Yacht Anchorages",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palau Plantation Resort - Koror",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "JP Seaplane Ramp North WW2",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "JP Seaplane Pier WW2",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "JP Seaplane Ramp West WW2",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "JP Seaplane Ramp SouthWest WW2",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Echang Boat Docks",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Toachel Mid Pass",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malakal Commercial Pier",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malakal Petroleum Pier",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malakal Fishing Vessel Pier",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malakal Lighter Quay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palau Ministry of Education",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Emmaus High School",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belau National Gym",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seventh- Day Adventists Church",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "SDA Elementary School",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saint Joseph Church - Ngerkebesang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meyungs Elementary School",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngermid Boat Pier",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "former JP Administration Building",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mindszenty High School",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koror Elementary School",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stone Walls and Prehistoric Artifacts 3000 BP",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Green Bay Hotel - Koror",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sacred Heart Catholic Church",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maris Stella Elementary School",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malakal Port - Mandatory Palau Yacht Clearance",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "George B. Harris Elementary School",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koror Quarry",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belau National Hospital",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koror Post Office",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palau Mariculture Development Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngeroleamel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerumekaul False Reef Channel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ongalkereel Lagoon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palau Crocodile Farm",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palau Community College",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palau Supreme Court",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Achei Uchul Barrier Reef",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Urecheruchel Reef Awash",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Demul Iou",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meyungs Derromel Pier",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Butiaur Barrier Reef West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mekeald Reef Awash",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chudel Barrier Reef Awash",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mutkebesang - Barrier Reef West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerdiluches Barrier Reef West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Irikl Mangrove Swamp",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngerutekill",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palau Pacific Resort - Ngerkebesang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Embassy of Japan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Embassy of the Republic of China - Taiwan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Embassy of the Philippines",
+      "admin_name": "N/A"
+    }
+  ]
+}

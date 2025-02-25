@@ -1,0 +1,42 @@
+{
+  "ACRONYM_JO": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_JO": [
+    {
+      "city": "Karak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Industrial City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Security Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sport City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City and Village Development Bank",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Madīnat al Ḩasan ar Riyāḑīyah",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Idārat ad Difā‘ al Madanī - Markaz al Madīnah",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Markaz Amn al Madīnah",
+      "admin_name": "N/A"
+    }
+  ]
+}

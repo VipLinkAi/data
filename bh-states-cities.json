@@ -1,0 +1,46 @@
+{
+  "ACRONYM_BH": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_BH": [
+    {
+      "city": "Awali",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Center Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Manama City Centre Bahrain",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kempinski Grand & Ixir Hotel Bahrain City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kempinski Grand & Ixir Bahrain City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Westin Bahrain City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Le Meridien Bahrain City Cente",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Westin Bahrain City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Westin And Le Meridien Bahrain City Centre Ex Kempinski Grand And Ixir Hotel Bahrain",
+      "admin_name": "N/A"
+    }
+  ]
+}

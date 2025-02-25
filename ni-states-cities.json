@@ -1,0 +1,22 @@
+{
+  "ACRONYM_NI": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_NI": [
+    {
+      "city": "Pearl Lagoon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kansas City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barcelo Managua City",
+      "admin_name": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "ACRONYM_BS": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_BS": [
+    {
+      "city": "Nassau",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Freeport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lucaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Freeport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Bahama International Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pinders Point",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Bahama Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spring City Settlement",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Smith Point",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nicholas Channel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wilson City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Williams Town",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Silver Point",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Madioca Point",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Crab Cay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Northwest Providence Channel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bell Channel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pinder Point Shoal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Westin Grand Bahama Island Our Lucaya Resort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sheraton Grand Bahama Island Our Lucaya Resort",
+      "admin_name": "N/A"
+    }
+  ]
+}

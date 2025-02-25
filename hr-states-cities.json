@@ -1,0 +1,1830 @@
+{
+  "ACRONYM_HR": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_HR": [
+    {
+      "city": "Zagreb",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Osijek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pula",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sesvete",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Varaždin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Čakovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dubrovnik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koprivnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sisak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vukovar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donji grad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zagreb",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Velika Gorica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vinkovci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Knin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Črnomerec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City of Čakovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Town of Varaždin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Peščenica – Žitnjak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podsused – Vrapče",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City of Koprivnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Town of Sisak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sesvete",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maksimir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stenjevec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podsljeme",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brezovica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Town of Velika Gorica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pula",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vinkovci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Osijek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vukovar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Knin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jezero Jarun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trnje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Town of Dubrovnik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sarvaš",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buzin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donji Grad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gornja Dubrava",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donja Dubrava",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dotršćina Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gornji Grad  –  Medveščak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novi Zagreb – istok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novi Zagreb  –  zapad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trešnjevka  –  sjever",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trešnjevka  –  jug",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kućan Marof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jalkovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ivanja Reka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrašćica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jankomir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Reka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Horvati",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zadvorsko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gradići",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donja Lomnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kuče",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kraljevec Kupinečki",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Selnica Šćitarjevska",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buševec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Budaševo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Odranski Obrež",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novo Čiče",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novaki Šćitarjevski",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mraclin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mičevec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lukavec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zaton",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Velika Mlaka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dubrovnik Port",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kuršanec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ivanovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novo Selo Rok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mačkovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Savska Ves",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mokošica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrvatski Leskovac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrašće Turopoljsko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Josipovac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ježdovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tenja",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sotin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Odra",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mali Brijun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lučko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brijest",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Višnjevac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Veliki Brijun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Veliko Polje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City of Trogir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zbelava",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bakovčica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adamovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hudi Bitek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Herešin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gušće",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grančari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gornji Dragonožec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Goli Breg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ðurđekovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dumovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donje Komarevo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lipnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kučilovina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kašina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jesenovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šašinovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Topolovac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stupno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Strmec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Starjak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Špansko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cerje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brezovica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brebernica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belovar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Madžari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lužan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lukavec Posavski",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Starigrad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blaguša",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrastelnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žerjavinec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vurot",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Desprim",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Demerje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Soblinec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Poljana Biškupečka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Totovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Štefanec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Črnec Biškupečki",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mihovljan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žiškovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vrapče",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Slemenice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novo Selo na Dravi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gornji Trpuci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gornje Podotočje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gornje Komarevo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gornja Lomnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dubranec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stara Drenčina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donji Trpuci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donji Dragonožec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donje Podotočje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Glavnica Donja",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lekneno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kozjača",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Komolac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kobilić",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ključić Brdo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rožat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ribnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rakitovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novo Pračno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Popovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pleso",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Petrovina Turopoljska",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Petina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trsteno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sustjepan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Strmec Bukevski",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Staro Čiče",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sop Bukevski",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šipanska Luka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šiljakovina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šćitarjevo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Črnkovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cerovski Vrh",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brsečine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blinjski Kut",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Osojnik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Orašac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ogulinec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Odra Sisačka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Obrezina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novo Selo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Markuševec Turopoljski",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mala Buna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lopud",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Okuje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vukovina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vukomerić",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Velika Buna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Turopolje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lozica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lazina Čička",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mala Kosnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Velika Kosnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Poljana Čička",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Drežnik Brezovički",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zablatje Posavsko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bapča",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sasi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Drenje Šćitarjevsko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trnje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Staro Pračno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novi Zagreb",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vrbani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gornji Čehi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golubić",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donji Čehi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lipovača",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kninsko Polje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radljevac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Strmica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Botinec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blato",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mala Mlaka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kovačić",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nemetin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marina in Korcula City, Korcula",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gojanec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donji Kućan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krištanovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šandorovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jagnjedovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stenjevec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gustelnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gudci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gornja Glavnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Goranec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Glavničica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jazvenik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palanjek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Čigoč",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Markuševec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maksimir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žabno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Veliko Svinjičko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gruž",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gromača",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kliševo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prijevor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sudurad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Čajkovići",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novaki Kraljevečki",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Čajkovica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Črnomerec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Horvati",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šalata",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Čučerski Vidovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oćestovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mirkovci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žagrović",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zagreb / Maksimir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Britanski trg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Park Dugave",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maksimir Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jakuševec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Borovo Naselje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zagreb West railway station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gornji Grad - Medveščak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dugave",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grabovo-part",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zagreb Main station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bijenik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kućan Gornji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mikulići",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lukšić",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Greda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dobrodol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Letovanci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kratečko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krapje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prepuštovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Preloščica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suvoj",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šestine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sela",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mužilovčica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moravče",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lonja",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sesvetski Kraljevec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Staro Selo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vugrovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sljeme",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donje Obuljeno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gornje Obuljeno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dubravica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubač",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šumet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bosanka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Knežica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pobrežje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nova Mokošica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lucko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donji Bukovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Štinjan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sopnica Sesvetska",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Škatari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Markuševečka Trnava",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Markuševečka Dubrava",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eugen Kvaternik Square",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zagreb ZOO",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Medvedgrad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "UNIZG",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Faculty of Humanities and Social Sciences",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zagreb TV Tower",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klisa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sveta Klara",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podravlje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plavno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Briješće",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podkonje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lužac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ovčara",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jakobovac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zagreb Borongaj",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vrpolje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saint Mark's Church",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trokut",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Faculty of Electrical Engineering and Computing",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Biškupec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kobiljak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jagodno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Remete",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Planina Gornja",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klobučak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Draganovac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kašinska Sopnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Petravec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prekvršje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Markovo Polje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paruževina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Planina Donja",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Budenec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gajec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vugrovec Gornji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šimunčevec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vurnovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Drenčec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Havidić Selo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Štaglinec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kunovec Breg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novo Selo Palanječko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bukovsko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bukovčak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jerebić",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prvonožina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Crnac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gornje Vrapče",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Resnik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podsused",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Petruševec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žitnjak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vukomerec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bačun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrbtić",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gračani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jelkovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jalševec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bidrovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hobolići",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mrakovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Frajga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Odžak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lapad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Štikovica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mrčevo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mravinjac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mala Gorica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Petrovo Selo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koločep",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lazi Turopoljski",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cvetković Brdo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Horvati",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrvatski Leskovac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podsused Stajalište",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vrapče",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trnava",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Čulinec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sesvete",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Odra",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Granešina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gornji Bukovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šikići",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Čulinec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Čučerje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maksimir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sesvetski Kraljevec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Crna Voda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kustošija",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zaprešić Savska",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buzin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zagreb Klara",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Remetinec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gajnice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zagreb Bus Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sesvetska Sopnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podsused Tvornica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mavračići",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zagreb Žitnjak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zagreb Resnik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrelić",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Polača",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Remetinec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tvrđavica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zagreb-Sloboština",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Centar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mitnica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ljubač",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sela Sesvetska",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Caprag",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brestje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gornji Pustakovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kurilovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rakarje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mjekov Tor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vojnovo Selo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sutulija",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šilovo Selo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hilton Imperial Dubrovnik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dubrovnik ferry port",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sigečica naselje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prigorje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paganor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trg žrtava fašizma",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Borongaj",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podsljeme",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trešnjevka- jug",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jakuševec interchange",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lučko interchange",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Municirije",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cvjetno naselje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Železnička Stanica Sesvete Kraljevec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buzinski Krči",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zagreb west interchange",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Center Sunset Apartments",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Old City Inn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The City Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Beach Apartment",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Design Hostel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Center one West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Canopy by Hilton Zagreb City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zadar City Harbor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tomislavov Dom",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gandalf Tattoo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fontana kralja Tomislava",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Petar Preradović square",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Musée d'art contemporain",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lotrščak tower",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Botanic Garden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Supernova Zagreb",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sportski park Mladost",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Point Shopping Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riverside Golf Zagreb",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Garden Mall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vatroslav Lisinski",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Archaeological Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plaza Josipa Jelačića",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hilton Garden Inn Zagreb - Radnicka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Temple of Augustus",
+      "admin_name": "N/A"
+    }
+  ]
+}

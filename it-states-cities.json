@@ -1,0 +1,4010 @@
+{
+  "ACRONYM_IT": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_IT": [
+    {
+      "city": "Milan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vatican City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milano Malpensa Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cinisello Balsamo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Legnano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sesto San Giovanni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Abbiategrasso",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Segrate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Donato Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rho",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milan Linate Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rozzano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pioltello",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Corsico",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parabiago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bresso",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bollate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lainate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Giuliano Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rescaldina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Solaro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sedriano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cusano Milanino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cornaredo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cormano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cologno Monzese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cerro Maggiore",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cernusco sul Naviglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Castano Primo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paullo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paderno Dugnano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Opera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nerviano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Melzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Melegnano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Carugate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Canegrate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Busto Garolfo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bareggio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baranzate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arluno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vimodrone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Magenta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gorgonzola",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Garbagnate Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Noviglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Sempione",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Trenno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Monte Stella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bresso Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Robecco sul Naviglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trezzo sull'Adda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trezzano sul Naviglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trezzano Rosa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Corbetta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Colturano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cassina de' Pecchi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cassano d'Adda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novate Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boffalora sopra Ticino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vermezzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vaprio d'Adda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Locate di Triulzi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milan Cathedral",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Polytechnic University of Milan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mediglia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Caleppio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rosate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rodano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Robecchetto con Induno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pogliano Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Turbigo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Truccazzano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tribiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Senago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Santo Stefano Ticino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dairago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cuggiono",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cisliano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Casorezzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Casarile",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pantigliate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ozzero",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ossona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Motta Visconti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marcallo con Casone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Carpiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cambiago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buscate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Binasco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Besate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bernate Ticino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arconate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zibido San Giacomo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vittuone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villa Cortese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vignate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vanzago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vanzaghello",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Magnago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Liscate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Inzago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Inveruno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gaggiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pieve Emanuele",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bussero",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cesate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dresano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chiaravalle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Figino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Casate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Colombano al Lambro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sforza Castle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Zenone al Lambro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pinacoteca di Brera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Santa Maria delle Grazie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Musocco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baggio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basiglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Masate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Albairate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grezzago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Settala",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trecella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cantalupo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villastanza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nosate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Morimondo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vernate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pero",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cesano Boscone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pozzo d'Adda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cassinetta di Lugagnano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gessate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gudo Visconti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Vittore Olona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vizzolo Predabissi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Giorgio Su Legnano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zelo Surrigone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cerro al Lambro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Acquario Civico",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Passirana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vaiano Valle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Biblioteca Ambrosiana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco della City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Liberty City Fun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rogoredo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Quarto Oggiaro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Albignano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Crescenzago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bruzzano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bovisa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vigentino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Linate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lambrate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arconate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Besate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rescaldina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fizzonasco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gratosoglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Città Studi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lorenteggio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Quartiere Otto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Greco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ortica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milano Due",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Lambro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Giardini Pubblici",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Solari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Forlanini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bosco in Città",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Canegrate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Carpiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Casorezzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Castano Primo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cinisello Balsamo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cisliano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cologno Monzese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cormano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cornaredo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Corsico",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dairago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Inveruno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Inzago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lacchiarella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novate Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parabiago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rosate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Turbigo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vittuone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baranzate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arluno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bernate Ticino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Binasco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bollate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buscate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Busto Garolfo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cusano Milanino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gaggiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gorgonzola",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Legnano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Liscate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Melzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Morimondo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ossona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ozzero",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sedriano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Senago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vermezzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villa Cortese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vanzaghello",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cerro Maggiore",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paullo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Abbiategrasso",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Colturano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Garbagnate Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Motta Visconti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vanzago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bresso",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Melegnano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nerviano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Solaro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cambiago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Carugate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cuggiono",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pioltello",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pogliano Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trezzano Rosa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lainate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rozzano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Segrate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vimodrone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tribiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bareggio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paderno Dugnano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pieve Emanuele",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mediglia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buccinasco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Settimo Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basiglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bussero",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cesano Boscone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cesate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Assago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pozzuolo Martesana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dresano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gessate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Masate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mesero",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vizzolo Predabissi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Albairate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grezzago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Settala",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Noviglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cusago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pregnana Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pobbiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Selvanesco-Gaggiolo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Cusago di Sotto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Poasco-Sorigherio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Grazia Deledda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Vittorio Bachelet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Chico Mendes",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Pietro Nenni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Gianni Rodari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Bressanella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco dei Platani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Tirelli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco della Nave",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Sereno Tagliabue",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco dell'Acqua",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Viale Margherita",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Via Alessandrina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Via Leopardi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Via Negrelli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Via della Quercia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Antonio Gramsci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Guarnazzola",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Villa Manzoni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco La Strescia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Sola Cabiati",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco ansa del naviglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Dei Germani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Boccadoro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Martin Luther King",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Villa Scheibler",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Franco Verga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Via Molinazzo/Papa Giovanni XXIII",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco della Balossa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Via Argentina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Via Tripoli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Via Gadames",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Via Fosse Ardeatine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Cabassina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Travaglia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Giorgella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Sandro Pertini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Villa Sioli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Via Togliatti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco via XXIV Maggio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Lago Nord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Via Toti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oasi dei Gelsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Villa Ghirlanda Silva",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Renzo Rivolta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco degli Scout",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco delle Betulle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco dei Pini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco dei Gelsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco della Resistenza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dromokart Romano Banco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Via dei Navigli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Area ex stella corsico",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco dell'Olona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piscina Comunale di Parabiago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "IdroPark",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Nord San Giuliano Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco della Pieve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Guido Galli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Alessandrini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Trapezio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Trabattoni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Pubblico Comunale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Lombardo Valle del Ticino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Europa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco della Rosa Camuna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco del Bosco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco dei Bambini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Avventura Rescaldina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco del Roccolo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco del Castello",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Quattro Elle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Arcadia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Comunale 8 Marzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco dei Fontanili",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Comunale di Sarmazzano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oplà Village",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Pirandello",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Monlue",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ghisolfa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco delle Cave",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Privato Condominio Capinera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rovido Industriale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Serenella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Verdi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Andrea Campagna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Don Enrico Civillini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Giochi Pubblico",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Bovesin della Riva",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Occhio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Rozzano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oasi Smeraldino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Via Grandi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Emilio De Marchi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Via Cappellini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Via La Malfa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Belloni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Bolzano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco dei Ronchi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco ex-ILA",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco della Costituzione",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Francesco di Cataldo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco La Baronella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parchetto della Maddalena",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Romano Banco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vighignolo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mombretto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riozzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Millepini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sant'Agata Martesana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Premenugo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cerello-Battuello",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villaggio Residenziale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Badile",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Furato",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ronco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Santa Corinna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Torrazza dei Mandelli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cantalupa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Ravizza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Giambellino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Quartiere Villa Magentino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Porta Magenta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boldinasco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Laghetto Azzurro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Europa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vermezzo con Zelo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Giardini di Piazza Leonardo da Vinci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Giardino Anna Stepanovna Politkovskaja",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Ca Granda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco delle Groane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brera Botanical Garden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Peschiera Borromeo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Calvignasco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boffalora sopra Ticino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marcallo con Casone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nosate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Giuliano Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Santo Stefano Ticino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trezzano sul Naviglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Truccazzano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pantigliate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Robecco sul Naviglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Colombano al Lambro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Donato Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trezzo sull'Adda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vaprio d'Adda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vernate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rodano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cassano d'Adda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Zenone al Lambro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Locate di Triulzi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Opera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zibido San Giacomo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cassina de' Pecchi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cernusco sul Naviglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Corbetta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vignate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Casarile",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Robecchetto con Induno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pero",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pessano con Bornago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pozzo d'Adda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cassinetta di Lugagnano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Vittore Olona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Giorgio su Legnano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cerro al Lambro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via Arese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco del Collegio dei Padri Oblati",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villa Burba Cornaggia Medici",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco di Via San Michele del Carso",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Villa Visconti - Banfi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Villa Scheibler Simonetta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chiesa Rossa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milano Porta Garibaldi Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Magenta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Magnago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rho",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Calvignasco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gudo Visconti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bellinzago Lombardo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bubbiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zelo Surrigone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Rurale Cascina Gatti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Marx",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Gramsci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villa Marzorati Zorn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sesto San Giovanni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Castelletto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ospitaletto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cavallotta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Isola Bettolina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Grande",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Castagna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Nibbio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Fiorentina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Contina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Barbaziano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Mereghetti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Bertapelli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Puccini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Metalino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bazzana Superiore",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Giacomo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villazurli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via Villapia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Molinazzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Nuova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pizzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Rosa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bugo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gatta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Basiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baraggetta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Quattro Strade",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Varesina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Moroni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via Gagarin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fiorano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Roncaglia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Guzzafame",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Ticinello",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Oldani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mirazzano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Micona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Concorezzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Longona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Riazzolo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Caluzzano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Case Popolari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zoate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Pignone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Valdarenne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Traversagna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Faustina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Torriggio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Poglianasca",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Soria Vecchia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villaggio Ortigherio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mangiagalli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Scaravella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Selva",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Longhignana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rosio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via Trento",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Centenara",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "La Madonnina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Fornace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Contino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Sporzano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Tavernasco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rota",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Brodolini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cittadina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Birolo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Figina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Municipio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Longora",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fallavecchia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villaggio Francolino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Castellazzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Graziosa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lanzano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Introini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Crivella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Bergamina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Orombella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Moneta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Giussana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Perdono",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Calnago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Conca",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Montano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Bodini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mantegazza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Robbiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Monzoro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vigano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balbiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bustighera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Residence Malaspina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Martina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Fidelina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Colombaia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mezzate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bussero",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vimodrone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "La Scala",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pirelli sky scraper",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rotonda della Besana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bettola-Zeloforomagno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione Milano Rogoredo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione Milano Porta Genova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione Milano Lambrate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Florida",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Principe Di Savoia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Settimo Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Civesio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cimitero Maggiore",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cimitero Monumentale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novegro-Tregarezzo-San Felice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ospedale Niguarda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bagatti Valsecchi Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Porro e Rotta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Sant'Antonio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Morivione",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Costa dei Grossi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Novellana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Incugnate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Della via Fratelli di Dio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Bosco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via Leopardi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Casello Ferroviario",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vignetta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Folla-Montalbano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Rancate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gabirano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Cantaluppa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zona Produttiva Sud",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Solcia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Beretta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mariotto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascine Sonzogni-Vezzoli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belfuggito",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via Cassano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Santa Teresa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina San Maurizio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via Trezzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Madonna dei Monti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via Don Gnocchi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Uboldi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Cerina di Sopra",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Resentera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Malandra",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Carcana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Trombettina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sant'Elena-Cecchetti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Occhiò",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Rocca Brivio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Gallinazza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Francesco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Locatelli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Rossa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Figini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Gagiolo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Piatti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Santa Maria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Fontana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Cascinetta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Torre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Mogna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pioltino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Viscontina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cava Ticino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Statale Mantovana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cavallasco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Preloreto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Marcatutto-Bruciata",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ex Casello Autostrada",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Padregnana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Fabriziana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Guascona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Costa Cornaggia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Legoratta-Durazzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mostiola",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Merlate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Località Draghetto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Saronna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Strada per Cerello",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Gaggiolo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Sant'Angelo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Morazzano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cassinello",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Mainaga I",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chiesa Rossa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zona Produttiva Nord Est",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via Fiume",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Montone-Primavera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Rocco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gazzera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Resegone-San Primo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Molino dell'Ospitale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Tangola",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cusico",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Seriole",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Isola Guarnieri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Messa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pobbia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina San Pedrino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Follone-Magnana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Carpenzago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pedriano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moro di Locate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Bruciata",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina San Giuseppe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Taranta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Olmo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Castiona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Piola",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Rosina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Cantona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Lodola",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Molino al Ponte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Bonesana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Peschiera Borromeo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Casiglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Duomo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Vergani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Barera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Cassinetta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via Per Rogorotto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Cerina di Sotto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina San Biagio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Strada per Battuello",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Imperiale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via Cavallasco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Padregnano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Canepa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novate Milanese railway station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cesano Boscone railway station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basilica of Sant'Eustorgio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione di Parabiago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Segrate Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chiaravalle Abbey",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione di San Donato Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione di Pioltello-Limito",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museo Poldi Pezzoli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museo D'Arte Antica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arena Civica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Velodromo Vigorelli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palazzo Reale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museo Storico Alfa Romeo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Melegnano railway station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Archaeological museum of Milan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Lorenzo Maggiore",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Colonne di San Lorenzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milan amphitheatre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museo del Novecento",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Torre Branca",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione di San Giuliano Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione di Corsico",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione di Bollate Centro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villa Arconati",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione di Palazzolo Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione di Rho",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milano Quarto Oggiaro railway station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basilica di San Magno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione di Legnano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "HangarBicocca",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vigliano-Bettolino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moncucco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Casone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Triginto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bettola",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascine San Pietro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Quartiere Sarmazzano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Pietro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascinazza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Corneliano Bertario",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Santa Maria in Prato",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villa Bissone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Soriano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Località al Monte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Mugnaga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Valera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Bovio-San Felice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Municipio 8",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Municipio 9",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Municipio 2",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Municipio 3",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Municipio 4",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Municipio 7",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Municipio 6",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Municipio 5",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Municipio 1",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piazza Della Scala",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Burrona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cernusco sul Naviglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villa Fiorita",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cassina de' Pecchi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gessate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Antonietta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villa Pompea",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Crescenzago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Udine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lambrate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piola",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Loreto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gorgonzola",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cologno Nord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rovereto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pasteur",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gioia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Garibaldi FS",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Repubblica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Centrale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Caiazzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bignami",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ponale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ca Granda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Istria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zara",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Isola",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bosco Verticale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museo teatrale alla Scala",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Galleria d'arte moderna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Porta Ticinese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chiesa di San Sepolcro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museo del Risorgimento",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basilica di San Simpliciano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Porta Sempione",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chiesa di San Bernardino alle Ossa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piazza del Duomo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piazza Mercanti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palazzo della Ragione",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chiesa di Sant'Alessandro in Zebedia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Carlo Al Corso",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basilica di San Babila",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palazzo Marino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chiesa di San Fedele",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Galleria Vittorio Emanuele II",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mazzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "La Scala",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Giardini pubblici Indro Montanelli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "MM Sesto Rondò",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stadio Breda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "MM Sesto Marelli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione Milano San Cristoforo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione Milano Porta Romana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Hotel et de Milan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Misericordia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Santa Maria Rosa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Rotta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chiesa di San Maurizio al Monastero Maggiore",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chiesa di Santa Maria presso San Satiro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milano Centrale Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basilica of Sant'Ambrogio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Limito",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Felice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Vito",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Martino Olearo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bugnano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brusuglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barbaiana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villamaggiore",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villa Fornaci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viboldone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lacchiarella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gudo Gambaredo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Assago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mesero",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cusago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seggiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rugacesio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sesto Ulteriano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pontesesto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Redecesio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cassignanica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bazzanella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Donato del Conte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malpaga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buozzi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Biscia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Località Produttiva",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fagnano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Quattro Strade",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Novo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Nuova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maiocca",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Nesporedo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Guzzafame",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Monticello",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Vione",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina San Giuseppe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Zunico",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Molinetto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Coronate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bisentrate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ravello",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Conterico",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina del Sole",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milano Fiori",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ceregallo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zona Industriale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tainate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bellotta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fornaci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Arcagnago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Molinetto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Castelletto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mettone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vallogge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cavoletto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Venezia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tre Paratie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belgioioso",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mirabella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pasubio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ranteghetta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Molino Visconti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Relivio Maravalle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zona Industriale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zona Industriale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mendosio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Nuova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Nuova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Cantalupo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Bernardina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zona Industriale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Località Badile",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Casterno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rogorotto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Castellazzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moirago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bestazzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Caselle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Coazzano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Casirate Olona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bellaria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bicocca",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Quartiere Le Terrazze",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Porta Garibaldi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "DoubleTree by Hilton Hotel Milan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Galleria Vittorio Emanuele II",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Pietro all'Olmo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione Milano Porta Vittoria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pessano Con Bornago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pozzuolo Martesana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bellinzago Lombardo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bubbiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pregnana Milanese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Noverasco-Sporting Mirasole",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Nuova di Campagna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sud Rivoltana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zona Artigianale S.P. 157",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Santa Brera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Nuova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina del Ponte di Castano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via Carlo Gavazzi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Località Vallombrosa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zona Industriale di Passirana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zona Industr. di Frazione Caselle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Castellazzo de' Barzi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pasturago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cavaione",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ronchetto Delle Rane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Scuola Secondaria di primo grado \"E. Marelli\"",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Scuola Secondaria di Secondo Grado \"E. Breda\"",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mario Giuriati Sports Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museo delle culture",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cenacolo Vinciano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Life",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Atella (Ancient City)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Forum Popolii (ancient roman city)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fidenae (ancient city)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonine city (Civitas Leonina)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amiternum (ancient city)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rovagnasco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seguro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bruzzano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nuova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Il Girasole",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zona Industriale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Castelletto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lavanderie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milanino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bellaria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villa Monastero",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Simonetta (now destroyed)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milan Natural History Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione Milano Smistamento",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione Milano Nord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione Milano Farini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boffalora",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mairano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buccinasco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bettolino di Mediglia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zivido",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Poasco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Quinto Stampi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Centro Direzionale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moncucco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zona Industriale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Località Produttiva Danzas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Carla Betulla",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zona Industr. Via delle Industrie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villaggio Cavour",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "La Triennale di Milano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Missori",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Molino Dorino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moscova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rubattino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Siro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Quarto Cagnino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Quinto Romano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lampugnano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cinque Vie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cordusio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Carrobbio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Crocetta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verziere",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pasquirolo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Borgonuovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Quadronno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vetra",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Quartiere Sant'Ambrogio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guastalla",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Porta Tenaglia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sempione",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Conca del Naviglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Centro Storico",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ortomercato",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Portello",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tre Torri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maggiore - Musocco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Giardini Porta Venezia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parco Lambro - Cimiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gallaratese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Cristoforo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bande Nere",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Affori",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cascina Triulza - Expo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tibaldi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sacco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Comasina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trenno",
+      "admin_name": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "ACRONYM_VA": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_VA": [
+    {
+      "city": "Vatican City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vatican City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saint Peter's Basilica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sistine Chapel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saint Peter's Square",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vatican City Heliport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palace of Justice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vatican Radio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Papal Palace of Castel Gandolfo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vatican museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vatican Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale Centro del Bosco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rampa dell’Archeologia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stradone di Giardini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via del Belvedere",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via del Governatorato",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via del Mosaico",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via del Pelligrino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via della Posta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via della Tipografia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via dell’Aquilone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via delle Fondamenta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via Pio XI",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via San Egidio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via San Luca",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via San Pio X",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via Sant’Anna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale Benedetto XV",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale degli Olivi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale del Collegio Etiopico",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale del Giardino Quadrato",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale della Grotta di Lourdes",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale della Radio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale della Zitella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale dello Sport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale dell’Osservatorio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale Giorgio Marconi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale Leone XIII",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale Pio IX",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale Pio XI",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale Pio XII",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale San Benedetto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viale San Marco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Largo San Giovanni Bosco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Largo San Giuseppe Artigiano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vatican City Post Office",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belvedere Courtyard",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palazzo Pontificio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Torre San Giovanni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Audience Hall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piazza di Santa Maria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ethiopian Seminary",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Civil Administration Building",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chuch of St Stephen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piazza Pio XII",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Church of St Anne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pigna Courtyard",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vatican Radio Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piazza of Plebiscito",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Biblioteca Apostolica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Centrale Termoelettrica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cimitero Teutonico",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Colegio Etiopico",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Elemosineria Apostolica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Galleria Lapidaria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museo Chiaramonti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pinacoteca Vaticana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Posta Centrale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tipografia Vaticana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Torre Borgia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appartamento Borgia Stanze di Raffaello",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Atrio della Quattro Cancelli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bastione di Maestro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Braccio Nuovo del Museo Chiaramonti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Caserna della Gendarmeria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Casina di Pio IV",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chiesa di Santa Anna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Direzione Radio Vaticana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Domus Sanctae Marthae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Galleria delle Carte Geografiche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grotta di Lourdes",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ingresso di Santa Anna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Laboratorio Restauro Arazzi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "L’Osservatore Romano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museo Gregoriano Egizio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museo Gregoriano Profano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museo Pio Clementine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museo Storico delle Carrozze",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palazzina dell’Arciprete",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palazzo del Belvedere",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palazzo del Governatorato",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palazzo della Canonica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palazzo San Carlo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piazza dei Protomartiri Romani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piazza del Forno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piazzale della Stazione",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Santo Stefano degli Abissini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Scala del Bramante",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stazione Ferroviaria Vaticana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Torre dei Venti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Torrione di Niccolo V",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chiesa di San Stefano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ingresso del Perugino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Largo della Radio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Largo della Sagrestia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Largo Fontana del Sacramento",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Largo Giovanni XXIII",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Largo Madre del Buon Consiglio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Largo Pier Luigi da Palestrina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Largo San Martino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piazzale della Grotta di Lourdes",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piazzale Madonna della Guardia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Galleria dei Candelabri e degli Arazzi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palazzo del Tribunale e Uffici Gendarmeria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nuova Aula delle Udienze Pontificie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cortile dei Pappagalli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cortile del Belvedere",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cortile del Maggiordomo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cortile del Maresciallo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cortile del Triangolo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cortile della Biblioteca",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cortile della Pigna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cortile della Sentinella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cortile Guardia Svizzera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cortile Ottagonale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cortile Sisto V",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cortile dell’Olmo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cortile di San Damaso",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cortile di San Michele Archangelo",
+      "admin_name": "N/A"
+    }
+  ]
+}

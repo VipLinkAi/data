@@ -1,0 +1,66 @@
+{
+  "ACRONYM_RW": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_RW": [
+    {
+      "city": "Kigali City Province",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kigali-Rural Province",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kavumu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kindama",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bihembe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bwanya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Isumo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mulindi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gikono",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gorillas City Centre Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mumbizi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mulindi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kigeli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mugera",
+      "admin_name": "N/A"
+    }
+  ]
+}

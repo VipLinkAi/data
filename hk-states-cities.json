@@ -1,0 +1,426 @@
+{
+  "ACRONYM_HK": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_HK": [
+    {
+      "city": "Victoria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Central",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kowloon City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hung Hom",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kowloon Walled City Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City One",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wang Tau Hom",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "To Kwa Wan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ma Tau Wai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ma Tau Kok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kowloon Tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ho Man Tin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tsim Sha Tsui",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kowloon City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sung Wong Toi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Whampoa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Whampoa Garden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kai Tak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lo Fu Ngam",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kowloon Rock",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kings Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Laguna City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Garden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tung Tau Tsuen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prince Edward",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hok Yuen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Laguna Verde",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ho Man Tin Estate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Laguna Verde (Estate)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kai Ching Estate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oi Man Estate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tak Long Estate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kadoorie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Celestial Heights",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Royal Peninsula",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mantin Heights",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Waterfront",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Osborn Barracks",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kowloon Bay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lok Fu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kowloon Tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hung Hom",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "On Wo Yuen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chun Man Court",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hung Hom Estate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mei King Mansion",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ka Wai Chuen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harbour Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ma Tau Wai Estate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chong Chien Court - Wyler Gardens",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "One Kai Tak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Whampoa Estate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sky Tower",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lok Man Sun Chuen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City One",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hong Kong Science Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hong Kong Museum of History",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nga Tsin Wai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tsimshatsui East",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Festival City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "China Ferry Terminal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Garden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Garden Premier",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mira City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harbour Plaza Resort City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nikko Hong Kong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Icon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Icon Harbour",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Sav",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Regal Kowloon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Caritas Lodge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Metropark Kowloon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anne Black Guest House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Regal Oriental Hotel - Hong Kong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hau Wong Temple",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kowloon Shangri-La Hong Kong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harbour Plaza 8 Degrees",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harbour Plaza Metropolis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harbour Plaza 8 Degrees Deluxe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "New World Millennium Hong Kong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Intercon Grand Stanford",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Intercon Grand Stanford (Dlx Hrbr Vw)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Intercontinental Grand Stanford Hong Kong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Anne Black Ywca Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nikko (Harbour View)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "England Premier Backers Guest House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bridal Tea House Hotel Tokwawan Non Refundable Room",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bridal Tea House Hotel Hung Hom Non Refundable Room",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harbour Plaza 8 Degrees Kowloon Hong Kong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bridal Tea House Hung Hom Gillies Avenue South",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bridal Tea House To Kwa Wan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "New World Millennium Residence Clb Sup",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bridal Tea House Hotel Hung Hom Winslow Street",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bridal Tea House Hung Hom Wuhu Street",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Royal Garden Hong Kong Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harbour Plaza 8 Degree",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bridal Tea House Hotel Hung Hom Gillies Ave",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kowloon Shangri-La (Dlx Harbour View)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Intercon Grand Stanford (Club Deluxe)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Intercon Grand Stanford(Club Harbour Vw)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bridal Tea House Hotel Hung Ho",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kowloon Dry Dock (historical)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "I-feng Mansion",
+      "admin_name": "N/A"
+    }
+  ]
+}

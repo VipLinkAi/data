@@ -1,0 +1,22 @@
+{
+  "ACRONYM_MN": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_MN": [
+    {
+      "city": "Bayanhongor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Choibalsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ölgii",
+      "admin_name": "N/A"
+    }
+  ]
+}

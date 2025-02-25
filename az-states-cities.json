@@ -1,0 +1,1650 @@
+{
+  "ACRONYM_AZ": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_AZ": [
+    {
+      "city": "Baku",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sumqayit",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ganja",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yevlakh",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mingachevir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qaraçuxur",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Heydar Aliyev International Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yevlax City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baku City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ganja City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mingacevir City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Şǝki",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shusha City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shaki City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naftalan City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sumqayit City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yevlakh Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amiradzhan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zabrat Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hövsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bakikhanov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ağsu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nakhchivan City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buzovna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Binǝqǝdi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balaxanı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baladjary",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Badamdar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Artyom",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shaumyanovskiy Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sabunçu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ordzhonikidzevskiy Rayon))",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oktyabr'skiy Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nizaminskiy Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naftalan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maştağa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mǝrdǝkan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nizami Rayonu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Korgöz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yeni Suraxanı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Imeni Dvadtsati Shesti Bakinskikh Komissarov Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Binǝ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bilgǝh",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zirǝ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zabrat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sǝngǝçal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qobustan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lokbatan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Khojasan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Khatai raion",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Abşeron Milli Parkı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Garadagh region",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Türkan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hacı Zeynalabdin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cape Kerna-Bilnya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Culfa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Corat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zığ Gölü",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Şonqar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Puta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shikhovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Korgöz Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qala",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qum Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Çeyldağ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bülbülə Gölü",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zhiloy Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ostrov Dash Zirya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pirallahi Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sahil",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nargin Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nardaran",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gizil Dash",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Keşlə",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bulla Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mammad Amin Rasulzade",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karukhler",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Danalar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pederly",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sadafli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sharur City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yolpaq",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Garadagh",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Imeni Vorovskogo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gürgan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dzhabar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kishlak Dyubendy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Duvannı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Byulbyuti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bozdağ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dzhanuby",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Heybet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "İkinci Qala",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qaraibad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shikhlar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Veylyar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jiloy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zabrat Gölü",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Əhmǝdli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Apsheron Peninsula",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suraxanı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sulutepe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Şüvǝlǝn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shubani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Şıx Burnu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Şah Dili",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sahqaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Şağan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sarıqayabaşı Burnu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tavaaltı Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tava Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pirşağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novaya Bina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neft Daşları",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Miadzhik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lökbatan Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koltış Adaları",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cape Alyat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adsız Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qarasu Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Glinyanii Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ostrov Svinoy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podvodnyye Islands",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pirsaat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kotal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gora Atashkya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qu Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kürdǝxanı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qoşaqışlaq",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daşlı Ada",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bibiheybǝt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kalbandağ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Odzhek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ozero Aglar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sumqayit Port",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gora Kasmali",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gora Kyagniza-Dag",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Gyurgyany",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yal Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hövsan Burnu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Çurki Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cherni Gorod",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bailov Point",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bayil",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Azizbekovskiy Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karvansaray Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yasamal Vadisi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kələzağ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daşlı Burun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Urochishche Kamenistoye Pole",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qızılqaya Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gora Deseboynu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adsız Burun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Xanlar Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suiti Burnu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zığ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Puluostrov Urunos",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bakı Qulaqları Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sultan Burnu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stepan Razin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Shuvelyan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cape Sangachal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neft Daşları",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Narimanovskiy Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kiçik Tava Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krasnoye Selo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daxili Daş Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baburi Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qutan Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Byandovan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Byandovan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pirsaat Burnu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Çigil Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qarabattaq Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ağ Burun Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gora Akhzykhozry",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gora Uchtepe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gora Daligly",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tuba Ayrığı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baxça Ayrığı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Soru Ayrığı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Əliqulu Ayrığı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Məlişgə Ayrığı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Çartəpə Ayrığı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Böyük Tava Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Canavar Qapısı Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Düzdağ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yukhari Govhar Agha Mosque",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kanach Jham",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qaradağ Stansyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qalagah Burnu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Evbat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "İki Qardaş Daşları",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dzhuvan-Kechmes",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Badamdar Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bayıl Burnu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shafran",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pirşağı Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sarıqaya Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Uchepe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qaraquş Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Orta Daş Adası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gora Karakyshtag",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gora Degdovykh",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qağayı Stantsiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bakıxanov Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qala Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pirallahı Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Abşeron Arxipelaqı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sumqayıtçay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sumqayıt Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Puta Burnu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yeni-Yerevan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hacı Zeynalabdin Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiya Kishly",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yeni Türkan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Yuzhnaya Kosa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dardanel Adaları",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamamağ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qaraca Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mingechevir Hydro Power Plant",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Axtarma Dağ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lake Boyukshor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bülbülə Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zağulba Bağları",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiya Alyat Novaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alyatskaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dzhafarly",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Şirvan Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiya Kirovabad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dəyirmandağ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Orucalıdağ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daşlıdağ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "İlxıdağ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Keçəldağ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ozero Gadzhi-Gasan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Darvin Sayı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baku Bay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maştağa Sovxozu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiya Binagadi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Depo Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Damba Yolayrıcısı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiya Bina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hövsan Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suraxanı Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maştağa Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Corat Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiya Sangachaly",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Şonqar Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lökbatan Yolayrıcısı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiya Sumgait-Gorod",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mayak Yolayrıcısı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Duvannı Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiya Baladzhary",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sabunçu Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bilgəh Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bağlar Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buzovna Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiya Primorskaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiya Marakyany",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zirə Razyezdı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Solonchak Shurezar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Puta Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balıqlı Sayı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiya Kyurdakhany",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Visnyovka Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiya Stepnaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zavod Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ostanovochnyy Punkt Primorsk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Böyükdağ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Müşfiqabad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yaftım Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sulutəpə Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Böyükdağ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qırməki Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tataraxtarma Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Çaxmaqlı Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qanlıtəpə Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yelli Burun Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Puta Uçan Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Torpaqlı Axtarma Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qızqala Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Şıx Çimərliyi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daş Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kiçik Dağı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iliç Buxtası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sarınca Razyezdı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zağulba Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Abşeron Magistral Kanalı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Şorçala Gölü",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qırmızı Gölü",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yeni Suraxanı Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Böyük Şor Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zontik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hunot",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yevlax Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karaçyov Sayı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daşlı Saylar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buzovna Vulkanı Sayı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bukhta-Il’icha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jupiter Sayı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bibiheybət Körfəzi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shordere",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Abşeron Mayakı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kesson Sayı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shoulanskiy Mayak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pionerlag Chayka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qanlıgöl",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balaxnin Sayı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiya Yuzhnaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nardaran Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "İkinci Zabrat Razyezdı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Birinci Zabrat Razyezdı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kala",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dübəndi Yolayrıcısı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banka Yuzhnaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Apsheronskiy Proliv",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Apsheronskiy Proliv",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Abşeron Sayı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ağçala Gölü",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Şorçala Gölü",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Solonchak Sananapuza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banka Opasnaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Makarov Sayı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Savenko Sayı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pirsaat Buxtası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiya Azizbeyova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bir May Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rif Sayı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ostanovochnyy Punkt Sazhevyy Zavod",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ostanovochnyy Punkt Gazobenzinovyy Zavod",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ostanovochnyy Punkt Saray",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fioletov Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Montin Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Muxtarov Platforması",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kurort Yolayrıcısı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zavod Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiya Plyazh",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Şimali Qu Sayı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Əhməd Köçü",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sadd-e Mīleh Moghān",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Palace Baku",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qafqaz Baku City Hotel & Residences",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Old City Inn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ozero Akhmaz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jumeirah Bilgah Beach Hotel Baku Exclusive City Resort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "School",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shushi Grand Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shushi Regional Hospital",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shushi History Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hunot",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Avan Shushi Plaza Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tsyurupa Sayı",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Emerald",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Astoria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Plaza Ganja",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Üçbulaq",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naftalan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buransyz-Dzhul’ga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Babadzhan Dzhul’ga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cənubi Abşeron Körfəzi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Abşeron Tərəvəzçilik-Donuzçuluq Sovxozu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kochev’ye Otmanbozy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amburanskiy Mayak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ozero Babershor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sangachaly",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banka Andriyevskogo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banka Voyenmor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Azerbaijan Thermal Power Plant",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jumeirah Bilgah Beach",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aef Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Irshad Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Divan Express Baku Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Crescent Beach Hotel and Leisure Resort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Issam Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Royal Park Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karvan Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sea Breeze Residences & Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ayf Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Titanik Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sapphire Marine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qafqaz Park Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Old Baku",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nemi Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Giz Galasi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bosfor Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Avand Hotel Baku",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Askar Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Abu Arena Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kichik Gala",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sheraton Baku Airport Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Swan Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Business Palace Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shah Palace Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qışlaq Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiya Baku-Passazhirskaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "2637-cı km Platforması",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yeni Sumqayıt Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baki-Pilsen Brewery",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qızılqum Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Əncirli Stansiyası",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Evim Tekstil (Tekstil Fabriki)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baku Badamdar Heliport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baku Lokbatan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Əyriçalaşor Gölü",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arif Aziz Art House",
+      "admin_name": "N/A"
+    }
+  ]
+}

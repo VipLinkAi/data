@@ -1,0 +1,42 @@
+{
+  "ACRONYM_PT": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_PT": [
+    {
+      "city": "Ponta Delgada City Hall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aveiro City Lodge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Stays Apartments Principe Real",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oporto City Center Apartments",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lisbon City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Un-Almada House - Oporto City Flats",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ever Lisboa City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "EFAPEL City of Coimbra Stadium",
+      "admin_name": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,810 @@
+{
+  "ACRONYM_FR": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_FR": [
+    {
+      "city": "City Bastion",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Narbonne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Carcassonne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kyriad Carcassonne City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Bordeaux Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Toulouse Hippodrome",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Residence Bordeaux Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'city Toulouse Hippodrome",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Gambetta Bordeaux",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Agen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Nimes",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Niort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Perpignan Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Toulouse Diagora Labege",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Coeur De City Bordeaux Clemenceau",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mer Et Golf City Bordeaux Lac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Residences Bordeaux Les Chartrons",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Limoges",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Bordeaux Meriadeck Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City La Roche Posay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Merandgolf City Bordeaux Bruges",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mer and Golf City Bordeaux Bruges",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Angouleme",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Montpellier l'Orangerie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'city Bordeaux Merignac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Pau Idron",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Pau Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lagrange City Montpellier",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City de Bordeaux Mérignac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Montpellier Saint Roch",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'city Cap Affaires La Rochelle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Caen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Cherbourg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Caen Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'Hotel City & Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "ADAGIO CITY APARTHOTEL PARIS MONTMARTRE",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Aparthotel Montmartre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Aparthotel Paris Bercy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Paris",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'city Brest",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "PV City Residence Bercy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Paris Opera Caumartin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Quimper",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Brest Place De Strasbourg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Coeur De City Rouen Cathedrale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Garden Court Reims City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Lannion",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Apts Appart'City Brest Pasteur",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Apartments Paris",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City La Villette",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Lille Euralille",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Brest Europe Place de Strasbourg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Apts Appart City Cherbourg Centre Port",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Akena City Romilly-Sur-Seine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belambra City Magendie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Reims Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Garden Court Reims City Ctr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Garden Court Reims City Ctre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Express Reims City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Aparthotel Paris XV",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "ADAGIO CITY APARTHOTEL PARIS BUTTES CHAUMONT",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Aparthotel Haussmann Champs-Elysees",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Le Port-Marly",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Résidence Pierre & Vacances City Paris Haussman",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Loft",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Coeur de City Hotel Paris Tour Eiffel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pv City Tour Eiffel Apparthotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Lille Grand Palais",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pierre et vacances City Paris Montmartre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Rennes Ouest",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Lannion",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Saint Gregoire",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'city Lille",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Poissy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Louveciennes",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mister Bed City Lille",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Compiegne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Lille",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pv City Aparthotel Parc Expo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Besancon La City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mister Bed City Igny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Le Havre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Orleans",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Versailles Magny Les Hameaux",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Amiens Gare Cathedrale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Lille Euralille La Madeleine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Mulhouse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Saint Cyr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Comfort Hotel Urban City Le Havre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Inter-Hotel City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Rennes St Gregoire",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Lille Le Grand Palais",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Aparthotel Paris Tour Eiffel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Inter Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Résidence Strasbourg Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Prestige Velizy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Citadines City Centre Lille",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Tour Eiffel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lagrange City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Magny Les Hameux",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Strasbourg Aeroport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel APPART CITY STRASBOURG",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel APPART'CITY MULHOUSE",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Prado Plage (Ex-P&V City)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Aparthotel Val D'Europe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "PV City Residence Val d'Europe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pierre & Vacances City Val d'Europe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Aparthotel Porte De Versailles",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Tours City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pierre et vacances City Paris La Défense Parc",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pierre et Vacances City Paris La Défense Kléber",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Mister Bed City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Nantes Chateau Des",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Sanitat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Nancy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City suites Grenoble Europole",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Le Mans",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Saint Nazaire",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Blois",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City La Part Dieu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Lyon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Suites Lyon Gerland",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Clermont Ferrand",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Cergy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Suites Lyon Vaise",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Nantes Viarme",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel D Europe Avignon City Cen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mister Bed City Goussainville",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mister Bed City Bourgoin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mister Bed City Paris Bagnolet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mister Bed City Cachan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Montrouge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Paris La Defense Esplanade",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Paris La Defense Kleber",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Paris La Defense Le Parc",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Place Kleber Strasbourg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Alfortville",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Annemasse Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Bobigny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Clichy La Garenne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Le Blanc Mesnil",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Le Mans Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Lyon Villeurbanne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Nantes Quais De Loire",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Paris Saint Maurice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Saint Nazaire Ocean",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Valence Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Annecy Seynod",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City La Roche Sur Yon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Montelimar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Citadines City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Residence Marne La Vallee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Residence Nantes Beaujoire",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Coeur De City Nancy Stanislas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lagrange City Apparthotel Lyon Lumiere",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lagrange City Les Rives De Seine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Misterbed City Bagnolet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Toulon City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Saint Etienne Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Paris Bobigny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Lyon Part Dieu Garibaldi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Garden Court Toulon City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Cergy Le Haut",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Akena City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mister Bed City Torcy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Clichy Mairie de Clichy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Nantes Le Viarme",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Lyon La Part Dieu Villette",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Le Mans Gare Sud",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Nantes Cite Des Congres",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn G C Toulon City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Coeur de City Hotel Nancy Stanislas Mauvaise Fiche Ne Pas Utiliser",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Residence Chelles",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mister Bed City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Residence Ivry Sur Seine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Tours City Center Executive",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Clermont Pasteur",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alliance Tours City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Apts Adagio City Grenoble Berthelot",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Residence Bry Sur Marne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'city Confort Lyon Cite Internationale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'city Confort Lyon Gerland",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Aparthotel Aix Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "PV City Residence Prado Plage",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "PV City Residence La Chartreuse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pierre & Vacances City Residence Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'city Nantes Château des Ducs",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Monaco Monte Cristo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio City Monaco Palais Joséphine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Cannes Mandelieu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Marseille Euromed",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Nice Acropolis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Chalon Sur Saone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Citadines City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'City Angers",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart City Nantes Quai de La Loire",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Hyatt Martinez City View Deluxe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appart'city Antibes",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pierre & Vacances City Palais Joséphine",
+      "admin_name": "N/A"
+    }
+  ]
+}

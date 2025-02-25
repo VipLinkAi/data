@@ -1,0 +1,42 @@
+{
+  "ACRONYM_KH": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_KH": [
+    {
+      "city": "Kampong Saom",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Môndól Kiri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bok Koŭ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City River Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cambodiana Deluxe City View",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Angkor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Royal Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Center",
+      "admin_name": "N/A"
+    }
+  ]
+}

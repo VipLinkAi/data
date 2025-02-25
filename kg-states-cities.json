@@ -1,0 +1,38 @@
+{
+  "ACRONYM_KG": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_KG": [
+    {
+      "city": "Osh City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kyzyl-Kyshtak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nariman",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dyykan-Kyshtak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Furkat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yuqori Uvam",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Green City",
+      "admin_name": "N/A"
+    }
+  ]
+}

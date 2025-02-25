@@ -1,0 +1,46 @@
+{
+  "ACRONYM_OM": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_OM": [
+    {
+      "city": "Al Madīnah az Zarqā’",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Masraḩ al Madīnah",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sītī Sintar - Kārfūr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oman Smart Future City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oman Smart City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Seasons",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Season Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Seasons Muscat Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Seasons Hotel Muscat",
+      "admin_name": "N/A"
+    }
+  ]
+}

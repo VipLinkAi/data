@@ -1,0 +1,4010 @@
+{
+  "ACRONYM_UA": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_UA": [
+    {
+      "city": "Kyiv",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sevastopol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bilhorod-Dnistrovskyy City Raion",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kerch",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sevastopol City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kyiv City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Konotop",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kyiv Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balaklava",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chuhuiv",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pervomaiskyi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lozova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Slobozhans’ke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Volodymyr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kerch Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lenine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Inkerman",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kacha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nakhimovskiy rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zhytomyr City Amalgamated Territorial Commmunity",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chuhuiv City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balaklava District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rezervne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lenin District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Darnytskyi raion",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pecherskyi District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holosiiv Raion",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Obolonskyi Raion",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shevchenkivskyi District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trukhaniv Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kotsiubynske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Desnianskyi Raion",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lozova City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Druzhkivka City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mariupol City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kostiantynivka City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pokrovsk City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dobropillia City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Selydove City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vuhledar City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dokuchaevsk City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Debaltseve City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yenakiieve City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novohrodivka City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podilskyi Raion",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sviatoshynskyi Raion",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Solomianskyi District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dniprovskyi District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haharinskyi District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Horlivka City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Torets'k Municipality",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Makiivka City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Konotop City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Putyvl'",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vovchans'k",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krolevets",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zmiyiv",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blyznyuky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Panyutyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Staryy Saltiv",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kerchens'ka Mis'ka Rada",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gorodskoy okrug Simferopol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kyiv National University of Trade and Economics",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baherove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Urochyshche Kripke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Park Uchkuivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Fiolent",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cape Kherson",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paul Point",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nicholas Point",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Kosa-Pivnichna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sarich Point",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baydarskyi Zakaznyk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bortnychi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pereval Baidarski Votora",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prolisky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kyoto Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Urochyshche Babyn Yar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Babi Yar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bezhevka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chervonyy Ranok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oktyabr'skoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malyy Sambor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sloboda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vyrovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leninskoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zinove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kurylivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zaozerki",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vasyliv Khutir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malynivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bilyy Kolodyaz'",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bazaliyevka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alekseyevka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geniyevka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eskhar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kochetok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kyrylivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novopokrovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nepokrytoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Molodovaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rozdolivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yabluchne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ukrainske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Petropillia Lozova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Symynivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sokolov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Skripai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vvedenka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Velikaya Gomol'sha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lyman",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krasnopavlivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykolaivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lyman",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zarozhnoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Komysh-Burun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shchyolkino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hora Temyrova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Urochyshche Plodorodne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lazarev Garden Square",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sevastopol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Frontovoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cape Konstantin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hora Sapun-Hora",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Lukull",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Solnechniy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Polyushko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pirogovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podil",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Obolon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Almavne Ozero",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Flotskoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vishnyovoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chernorechye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Orlinoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oboronnoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novobobrovskoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rossoshchanka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shturmovoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sakharnaya Golovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hatka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shyroke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verkhnia Pysarivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zamulivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buhruvatka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Synelnykove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Huslivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hannivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paskivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seredivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pohorile",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harbuzivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Virivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Doroshivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mazivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karaichne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chaikivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rybalkyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Serdobyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Khyzhniakove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lukashove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cherniakiv",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Khrypuny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shabelne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pishchane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hryhorosove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chernihivske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karachentsiv",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bereka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykolaivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vesele",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nyzhnia Krasnopavlivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boshivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Borshchova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Borovaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bochkovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bochechki",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blahodatne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blahodatne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Berezhne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Berestove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bazylivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baksheivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Artiukhove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Artemovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hannopillia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Andriivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Andriivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Preobrazhenivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Altynovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kamen'",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Izbytske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gvintovoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gruzskoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gruzskoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrybanove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grakovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hontarivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sydory",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stara Hnylytsia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Heivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hatyshche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fedorivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koropove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Korobochkino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kostiantivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Myroliubivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kluhyno-Bashkyrivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kiseli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kvitneve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Khovzivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Khotimlya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Khyzhniakivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kazatskoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kardashi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karabutovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dukhanovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dubovichi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dubynka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dobrovol'ye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dobrotovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dych",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Deptovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dehtiarne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chumakove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alisivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chervona Sloboda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rubizhne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chornoplatove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chernecha-Sloboda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cherepovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chemuzhovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chaplyshchi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bystrik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buivalove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buryn'",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buryky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Burbulatovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bunyakyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bruski",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paseki",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shevchenkivske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Odradove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Orel'ka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prymorske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Obtovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novyi Myr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotroitske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pavlivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novomutyn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novooleksandrivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novooleksandrivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novoukrainka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nova Sloboda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nova Mechebylivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novaya Ivanovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nova Oleksandrivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novoiehorivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nyzhnii Byshkyn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykilske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykolaivka Persha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykolaivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykolaivka Druha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nesteliivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nesterne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nechaivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nadezhdino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mutin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mospanovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moskalivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Myshutyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mironovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mikhaylovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykhailivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykhailo-Hannivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mel'nya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Utskove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Martove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nyzhnya Saharivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Machulyshcha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sumtsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Liubytove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Romanchukove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rizdvianka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rev\"yakyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buhaivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vodolaha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Reutintsy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rozdollya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Losivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vysochynivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykolaienkove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Poltavske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pilna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pokaliane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podlipnoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plesovaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zarichne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Morozivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Petropavlivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pisky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Peschanoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pershotravneve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stepove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sosnovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sofiivka Persha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Smirnovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shuleshivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shevchenkove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shevchenkove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shelud'kovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shativka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Serhiieva Balka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Simianivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Semenivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Semënovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Samoylovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rzhavchik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riasne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rudnevo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rudaieve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rubezhnoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Uplantnoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ukrainske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tarutyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tuligolovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tymofiivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tymchenky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tymchenky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ternova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ternovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taranske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taranovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Syromiatnykove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suvorov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sukhoverkhivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Strasne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Staritsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stara Sharpivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stara Pokrovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yakovlivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rivne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vyazovoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pershotravneve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Voskresenka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vorhol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Volokitino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Volokhivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vesele",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vesele",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vesele",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verkhnya Saharivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verkhnii Saltiv",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verkhniy Bishkin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Velykyi Sambir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Snizhky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vasiukove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Varvarovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Velerianovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Uspenka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lukashivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lozivske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Loshakove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Litvinovichi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lynove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krishtopovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chervone Ozero",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krasne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krasyve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kotivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zidky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lahidne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zheldaki",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zemlyanki",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zakharivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zadonetske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yur\"yeve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yurchenkovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yurchenkovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Okhrimivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yefremovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yaroslavets",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Didivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kopylove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sosnovyi Bir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrafske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pletenivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chervone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nova Semenivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zakharivske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shuhaivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kalynivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lebedieve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nekhaivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oleksiivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vyshneve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klenove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Myrne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Slobozhanske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lisivske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ukrainske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oleksiivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stepove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zaparivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Huzhvynske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Birky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plakhtiivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ostrivshchyna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verkhove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Batiushky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Troitske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kamennaya Yaruga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cherkaskyi Byshkyn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pechenegi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novyy Burluk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mala Vovcha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilne Druhe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Volchanskiye Khutora",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verkhnia Orilka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lebyazh'ye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prudnikovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ptashkino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hora Atamanska",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yehorove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ostanino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kalinovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gornostayevka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Frontovoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tasunovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Korolyovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gora Khroni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Kazantyp",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Karantynnyi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kamenskoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chistopolye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hora Opuk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oktyabr'skoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ogon’ki",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novosyolovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novonikolayevka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mitridat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pidmayachnyy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "L’vovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Priozyornoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pesochnoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Solyanoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Semisotka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Semyonovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Borisovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vulkanovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Libknekhtovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leninskoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Kyz-Aul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kurortnoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Zmiinyi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zelyonyi Yar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zavetnoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yerofeyevo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yarkoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hora Dyurmen’",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zavodskoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Azovskoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zatishnoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Petrovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barteniivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Aiia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Marhopulo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hora Karakoba",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mekenziievi Hory",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hora Yaylabash",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hora Kalanykh-Kaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hora Lysa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Vynohradnyi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Manhanari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Pishchanyi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mys Skhidnyi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balaklava",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Center District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bilichi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dneprovskiy Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Darnitskiy Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Osokorky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radyanskiy Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Peredmistna Slobidka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pozniaky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Telychka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leninskiy Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kurenivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bykovnia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shevchenka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Demiyevka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Borshchahivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Andreyevka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fruktovoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Korabelna Storona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Komyshova Bukhta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kamyshly",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Orlovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pereval Shaman-Merdven",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mekenziievi Hory",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mekenziievi Hory",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Streletska Bay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verkhnesadovoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Osipenko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Povorotnoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Khutir Piatnytskoho",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hora Biiuk-Kol-Burun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ozyornoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Perovskyi Pereval",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hora Suzdalska",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kizilovoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dal’neye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Goncharnoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kolkhoznoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Khmel’nitskoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tylovoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Peredovoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Morozovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rodnoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rodnikovoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podgornoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shirokoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pavlovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ternovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiia Sevastopol-Vantazhnyi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zolotaya Balka (3 otd.)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pervomayskoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nakhimovskiy munitsipal'niy okrug",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Andreevskiy munitsipal'niy okrug",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kachinskiy munitsipal'niy okrug",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verkhnesadovskiy munitsipal'niy okrug",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balaklavskiy munitsipal'niy okrug",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gorod Inkerman",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Orlinovskiy munitsipal'niy okrug",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ternovskiy munitsipal'niy okrug",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holosiiv",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chokolivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ostriv Olhyn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykilska Slobidka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Teremky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nyvky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vyhurivshchyna-Troieshchyna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zhuliany",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pyrohiv",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piligrim.ua",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vidradnyi District Heating Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gagarinskiy munitsipal'nyi okrug",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leninskiy munitsipal'niy okrug",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pochaina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vydubychi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shpokalka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kozlivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fedorivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ukrainka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Varvarivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Perkivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vyshneve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bereznyky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shestirivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zemlianyi Yar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prylipka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiia Vovchansk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radkove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Berezhne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zupynnyi Punkt Baksheivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lozova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vol’noye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Solomennoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Urochishche Bedin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krasnyi Yar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Budarky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aleksandrovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barabashivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykolaivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nadezhdyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krasnopavlivske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chervonyi Kut",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oddykhne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hersevanivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Peremoha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lyman",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oleksandrivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ivanivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vesele",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kriukove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Horokhivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brailivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sadove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bohomolivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bezpaltseve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blahodatne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zelenyi Hai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baksharivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sviatushyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novoselivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kashpurivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krasne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maslivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vysoke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mikhaylovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Slobidske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pereriznivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zelenivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shevchenkove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pobieda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fedorivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dzhhun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pershotravneve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Birochok Druhyi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hlyboka Dolyna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kukulivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sukha Homilsha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Omelchenky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Butivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Artiukhivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vodiakhivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zhadanivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Studenok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ivanivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rtyshchivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nova Hnylytsia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kysle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kolisnyky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trosne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Husyna Poliana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vodiane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pushkarne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donets",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stepanivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Serhiivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Myronivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shulske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bondari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bohdanivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blyzniuky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bezpalivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bereka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Biliaivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bilohryve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bilohalytsia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bairak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Artilne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aniutyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oleksandrivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oleksandrivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aksiutivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yakymivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kalishi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ivanivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ivanivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Huty",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hubarivshchyna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrushyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hryhorivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrechkyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hirnyk Raion",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hirky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haidary",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Havrylivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fesivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fedorivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koshary",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kopani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kinne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kulakovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kocherhy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Knyazevo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klymenivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klepaly",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kytsivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kiptivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lysohubivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Khyzhky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kozache",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kozachka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Katerynivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kamplytsia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kamianka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Diakivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dunyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dudkivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dubov”yazivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Domakha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dmytrivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dmitrovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Didivshchyna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chkalovske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cheremushne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chalyshchivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buvalyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buzovo Vtoroye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bunakove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bratoliubivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boiaro-Lezhachi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pekari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pavlivka Druha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ozarychi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ostroverkhivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ohirtseve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novi Honchari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paryzke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novoberetske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykolaivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykolaivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykolaivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nastosovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nadezhdivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mokhnach",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Myroliubivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Myrhorody",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malushyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykhailivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykhailivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maiorivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Manukhivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malynivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maksymivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rotivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rostyka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radomyslivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riznykove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Retyk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rozdory",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rokytne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rokytne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piatnytske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pryvillia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dmytrivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Popivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Poltavka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yarove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pogorychi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pohorilivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plakhivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pyrotchyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Petrivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Peremoha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spadshchyna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sovetskoye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Soroka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sapushyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sofiivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shpotivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shevchenkove Pershe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shapovalivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Serafymivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Simeikyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sarnavshchyna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saltykove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sakhny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ryzhove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zupynochnyi Punkt Rudaieve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tsaredarivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiia Triichate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Torhovytsia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tomakhivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tymofiivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tetleha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dovhove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sudanka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stepanivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ihorivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viazenka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Voznesenka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Voshchynyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Voronivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Volyntseve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vylivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viktorynivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vesele",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verkhnia Samara",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Velyka Babka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vasylivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Varvarivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pocheptsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Loknia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lykhachove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Levkivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lazukivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lapshyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kuzky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kruzhok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krutoiarka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krasna Poliana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zhukivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zozulyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zemlianka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zelenyi Kolodiaz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zaruddia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zapadnia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zanky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zakutnivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zabolotove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yurivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yelyzavetivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Katerynivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yatsyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harashkivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kruhle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buzove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Roshcha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Veherivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Orikhivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pyshchykove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bobyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tovchenykove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novoslobidske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Soloviove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Svoboda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Partyzanske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Volyntsivske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shyriaieve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stari Honchari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kniazivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Minakove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Latyshivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sakharove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pishkove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sontseve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kharivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kurdiumove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shchekyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Peresypky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kosharske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kubrakove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karpenkove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bondari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Temne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Metalivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Triichate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zadorozhnie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novonadezhdyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pryvillia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Horodnie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Myrne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zaporizke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Morokyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marianivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kalyshenkove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pryseimia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zaliznychne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Selyshche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pryvokzalne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pryluzhzhia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vovchyk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nova Sharpivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Antonivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ivanivske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plotnykove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trudove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Illinske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holubkove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chornobryvkyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seleznivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Korolky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Safonivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krasne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shevchenkove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Konovalove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shchekynske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Savoiske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Raky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novoselivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zhyhailivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lobkivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kokhanivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sovynka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chervonyi Yar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bilousivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leontiivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Notariusivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bolotivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Korenivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sorochynske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vyshneve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Topolyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kapitanivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bilozerka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamaliivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nechaivske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Andriivske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ulianivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vyshnevyi Yar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Atamanske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holuby",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pasovyny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Molodivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novoselytsia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shcherbynivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kahan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Horokhove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Otrokhove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kubakhove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kashchenkove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Myrne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Veseli Hory",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Terekhove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Botsmaniv",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nerovnyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Svydnia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Khomenkove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bezkrovne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Solomashyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sribrovshchyna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chervona Hirka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tarasivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shliakh",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pasika",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Khreshchatyk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sazhalky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nizhynske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mostyshche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pionerske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Medvedeve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Papkyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marukhy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kovbasyne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prohres",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zahorivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pokrovske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kalashynivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vorontsove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vasylkivshchyna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zarichchia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kubareve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Okip",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viatka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kotivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lytovshchyna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verkhnovodiane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novoselivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vodiane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maltsivske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Berestove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vodolazke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daleke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shyroke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bubnove-Pershe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novopavlivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novouplatne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shevchenkove Druhe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mylivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Berestove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novoselivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novomarivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shevchenkove Pershe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hersevanivske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Svitlovshchyna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Khlibne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pody",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Osterske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kholodne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ladne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dmytrivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hanno-Rudaieve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiia Orilka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zupynochnyi Punkt Zakharivskyi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stantsiia Chuhuiv",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rozdolne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ukrainske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dachne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kurortne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vyrishalnyi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zauddia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Svitanok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iskiv Yar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rozdolne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stepove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tahanka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Osykovyi Hai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kyriukhy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bezpalivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Repiakhivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tykhe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Volokhivske",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tsehelne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Samiilivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dubove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Myroliubivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sadove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vodiane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stepove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novomykolaivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilne Pershe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bashylivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chervone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novoivanivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Luhove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yakovivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hannivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fedorivka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Odynetske",
+      "admin_name": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "ACRONYM_SG": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_SG": [
+    {
+      "city": "Singapore",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pearl’s Hill City Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marina South City Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bukit Timah Nature Reserve",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tanglin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Singapore City Hall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Carlton City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Plaza Park City Hall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Furama City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Furama City Center Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Orchard City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Carlton City Carlton Club",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Capri By Fraser Changi City",
+      "admin_name": "N/A"
+    }
+  ]
+}
