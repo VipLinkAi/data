@@ -1,0 +1,30 @@
+{
+  "ACRONYM_AM": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_AM": [
+    {
+      "city": "Sayat-Nova City Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Erebuni City Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zontik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vanadzor City Stadium",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "DoubleTree by Hilton Hotel Yerevan City Centre",
+      "admin_name": "N/A"
+    }
+  ]
+}

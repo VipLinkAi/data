@@ -1,0 +1,42 @@
+{
+  "ACRONYM_BD": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_BD": [
+    {
+      "city": "Dhaka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rangpur City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Āshuganj City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "B-baria City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mosque City of Bagerhat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Purbachal American City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gazipur City Corporation",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nilphamari",
+      "admin_name": "N/A"
+    }
+  ]
+}

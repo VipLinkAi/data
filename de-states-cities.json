@@ -1,0 +1,4010 @@
+{
+  "ACRONYM_DE": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_DE": [
+    {
+      "city": "Hamburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mülheim",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Altona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bergedorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Greifswald",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wandsbek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburg-Mitte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eimsbüttel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburg-Nord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburg Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anklam",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mannheim City Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rahlstedt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wilhelmsburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Phoenix-Viertel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburg Finkenwerder Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bremen Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wolgast",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Essen/Mülheim Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamm",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marienthal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Horn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schnelsen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Langenhorn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Poppenbüttel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Winterhude",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lemsahl-Mellingstedt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lurup",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neugraben-Fischbek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ottensen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Osdorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Niendorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fuhlsbüttel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tierpark Hagenbeck",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barmbek-Süd",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bramfelder See",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Öjendorfer See",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Farmsen-Berne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Außenmühlenteich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eidelstedt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Reeperbahn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blankenese",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Binnen-Alster",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Billstedt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Außenalster",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Port of Hamburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schweenssand",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Heuckenlock",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hohendeicher See",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Öjendorfer Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Altona-Altstadt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Altona-Nord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "University of Hamburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Penkun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "HafenCity",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harvestehude",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hausbruch",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Groß Flottbek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kirchwerder",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rissen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St. Georg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rotherbaum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wellingsbüttel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wohldorf-Ohlstedt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Volksdorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Othmarschen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ohlsdorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neustadt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eißendorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eilbek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eppendorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Duvenstedt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St. Pauli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bergstedt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alsterdorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bahrenfeld",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sülldorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dulsberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hoheluft",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kirchwerder",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vierlande",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neuwerk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nigehörn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Billwerder Insel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sasel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ochsenwerder",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moorfleet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neuenfelde",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nienstedten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neuland",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fünfhausen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Finkenwerder",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bramfeld",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Borgfelde",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Groß Borstel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hammerbrook",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kleiner Grasbrook",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Billwerder",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Billbrook",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburg-Altstadt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Allermöhe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rothenburgsort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neuallermöhe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sternschanze",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Veddel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburg-Altona station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "New Town Hall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburg Hauptbahnhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holthausen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gut Moor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Große Wallanlagen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Steinwerder",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spadenland",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tatenberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Reitbrook",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Waltershof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lohbrügge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neuengamme",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ost-Krauel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Freiheit",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Francop",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Curslack",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cranz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Duvenstedter Brook",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Reeperbahn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barmbek-Nord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alte Süderelbe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alte Süderelbe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alte Süderelbe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alte Süderelbe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alte Süderelbe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Heinrich-Hertz-Turm",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stadtpark Hamburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Volkspark Altona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Altenwerder",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Altengamme",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anscharhöhe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bergedorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburg, Freie und Hansestadt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neuländer See",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iserbrook",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kreisfreie Stadt Mülheim an der Ruhr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Usedom",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saarn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mülheim (Ruhr) Hbf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hammerbrook (City Süd)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Potsdam City Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mannheim City House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hall Hamburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wilhelmsburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburg-Harburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hasselbrook",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kohlenschiffhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Köhlbrand",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hummelsbüttel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Howe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zollenspieker",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Die Schwarzen Berge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sternschanze",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stellingen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Steilshoop",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Scharhörn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Süderelbe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rethe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Reiherstieg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moldauhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Norderelbe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Finkenwerder",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dradenauhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gose Elbe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburg Dammtor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kollau",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dove Elbe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hagenbecks Tierpark",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hagendeel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Niendorf Markt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schippelsweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Niendorf Nord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fuhlsbüttel Nord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Langenhorn Markt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Langenhorn Nord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kiwittsmoor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Habichtstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meiendorfer Weg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hoisbüttel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ohlstedt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buchenkamp",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holstenstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bahrenfeld",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Othmarschen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klein Flottbek (Botanischer Garten)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hochkamp",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iserbrook",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Königstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baumwall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rödingsmarkt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mönckebergstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meßberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jungfernstieg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hallerstraße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klosterstern",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eppendorfer Baum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kellinghusenstraße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sierichstraße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Borgweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saarlandstraße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lattenkamp",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schlump",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Christuskirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Emilienstraße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Osterstraße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lutterothstraße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lohmühlenstraße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lübecker Straße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wartenau",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ritterstraße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wandsbek Markt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Straßburger Straße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Burgstraße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hammer Kirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rauhes Haus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Allermöhe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Langenfelde",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Diebsteich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Elbgaustraße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krupunder",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ohlsdorf Cemetery",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Poppenbüttel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ohlsdorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburg Airport Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barmbek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neugraben",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Köhlbrandbrücke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Theatre Neue Flora",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alter Teichweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Horner Rennbahn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "botanic garden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "German Theater \"Schauspielhaus\"",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "HSH-Nordbank Stadium",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kunsthalle Hamburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ohnsorg Theater",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Operettenhaus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rote Flora",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Speicherstadt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St. Pauli Theater",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "national opera Hamburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Congress Center Hamburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Deutsches Elektronen Synchrotron",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bille",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Berliner Tor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St. Michaelis (\"Michel\")",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Berlin City Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museum für Völkerkunde Hamburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mundsburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburger Straße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dehnhaide",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fischbek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lombardsbrücke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Deichstraße-Fleet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museum für Kunst und Gewerbe Hamburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schimmelmann-Mausoleum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dreifaltigkeitskirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Diamantgraben",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Friedhof Öjendorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburg Central Bus Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hoheluft-West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "New City Hall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gützkow",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holzenberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schloß Styrum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mülheim-Styrum Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Broich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ellenberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Auberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mülheim",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mülheim (Ruhr) West station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vulkanhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tinsdal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lotsekanal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Honartsdeich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holtenklinke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holaake",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hohenwisch",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hohedeich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Heckkaten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hasselwerder",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hitscherberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hinterm Horn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hinschenfelde",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grünerdeich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klein Dradenau",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kirchsteinbek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kempelberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kanzlershof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kälbersteert",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jenerseite",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Horst",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wulmsberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wulfshof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seemannshöft",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seefeld",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Scheinberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Siedlung Falkenberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rosengarten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rönneburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riepenburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Teufelsbrück",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tannenbaum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Reiherberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saselheide",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saselberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bahnhof Rübenkamp",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rothenburgsort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rodenbek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "West Krauel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wraust",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wittenbergen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vierzigstücken",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wandsbeker Chaussee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trillup",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Treudelberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Obergeorgswerder",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Langenbek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lange Grove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Landwehr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moorwerder",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mittlerer Landweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lütjenburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Liedenkummer im Süden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Liedenkummer im Norden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neuhöfer Kanal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neufeld",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neudorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neu-Boberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nettelnburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parkberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Overhaken",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oortkaten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ohlenburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ninkoperort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mellen-Berg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Waldpark Marienhöhe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fuchsberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bahnhof Friedrichsberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fischbek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Finkenriek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bredenberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brammerhagen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brakenburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bostelbek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Einlage",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eichbaum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fernsicht",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Falkenstein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Falkenberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Graft",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gauert",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gätjensort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dänenheide",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dockenhuden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Subway station Landungsbrücken",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fair Hamburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Altwiedenthal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Achterschlag",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Achterdeich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kiebitzdeich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Auf der Böge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Appelbüttel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baursberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seehof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburg-Mitte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Altona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eimsbüttel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamburg-Nord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wandsbek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bergedorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bavaria Film City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Heißen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "In der Sellerbeck",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Selbeck",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Styrum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Raadt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Loskamp",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mülheim (Ruhr)-Speldorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fulerum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Auf’m Kampen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hampton by Hilton Berliln City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hampton by Hilton Berlin City Centre Alexanderplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hilton Munich City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hampton by Hilton Nuremberg City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hampton by Hilton Munich City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hilton Frankfurt City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hohe Schaar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hohenfelde",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hohenbuchen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haken",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hellbrook",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Heimfeld",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hovekanal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hochkamp",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grüner Jäger",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klein Flottbek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hakengraben",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klein Borstel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kirchdorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kattwyk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jenfeld",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jaffe-Davids-Kanal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Köhlfleethafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Köhlfleet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Forst Klövensteen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stillhorn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barmbeker Stichkanal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Steinwerder Kanal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Steinfurth",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sophienhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinstorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sande",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pfeilshof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Peutekanal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Peute",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wohldorferweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wilstorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Warwisch",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Uhlenhorst",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tonndorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Langenfelde",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mühlenberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lohbrügger Höhe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ladenbek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kuhwerder Hafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krusenbusch",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neuhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neugrabener Heide",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ovelgönne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Öjendorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ninkop",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Niedergeorgswerder",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neuwiedenthal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neumühlen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lokstedt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meiendorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marmstorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maakenwerder Hafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Burgwedel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Burchardkai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fürstenmoor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fischbeker Heide",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Borghorst",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ellerholzhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Griesenwerder Hafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rissen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Elbchaussee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Esplanade",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jungfernstieg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St.-Katharinen church",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saint -Michaleis church",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fischotterstieg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bahnhof Harburg-Rathaus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Berne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alstertal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alsterberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baakenhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "yest",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Reiherstieg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hans-Rubbert-Str. 88",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lämmertwiete",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moorburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neuwerk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alfa Economy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonberg city hall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Speldorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mintard",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Menden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dümpten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oemberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Servicehotel Gewue",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Jena City Am Holzmarkt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Nuernberg City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Hotel Berlin City East",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Fürstenhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "amary city residence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City 54 Hostel Berlin  Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Europa City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Residence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "NH Berlin City Ost",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Hanse City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Accomodation Apartment Berlin City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Friendly City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prodomo City Hotel Kassel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Achat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel City B",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "ACHAT Hotel City - Wiesbaden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Hotel Kassel City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Hotel Berlin City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gates Berlin City East Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo City Sud",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tryp by Wyndham Kassel City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Hotel Berlin City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Express Berlin City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arktur City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cab City Apartments Berlin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Apartment Oranienburger Straã?E",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Ansbach",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Frankfurt Bad Vilbel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City-Apartment Im Regierungsviertel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Domus Kassel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Pension Sanader",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Am Gendarmenmarkt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Gotland",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City 54 Hotel Und Hostel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Berlin City Lounge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Apart City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Azimut Berlin City South",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Achat Premium Hotel City Wiesbaden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo Berlin City Sued",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Hotel Globus Berlin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Carathotel Wiesbaden City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Wiesbaden City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Apartment Oranienburger Strasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Days Inn Leipzig City Centre Prev Grand City Hotel Leipzig Zentrum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hampton by Hilton Hamburg City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sengelmannstraße (City Nord)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Hotel Berlin, Hamburg Zentrum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meininger City Hostel & Hotel Hamburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Saarbrücken",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Hotel Leipzig Süd",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zleep Hotel Hamburg City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Hotel Hamburg City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "TOP City Line Hotel Eggers",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Hotel Berlin Ku‘Damm",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "art'otel berlin city center west, by park plaza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arcadia Hotel Hamburg City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nh Hamburg City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suite Novotel Hamburg City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel City House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "A&O City Hauptbahnhof Hamburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "A And O City Hauptbahnhof Hotel Hamburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Art'otel Berlin-City Centre West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Hamburg Mitte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Express Hamburg City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "A&O Hamburg City Sued",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meininger Hotel Hamburg City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aando City Hauptbanhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Styles Hamburg Alster City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Express Hamburg City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Gate By Centro Comfort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Art'otel Berlin City Center West Allot Spec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Crowne Plaza City Alster",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novum Hotel Eleazar City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wyndham Garden Hamburg City Centre Berliner Tor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Tiefenthal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hampton by Hilton Berlin City East Side Gallery",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fleming'S Hotel München-City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Central Hotel Berlin Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Hotel Leipzig Messe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meininger City Hostel & Hotel Prenzlauer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Park Inn Berlin City-West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "A&O City Hauptbahnhof Leipzig",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Achat Plaza City Regensburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Hotel City Ost",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Express By Holiday Inn Berlin City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Hotel Berlin City-West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City-Hotel Berlin Am Kurfuerstendamm",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Grand City Hotel Berlin Mitte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Berlin City East-Landsberger Allee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Berlin City Centre East-Prenzlauer Allee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "NH Hotel Berlin City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "AZIMUT Hotel Berlin City South",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Center Landshut",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Winters Hotel Berlin City Messe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Queens Hotel Berlin City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "ACHAT City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Bremen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Crowne Plaza Berlin City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Pension Al Vita",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "MEININGER City Hotel Meininger Strasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "MEININGER City Hostel - Hallesches Ufer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meininger City Hostel Tempelhofer Ufer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "AL VITA City Pension",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Astoria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Apartments City Residence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Hotel Berlin Zentrum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Bremerhaven",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Suite Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Bayerischer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Courtyard by Marriott Berlin City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Gates Berlin City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Residence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Berlin City Ost 3",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Saarbruecken City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Regensburg City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Berlin City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Spoettel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Lenz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "A&O City Hauptbahnhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Grand City Hotel Kassel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Inter City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suite Novotel Berlin City Postdamer Platz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Berlin City East Side",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Enjoy Hotel Berlin City Messe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Quality & Suites Berlin City-East",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Berlin City Center East Prenzlauer Alle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Plaza City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Days Inn Berlin City South",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novum Business Hotel City B Berlin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tryp By Wyndham Berlin City East",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Styles Berlin City Ost",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Hotel Potsdam City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel Leipzig City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paseo Por Wyndham Berlin City East",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Leipzig City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Top City Gallery Hotel Berlin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Guesthouse Pension Berlin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Muenchen City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Birth City Hotel Berlin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Grand City Hotel Munchen Neufahrn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bw Grand City Neufahrn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Central Regensburg City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Inn Hotel Leipzig",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City West 1 - Bundesallee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City West 2 - Martin-Luther",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City West 3 Berlinerstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Days Inn Leipzig City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "East Side City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Hotel Dresden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Berlin City East S",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Express Dresden City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Berlin City Potsdamer Platz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amaryl City Hotel Am Kurfurstendamm",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Plus Hotel Kassel City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Ost Am Ko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Oase",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Five Floors City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Holiday Apartments Berlin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Birth City Hotel Berlin West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alte City At Memory Church",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prizeotel Bremen City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Restaurant Rizz City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Hotel Leipzig South",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Hotel Leipzig City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arena City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aando City Haupbanhof Leipzig",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amaryl City Hotel Am Kurfurstendamm Non Refundable Room",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Hotel Hessenland Kassel Zentrum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Grand City Hotel Liebenwalde",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Art Otel Leipzig City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio Munchen City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel Munchen City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tryp By Wyndham Berlin City East Non Refundable Room",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Atlantic Sail City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Berlin City Center East Prenzlauer Allee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Dresden City South",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hi Express City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Plaza Berlin City Centre Hotel and Suites",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Artotel City Center West By Park Plaza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tryp By Wydnham Berlin City East",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Berlin City East Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suite Novotel Berlin City Potsdamer Platz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Crowne Plaza Berlin City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Express Berlin City Centre Allotment Speciale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tryp By Wyndham Kassel City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Plaza Berlin City Centr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Express Berlin City Centre-West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Park Inn By Radisson Berlin City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Courtyard By Marriott Berlin City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo Hotel Berlin City West (Ex-Best Western Queens)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Bremen City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo Berlin City South",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novum Business Hotel City B Berlin Centrum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Located In The City Centre-West Berlin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Demas City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Tower",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Glasses Watergate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pentahotel Bremen City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Pension",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alfa City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "GHOTEL hotel & living München-City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo Hotel München City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo Hotel München City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Treff Hotel München City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rilano 24 / 7 Hotel München City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Hotel Nürnberg City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Motel One Nürnberg City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Motel One München City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Motel One München City Süd",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Motel One München City Ost",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Express Nürnberg City Hauptbahnhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Nürnberg City Cent",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tryp München City Center Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Aparthotel München",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hampton by Hilton Munich City North",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hilton Garden Inn Munich City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "easy palace city hostel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Comfort Hotel Andi Munich City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Azimut Hotel Munchen City Ost",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Alarun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "A&O City Hostel Munich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "MEININGER City Hotel Landsberger Strasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Munich City North",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Muenchen City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Munich City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Krone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Der Tannenbaum City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meininger City Hostel & Hotel Munich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Woehrdersee Hotel Mercure Nuernberg City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meier City Munchen Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nh Nuerenberg City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Hollander Ho",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Augusta Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Torbrau Munich Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Muenchen City Center4",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Comfort Htl Munich City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Herzog Wilhelm Hotel City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Munich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Courtyard Munich City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Deutsches Theater City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Flemings Hotel Munich City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Saarbruecken City 4",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Kaiserhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bw Hotel Nuernberg City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Comfort Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brunnenhof City Center Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel Dorint City Muc",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Adria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Strauss",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meininger Hotel Munich City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Courtyard Munich City Ost",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Winters Hotel Munich City Centre Am Hauptbahnhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tulip Inn Munich City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Munich City Nord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Azimut Hotel Munich City East",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn City Center Munich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Courtyard By Marriott Munchen City Ost",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Crowne Plaza Heidelber City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Express Nuremberg City - Hauptbahnhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Helvetia Hotel Munich City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Grand City Halle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Nurenberg City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Courtyard By Marriott Munich City East",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Hotel Dresden Radebeul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Express Heidelberg - City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Nuremberg City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Ibis Munchen City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Nuernberg City Am Plaerrer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo Hotel Mannheim City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Am Jakobsmarkt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arthotel City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Schonleber",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo Hotel Munick City Olympia Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo Munich City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Courtyard By Marriott Munich City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Merian",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Winter S Hotel Munchen City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meininger Munich City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Muenchen City Sued",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Nuernberg City Am Plaerre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Parkhotel Dessau",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nh Nurenberg City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ghotel and Living Munchen City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Azimut Muenchen City Ost",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Hotel Munchen City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Muenchen City Ost",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo Hotel Munich City North",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nh City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Courtyard Munich City EastEarly Booker",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Courtyard Munich City East Min Stay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basic City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Treff Munich City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "A&O City Hauptbahnhof Munich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rilano 247 Hotel Munich City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nuremberg City Hall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel ADAGIO MUENCHEN CITY",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City and more",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Smart Stay Hostel Munich City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mannheim City Hall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mannheim City Library",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hampton by Hilton Frankfurt City Centre East",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hilton Garden Inn Frankfurt City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hampton by Hilton Frankfurt City Centre Messe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hampton by Hilton Stuttgart City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Novotel Frankfurt City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo Hotel Frankfurt City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Top Hotel Kraemer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Frankfurt City South Conference Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dorint Novotel City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Quality Kaiserhof City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Wolfsburg City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Comfort Hotel Frankfurt City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Freiburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Steigenberger Hotel Frankfurt City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Athens City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Jaguar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Parkhotel Wolfsburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kronen Hotel Stuttgart City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Klein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "NH Frankfurt City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Frankfurt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Fellbach",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Stuttgart City Cent 3",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Fortuna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Mercator",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moevenpick Hotel Frankfurt City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City ZENTRUM Frankfurt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Hannover",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Hannover City 4",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Stuttgart City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Frankfurt City Messe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eazires Royal City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Grand City Hotel Bad Oldesloe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Primavera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Grand City Hotel Frankfurt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Comfort City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Savigny Frankfurt City - Mgallery Collection",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maritim City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Hotel Frankfurt City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Grand City Hotel Achim Bremen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Hotel Frankfurt City Messe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Hotel Kaiserhof Frankfurt City-Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel Karlsruhe City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novum Hotel Boulevard Stuttgart City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arena Messe Frankfurt City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sunshine Rooms & Appartments City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "United Hostel Frankfurt City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western  City-Hotel Braunschweig",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Grand City Bremen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Citadines City Centre Frankfurt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Residence Hotel Frankfurt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Clarion Collection Frankfurt City Centre Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Hotel Dream Frankfurt City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Express Frankfurt City - Hauptbahnhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo Hotel Wolfsburg City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "EnBW City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bw Grand City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Treff Hotel Lubeck City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suite Novotel Hannover City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Hotel Hannover City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Flamme",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Sindelfingen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Hunsrucker Hof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mövenpick Frankfurt City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Frankfurt City South Conference Centr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Motel One Frankfurt City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Frankfurt City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fleming S Deluxe Hotel Frankfurt City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Hotel Frankfurt City Centre Non Refundable Room",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "AandO Stuttgart City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rega Stuttgart City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Savigny Frankfurt City Messe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo Frankfurt City Center Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Kaiserhof City Ctr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tryp By Wyndham Halle (Ex.Best Western Grand City Hotel Halle)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Comfort Hotel Frankfurt City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Hotel Stuttgart City C",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Frankfurt City Center And Financial District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Movenpick Hotel Frankfurt City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "All Seasons Frankfurt City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Savigny Frankfurt City By Mgallery",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Flemings Deluxe Hotel Fra City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Motel One Düsseldorf City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Treff Münster City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Hotel Essen City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Domotel City Central",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Ibis Dortmund City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golden Tulip Duesseldorf City Sued",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Villa Fiore",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Aachen City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure City Nord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "relexa hotel Ratingen City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Apart  Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Berliner Hof-City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aquis Grana City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Domotel City Barbarossa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Conti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Europa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Treff Hotel Solingen City Centr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Hotel Duisburg City 3",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nh Duesseldorf City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eazires Regina City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Muenster City 4",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Ratingen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "NH Duesseldorf City-Nord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dorint Novotel Aachen City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Bad Oeynhausen City 3",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Bielefeld City 3",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Deutsches Haus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Dortmund City 3",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Am Schlosspa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Alter Speich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Dortmund",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Duesseldo City Nord 3",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Sittardsberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Amadeo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Grand City Hotel Koblenz Lahnstein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Diez",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Class Savoy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Boersen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nh Dusseldorf City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Hotel Gummersbach",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "All Seasons Hotel Aachen City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "All Seasons City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Grand City Hotel Wismar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Dsseldorf City Ctr Knigs",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ambassador City Hotel Essen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hk Hotel Dusseldorf City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Muenster City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Styles Aachen City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Garni Mozart",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Astoria City Resort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "A and O City Hauptbahnhof Dusseldorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Hotel Dusseldorf Konigsallee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Borsenhotel Dusseldorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Hilden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Hotel Bochum City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Express Dusseldorf City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wyndham Garden Duesseldorf City Centre Konigsallee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bw Grand City Mettmann",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn City Centre Koenigsallee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wyndham Duisburger Hof Ex.Grand City Hotel Duisburger Hof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Express City-North",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novum Hotel Maxim Dusseldorf City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wyndham Garden Duesseldorf City Centre Koenigsallee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Duisburger Hof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand City Strandhotel Ahlbeck",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonardo Dusseldorf City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tryp By Wyndham Dasseldorf City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Akzent City Hotel Dusseldorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City-Parkhaus Soest",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "NH Dusseldorf City (h)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bonn City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Hotel City Center Düsseldorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dorint Novotel Düsseldorf City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tryp by Wyndham Düsseldorf City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hampton by Hilton Dusseldorf City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holzhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hoheneichen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hansahafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Heidberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kleiner Vogelsand",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kaltenkirchen Bahnhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kakenhan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kaiser Wilhelm Hafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jachthafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kornweg (Klein Borstel)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Indiahafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zollkanal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schrebenhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stillhorner Kanal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spreehafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schnaaken Moor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Roßkanal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Roßhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Segelschiffhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Reiherstieg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Querkanal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sandtorhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saalehafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rugenberger Hafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rothenbekerweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pulverhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pollhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Peutehafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Petroleumhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Werftkanal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Werfthafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wendlohe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verkehrshafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Veddelkanal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bahnhof Veddel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Unterer Wittsand",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wasserburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Waltershofer Hafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vorhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Überwinterungshafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Travehafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tiefstack",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tidekanal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oderhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oberhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oberer Wittsand",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Müggenburger Zollhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Müggenburger Kanal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moorwettern",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moorfleeter Kanal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kupfer-Teich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kupferhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krapphof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Müssen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parkhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ohe",
+      "admin_name": "N/A"
+    }
+  ]
+}

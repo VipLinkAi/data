@@ -1,0 +1,46 @@
+{
+  "ACRONYM_EE": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_EE": [
+    {
+      "city": "Pelgulinn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tallinn City Hall Heliport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Guesthouse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Portus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Domina Inn City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Tallinn By Uniquestay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "My City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Guest House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tallink City",
+      "admin_name": "N/A"
+    }
+  ]
+}

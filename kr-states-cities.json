@@ -1,0 +1,4010 @@
+{
+  "ACRONYM_KR": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_KR": [
+    {
+      "city": "Goyang-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seongnam-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Changwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jeju City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hallasan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cheonan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bucheon-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sejong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Osan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gimhae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ansan-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gimcheon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chungju",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donghae City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yangju",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guri-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gunpo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Icheon-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hwaseong-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anyang-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hanam",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seosan City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pyeongtaek-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwangju",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anseong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Namyangju",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gongju",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jeju International Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwangmyeong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seogwipo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yeoju",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hwado",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seoul Air Base",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Osan Ab",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jungseok Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nonsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jinhae Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boryeong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seonghwan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donghae-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dongducheon-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seongnam-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seogwipo-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yongin-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yeoju-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bucheon-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pocheon-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paju-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Namyangju-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwangju-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gimpo-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gimhae-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Icheon-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jeju-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anyang-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anseong-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taebaek-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hanam-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ansan-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gunpo-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwangmyeong-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Osan-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Uiwang-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwacheon-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guri-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yangju-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hwaseong-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wabu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Uiwang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Siheung-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naju-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Changwon-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gimcheon-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Deokso-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yuyangni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Munsal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Munsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kimnyangjang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gangcheonri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pubal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gukripsumogwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tannae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "T’aebaek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Songchon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinan-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naesŏ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wolmun-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bunin-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naju",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwirin-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guam-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kuŭm-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koho-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jinbeol-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jidun-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gaigeturi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neungnae-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hallasan National Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pyeongtaek-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boryeong-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nonsan-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gongju-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chungju-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cheonan-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wŏlmyŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chodong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Allakri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kŏmsan-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guryongdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baekhakdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Toha-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sŏrun-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sodo-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Siu-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinŭp-tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sil-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sanseongri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sangsu-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sangsami-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sagon-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yeongnamdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yagam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wigom Ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sachang-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bonghwagol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Beondo-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pangsil-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paeksan-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naegong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moson-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Masal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kyohyŏl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Garwol-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kalsal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gagok-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chung-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chŏkkang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chogang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chinae-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chigong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Changji-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Changam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chajak-tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Angeumri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mugŏl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haewol-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yanggeo-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kaltam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sanseong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jangheung-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oebang-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sarŭng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chudong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Komae-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kung-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Togong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Torong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yangchon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baekseok-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Muchon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jeombong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sanggeo-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chuam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinnam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinjeop-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gajeong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yeonyang-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kaya-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Umal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dojeon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Okchon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jangpung-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sangsangok-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Namhansanseong-doripgongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eommi-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pultang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yeok-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Changji-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mok-tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haktong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yeolmi-rl",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jeongji-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sagimakgol-yuwonji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Raejeodanji-yuwonji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dandae-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gongdan-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolma-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sanghui-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jeonggol-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Huimangdae-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seouldae-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anyang-yuwonji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seoullaendeu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Poktoridongsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seoksucheyuk-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eorini-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eorini-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jayu-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jungang-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jungang-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jungang-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cheyuk-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pyeongchon-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pyeonghwa-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Huimang-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cheonggyesanipgu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seouldae-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinwŏl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yongjŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yangji-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yŏnpyŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banseomyuwonji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Songamgwangwangnongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naegang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Changhyŏl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Byeoraksoyuwonji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bukhansangungnipgongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwangneungyuwonji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sucheong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Deokpunggongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kkumnaragongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eunbangulgongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saenaragongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paldang-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jinjung-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dogok-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sampae-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sambong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yulseok-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chasan-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geumnam-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Changhyeon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nokchon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wolsan-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Songneung-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mukhyeon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sangp’al",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gyosan-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwiyo-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geomcheon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Changu-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Joan-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Misa-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Onam-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palhyeon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eunhangariyuwonji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Damnae-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Songcheon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ipseok-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geumgok-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Susan-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naebang-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palya-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sanghwalri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dangchonri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Samseungri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jangneungri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bukduri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seoksanri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hyeonsuri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buguri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sagokri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Namhangangyuwonji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baengnojuyuwonji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hyang-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mangwŏl-tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paeyang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hwajeop-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pung-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seongdong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ponae-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kaegong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kunha-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Masong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Swaeam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seokjeong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gahyeon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chowonji-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yulsaeng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daemyeong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daereung-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daebyeok-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guksa-bong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maegong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daeheung-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tongsil-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naksaeng-yuwonji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geullin-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jeongja-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jungang-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taehyeon-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daeudeurimwoldeu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gungnae-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neungan-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dangdongcheyuk-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dojang-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dunjeon-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yangji-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eorini-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eorini-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eorini-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ogeum-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jeineorini-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jungang-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cheyuk-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geumto-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sangsach’ang-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Namhansanseongdorip-gongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chik-tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dongcheon-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kogi-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kugal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mabung-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Osal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mok-tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neungpyeong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yonginebeoraendeu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kasil-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tongbaeng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ssanghang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gicheon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paeng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geumbok-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hwarihyeon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taeyang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Panje-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chimul-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Deokbong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tongsam-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pung-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sanjeok-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geumgok-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pansong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chung-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sil-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neung-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chuja Harbour",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Changpo-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Deokpo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Toegyewon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daebu Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sirye-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinchon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yongdam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yangch’ol-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gesson-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pusal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bupyeong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pung Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Biyangdo Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parhan-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paekpong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eomsanggol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paju",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mukho-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maseogu-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kyoha-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kosa-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kogal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hyeongok-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hwangji-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chungnyeongsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chodan-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ch’angjuk-tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anbandŭng",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Samhwa-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hangungminsokchon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dongbugongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chin’gwal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pup’yŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gojeong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ongjeong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gyeonggi-do",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chugok-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buncheon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Changdong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Goryeom-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eoso-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tojin-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Okkil-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kung-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tonggo-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Manjeong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naegacheon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chilgok-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Masal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taesŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taesil-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taeryong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taeji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seongjusan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Samsŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yuryang-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yuch’ol-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yangyŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wŏnjŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suksŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tujŏng-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sadong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Namsal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Munmu-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mual-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Monam-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gyemyeongsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwŏn’gwal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gunip",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kŭmgong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kongdong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kaehwa-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gaecheok-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hage",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hyenkyon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hansamnae-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chuam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saejae-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Choryong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jangdeul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Araenmanmok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Araetojaksil",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naegi-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anjung-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinyang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Songtan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Changjŏl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gyeryongsan-gungnipgongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinyang-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daedunsandoripgongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sincheongri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hwaseokri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suryongri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Munseongri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neungamri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donsanri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maryeonri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bonpyeongri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mullakri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gasinri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haechang-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sil-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chung-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eunsan-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gyeonsan-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Goruri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Josan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jieumgol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dohwadong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jikgol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baemdari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wachon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chiljeongdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chuchon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Galhyeongol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jwacho",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jangchon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hadong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jangdan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Silgol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naedong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seosiigu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gaundemal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maekkŭm-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamyeonggol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eungol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bakdalsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gajwamigogae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eungdalmal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geobungmoe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yongjugol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guchondong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nullo-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donggeori",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Deokjeong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tŏkchŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tŏgŭl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dodubong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tapp’ung-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dangneomo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Danggadong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dangchon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daewolli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taerŭng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daejeong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taehwa-san",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suraksan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Songu-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jozankei",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Songnidong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Songjeon-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seonbi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sanggoji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Simugol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Simgong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sosusan-bong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saenajigogae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sangnamdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sanbung-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Samyang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sanwaji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Samhwa-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sajeongdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jinjeop-eup",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yongdu-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hangnimdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yebongsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yangt’aeng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yanggwi-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yanggong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wollogok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Waeppot",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Uncheon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Unam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dongjeom",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tugyeul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dosun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tosa-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nantosan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tohei-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saekkot",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pŏl-mal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Loney bluff",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bolgeundegi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bukdae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boreumni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bongujae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bongan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bochon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bosuguji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yeongseondong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pŏbwŏl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Panwol-myon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baemoru",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baemmal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baegam",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pabalmak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kyonganni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oseung",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Odŭng-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Otatsu-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neungdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nangmoraengi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meiketsuri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sunae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museulpo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Masal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malmoe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gyeonjinbawi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwaneumsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwanggyo-san",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwacheon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kurae-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geungnak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Keuncheongtan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwimoldong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geumgok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kujangt’ŏ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hoecheon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kŏmultae-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gomso",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gongnyulli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koji-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kojasaemal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kojan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koeran-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gimpo-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dalgimeori",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yeogwondong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karhyŏl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Galmi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ho-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riho-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hyanggyo-gol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hwasulli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hwabuk-tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kulgwan-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hoech’ŏn-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hallim",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haean-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chungnim-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jeunggyeul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cheonmasan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jongjasan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cheonggyesan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cheongalli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jeogam",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jodong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ripple Island",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chihaeng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jangsudeul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Changsu-do",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Changhowŏn-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Janghowon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Changgol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jangdan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jakgol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jajak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haho-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Annyŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jabaebong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinheung Il Ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sŭngdu-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bulmosan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gajakdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baeuni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gamaksan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saeteobyeol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wikkamaeul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yeomti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geonjangi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cheori",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hansimchon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sebu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eumjugeumnae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yangdalmal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Heunbawi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jeokgeum-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Beondeure",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Soldani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nambatan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dansagol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naechugye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neunggok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saeteo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sangdeokjeongni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yongam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jinbeol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seorisan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gungmal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pocheon-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ojijakgogae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donghak-san",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Murumul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Udu-san",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maeryu-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sani-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jangseong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Unjung-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Namhan-san",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geomdan-san",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwacheon-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taran-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Beomgye-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwiin-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geumgok-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chiga-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwiun-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sin’gye-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chinsa-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yanggi-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwangjŏl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tŏksong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buramsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iryŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Samha-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Simsang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ch’ŏnghang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinhŭng-yuwŏnji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sapaesan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pugong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sŏkhyŏl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Namhansanseongdoripgongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hasachang-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinjang i-jigu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saeteoyuwonji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yutgol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geomdansan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ungilsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Goraesan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sudongyuwonji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dwittteul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anmaksan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Igi-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iro-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yŏnhwa-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tongjŏm-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chŏkkak-tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hasami-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hwajŏn-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hyŏl-tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mun’gok-tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Samhwa-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "T’aebaeksan-doripkongwŏn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ultun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wŏndong-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinhŭng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ammal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cheolgapsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tteokbatteongi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neummal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Narae-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wonseungni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hwangteoul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eomjeonggol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wonseungnigogae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geonneomal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolbakjisan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neomeowaegol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jasan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gongmal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seonghwangdangi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bangchungmal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Araethwangjeong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bojjaegogae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwanjeol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Minagol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bingjeong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banggagol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wonha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mireukdang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Imosan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Witjawori",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nodanteogogae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pogasil",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gongyangso",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daeo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Songcheon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gaenaegolsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Junggunibong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gusan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geumjusan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gangssibong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Deongyeongsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cheonjusan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Keunneokgogae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jageunneokgogae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jugeumsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cheongseongsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yulp’o-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kaekhyŏl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sŏlma-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seorwondong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chikch’ŏl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maegong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hyoch’ol-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kuam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tugong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ohyŏl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Choridong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meoreulli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seureuremi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kalgong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ugo-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sambang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hongjung-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kaŏm-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kisal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yŏngjang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sŏkhyŏl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chilbong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kanŭng-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pokchi-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nambang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ŏdul-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pangsŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yuyang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kyeryu-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koil-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Samjeongsutgama",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Samjŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kayang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sonamdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chuwŏl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Osal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinsal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hwangbang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tongan-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Komo-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mubong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kŭmhyŏl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ch’ogap’al-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kasal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pangch’ung-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tŏkkye-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwangsŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hwajŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sambatdeul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mugeundong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yongam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sŏnam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hap’ae-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hansal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Changhyŏl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ŏyuji-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mirachi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tŏktul-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tongduch’ŏn-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwangam-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saengyŏn-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pongyang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tonggyo-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yulchŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Okchŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tŏkkye-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Idonggyo-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Samsung-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Doduni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koŭm-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bangamdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwangsa-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mansong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pup’yŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jeopgol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mamyŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chiktong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Murim-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Igong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kamam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sŏndan-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yugyo-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ŏryong-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Doraksan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sangsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Soyosan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jungdundong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taebubuk-tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dongmakdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gajwadong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sayaul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Komang-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sanseongpo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Beomi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gaeyari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwirodong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anjingok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bangmagok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yongemeori",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Obongsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwandumul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Songma-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sangma-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ihodong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kagŭm-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kahyŏn-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geumamdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jeongjadong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kogang-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kojŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kyoha-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwijŏn-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kŭmnŭng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Noejo-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nusan-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nŭngal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taenŭng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taejang-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taep’o-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Todang-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tongŭlsan-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dugokdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tŭngwŏn-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Magong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Masong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Majo-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sau-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sŏam-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sŏngmo-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sŏkt’an-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Singidong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinchondong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yŏwŏl-tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Onisan-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yongmi-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wŏnsan-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wŏnjong-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yŭhyŏn-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yulsaengi-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chak-tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chŏllyu-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chugwŏn-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ch’owŏnji-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chunui-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hasa-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hagun-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hyangsan-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hongsin-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hup’yŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ŏŭl-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gŭmui-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chugong-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Changoe-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwangp’yŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haemul-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chilgok-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yangno-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yangdalmal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ssangji-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seollyegol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gochogol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mipyeong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jwahwang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saemal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tokgisil",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Humeochon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pyeongchon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jagaeul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bunchon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ipseokgogae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yulhyeon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Watodong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Worangdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dochon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dangjin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Singwangdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jujeomto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Witdoldangni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Araetdoldangni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anseong Sam Dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seungmyeongsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Noseongsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ssangnyeongsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seowonmal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yeomti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ssanggoe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wondeok",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bangmongni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jeongjamal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gumun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yachon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cheongnyangsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eumdalmal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Utnamugol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pulgok-san",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwangjeong-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geumjeong-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kungnae-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chaegung-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Morak-san",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Imae-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maechangni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sam-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paktal-tong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Unjung-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sanbon-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naeson-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sanggi-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yu-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seo-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sangdu-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dokjumul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sangyongdu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jujeongdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seodeummul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saeteomal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yuldong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dokjeongni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sangbanje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geobuksulgol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sanha-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wanjanggogae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kusu-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nam-dong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Keuneonghaean-gyeongseungji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hallimgongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Donghae Ferry Port",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moraenaeyuwonji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cheongseongcheyukgongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bangchukdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwangmyeongni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naengjeongdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Songhyeolli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eoryonggae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gwachon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gimchon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chorokdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Imokdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sanhudong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hwajeondong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daewidong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tongilgongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bakdalbong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gungmangbongjayeonhyuyangnim",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seoruncheyukgongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gipiulyuwonji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Susanyuwonji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Herb Land",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gisan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Namgyeongsumogwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tongildongsan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bunjaeyesulgongwon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seowonbong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buindang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Deogyong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tong-ri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dongducheon-si",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tongch’ol-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Domindong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seokbong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tŏksal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taesal-li",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daejangdong",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Taihku-zan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sujŏng-ni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seodong",
+      "admin_name": "N/A"
+    }
+  ]
+}

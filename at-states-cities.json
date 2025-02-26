@@ -1,0 +1,1230 @@
+{
+  "ACRONYM_AT": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_AT": [
+    {
+      "city": "Volksgarten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Am Hof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vienna State Opera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kunsthistorisches Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St. Stephen's Cathedral",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hofburg Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naturhistorisches Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Burgtheater",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Inner city",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wienerberger",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vindobona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Federal Chancellery of Austria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lugeck",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "UNO-City Wien",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Innere Stadt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Justizpalast",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naturhistorisches Museum Wien",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universität Wien",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Urania",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neuer Markt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Weltmuseum Wien",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Looshaus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Hotel Wien",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Minoritenplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Freyung",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hoher Markt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schwarzenbergplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Michaelerplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Austrian National Library",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neue Aula (Alte Universität)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wiener Minoritenkirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stephansplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "MAK - Museum of Applied Arts",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kirche am Hof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Innerer Burghof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shopping City Süd SCS",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spanische Hofreitschule",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tiefer Graben",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seilerstätte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dorotheerkirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Annakirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kapuzinerkirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Judenplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Erzbischöfliches Palais",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Heiligenkreuzerhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stubentor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kärntnertortheater (historical)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Akademisches Colleg der Jesuiten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bürgerliches Zeughaus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brandstätte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Rabutin-Kinsky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kirche St. Peter",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spital Kirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schottenkirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kirche Maria Rotunda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St. Jakob an der Hülben",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kirche St. Michael",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St. Augustin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Franziskanerkirche (Hl. Hieronymus)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jesuitenkirche – Universitätskirche (Mariä Himmelfahrt)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kloster St. Agnes zur Himmelpforte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nikolai-Kirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ursulinenkirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Theatinerkloster",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kien Markt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stadtpalais Liechtenstein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Schönborn-Batthyány",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Questenberg-Kaunitz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Böhmische Hofkanzlei",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Altes Rathaus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haupt Maut",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St. Laurentius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Deutschordenskirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wiener Pestsäule",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nepomuck Kapelle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Billiottesches Stiftungshaus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hl. Nepomuk Monument",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neuer Teil der Burg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Caprara-Geymüller",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Liechtenstein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Seitern",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ehem. Palais Starhemberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Ferstel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Daun-Kinsky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Batthijan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Windischgrätz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haus Kayserstein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Visendisches Haus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Herrengasse 5",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Esterhazy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haus des Grafen v. Herberstein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais der Gräfin von Althan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cavrianisches Haus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kirche Unsere Liebe Frau zu den Schotten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Winterpalais des Prinz Eugen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vermählungsbrunnen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Lamberg-Sprinzenstein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haus zu den Sieben Säulen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haus des Kays. Residenten in Portugal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Neupauer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Innsbruck city center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ringstraße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Elisabethstraße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riemergasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stubentor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kärntner Straße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Burgring",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rudolfsplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spiegelgasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Herrengasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rathausstraße 17",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Esslingasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kärtnerstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Weihburggasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Annagasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Babenbergerstraße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bösendorferstraße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grillparzerstraße",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naglergasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wollzeile",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wallnerstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Franz-Josefs-Kai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Graben",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Siemens City Vienna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel FLEMING'S DELUXE CITY",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adagio Vienna City (Min 4 Nts)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Derag Livinghotel City Apartments Wien",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "a o city stadthalle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "nh danube city",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "meininger city hostel hotel vienna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Tabor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golden Tulip Wien City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Vienna City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Wien City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Htl City Central",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Deutschmeister",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lugner City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Jufa Wien City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Allegro Vienna City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Wien City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Encore Vienna City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fleming S Deluxe Wien City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Park Inn By Radisson Uno City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Rooms",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Styles Wien City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gartenhotel Gabriel City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bella Vienna City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Encore Vienna City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nh Wien City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suite Novotel Wien City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Encore Vienna City Cent",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meininger Hotel Vienna City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel NOVOTEL WIEN CITY",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hampton by Hilton Vienna City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "ramada salzburg city centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Salzburg City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Bregenz City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meininger Salzburg City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Salzburg City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arena City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Cat.Sud",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel NH SALZBURG CITY",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bahnhof Wien Oper",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "starlight suiten renngasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "starlight suiten salzgries",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "austria trend europa vienna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "hotel post",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Börse Wien",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kammeroper",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Landesregierung",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Wien Zentrum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kaiserin Elisabeth",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Imperial Vienna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Astoria Vienna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Graben",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bristol Vienna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Austria Trend Rathauspark",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rathauspark",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "De France Vienna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ambassador Vienna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Royal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ambassador Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K K Palais Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Am Stephansplatz Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Le Meridien Vienna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Bristol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Capricorno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Am Schubertring",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Amadeus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Marc Aurel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marriott Vienna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radisson SAS Style Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Wandl",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Coburg Hotel Residenz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bw Premier Roemischer Kaiser",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Parlament",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Secession",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Albertina Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kaerntnerhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Am Opernring",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Ath Europa Wien",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Wien Junior Suite",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Le Meridien Vienna Deluxe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schwedenplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Topazz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Das Opernring Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lamee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Hansen Kempinski Vienna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Ritz-Carlton",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Park Hyatt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boutique Hotel Alma",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pension A Und A",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Opera Suites",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Do & Co Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Thueringer Hof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alexander Hotel Wien",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zur Wiener Staatsoper",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riemergasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pension Riedl",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pension Pertschy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pension Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pension Lumes",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mailberger Hof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lerner Pension",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bajazzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aviano Pension",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ao Wien Stadthalle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Austria Trend Appartementhotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Starlight Suiten Am Heumarkt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Allstar Apartments Rothensteiner",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Kk Palais",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ath Rathauspark",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K And K Palais",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trend Europa Special Offer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schloss Roemischer Kaiser",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Premier Schlossho",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pertschy Palais Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sacher (Top Deluxe)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sacher (Junior Suite)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schweizerhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pension Neuer Markt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel STEIGENBERGER HERRENHOF",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Café Hawelka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adebar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Strohkoffer (former)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Heldenplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Regierungsgebäude Stubenring",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Georg-Coch-Platz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Julius-Raab-Platz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mozarthaus Bösendorfer-Saal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Musikverein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Großer Redoutensaal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Lobkowitz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alte Post",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Griechisch-katholische Kirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amerika-Haus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Café Central",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Altenburgerhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Josefsplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Künstlerhaus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museum of Natural History",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Opern-Café",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Pálffy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palais Wilczek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wipplingerstrasse 24",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Reichsratsstraße 1",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Café Herrenhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hauptpostamt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dorotheergasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schottentor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "the ring vienna s casual luxury hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "reisinger's am salzgries",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Sacher Wien",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hilton Vienna Plaza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radisson SAS Palais Hotel Vienna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Top Ccl Hotel Kaiserin Elisabet",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hollmann Beletage Design & Boutique",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rathaus Wein And Design Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Hotel Das Tigra",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bw Premier Hotel Am Parkring",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Premier Hotel Rom",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radisson Blu Palais Hotel, Vienna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Hotel-Pension Arenberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Premier Romischer Kaiser",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel König von Ungarn (Hotel Koenig von Ungarn)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Starlight Suites Hotel Salzgries Vienna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Starlight Suites Hotel Renngasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Premier Roemischer Kaiser",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel RADISSON BLU STYLE WIEN",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Postsparkasse, Universität für angewandte Kunst Wien",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stock-im-Eisen-Platz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "ÉMILE Restaurant and Bar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universität für angewandte Kunst Wien",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Franz-Josefs-Kai Amtsgebäude",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fisch Hof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bibliothek der Österreichischen Akademie der Wissenschaften",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cd City Art Hotel Salzburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Graz City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wildbach City Apartments",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Linz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Linz City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel Wien City Executive Room",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Albrecht",
+      "admin_name": "N/A"
+    }
+  ]
+}

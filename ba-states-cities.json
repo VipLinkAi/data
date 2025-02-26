@@ -1,0 +1,42 @@
+{
+  "ACRONYM_BA": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_BA": [
+    {
+      "city": "Old Ottoman City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mostar Centralni Distrikt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sarajevo City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bosmal City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Walled city of Vratnik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banana City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vratniki old city wall",
+      "admin_name": "N/A"
+    }
+  ]
+}

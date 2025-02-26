@@ -1,0 +1,66 @@
+{
+  "ACRONYM_SA": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_SA": [
+    {
+      "city": "King Abdullah City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yanbu Industrial City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "King Khalid Military City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "King Khalid Military City Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Al Jubayl Industrial City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Madīnat al Malik Fahd as Sāḩilīyah",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Madīnat al Malik Fahd aţ Ţibbīyah",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Madīnat al Malik ‘Abd al ‘Azīz lil ‘Ulūm wa at Taqnīyah - Ma‘had Buḩūth al Faḑā’",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "King Faisal Military City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Madīnat al Malik Fahd as Sāhilīyah",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Madīnat al Malik Khālid al ‘Askarīyah",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mustashfá ash Shamīsī",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bon Hotel Old City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "King Fahd Military City",
+      "admin_name": "N/A"
+    }
+  ]
+}

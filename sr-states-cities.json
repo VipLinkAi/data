@@ -1,0 +1,478 @@
+{
+  "ACRONYM_SR": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_SR": [
+    {
+      "city": "Paramaribo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paramaribo District",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palmentuin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rainville",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blauwgrond",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Munder",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Beekhuizen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Weg naar Zee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Welgelegen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tammenga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Flora",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Latour",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Livorno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rainville",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Livorno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hoek Leonsberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Flora",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blauwgrond",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Munder Buiten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tammenga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Welgelegen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Beekhuizen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "De Nieuwe Haven",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonsberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zorg en Hoop Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Supoza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Landsboerderij",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zorg en Hoop",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tourtonne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Morgenstond",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mon Plaisir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "La Tour",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geyersvlijt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Elisabethshof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "De Boer Buiten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stolk Buiten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Janki",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stolk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Van Dijk II",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Polanen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Van Dijk I",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shaw",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zweers",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belair",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rosenberg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Via Bella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Half Flora",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bams",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Duisburg en Onverwacht",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saron Zuid",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Land Van Dijk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "L’Hermitage",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Poelepantje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Abrabrokie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ondrobon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bronsplein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Doerga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Van Kesselpark",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balona Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Flamboyant",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kalpoe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramdjan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cupido",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Politiebond",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Complex Universiteit Suriname",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naipal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Militar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Peu et Content",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Combe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ma Retraite III",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ma Retraite II",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Flamingo Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Twee Kinderen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nawa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koeldipsing",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Binda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saron Noord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ephraimszegen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maikoe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vogeiwijjk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leonsburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bernie’s Projekt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bernie’s Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Volkswoning Projekt L’Hermitage",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vensur",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Willing Kreek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Warimbo Kreek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Valentijn Kreek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tout Lui Faut Kanaal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schutsluis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ma Retraite",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koertana Kreek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koerlana Kreek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zeelandia Suites",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Queens Hotel & Casino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Courtyard Paramaribo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krasnapolsky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spanhoek Boutique Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Elegance Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wyndham Garden Hotel Paramaribo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Torarica Hotel and Casino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Royal Torarica Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Courtyard Hotel By Marriott",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oldenburg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Van Engelbuiten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cabellbuiten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Van Brussel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Memre Boekoe Kazerne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sommelsdijksche Kreek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Domineekreer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St. Louise School",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suriname Cultural Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Surinaamse Televisie Stichting",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Algemene Televisie Verzorging",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ministry of Foreign Affairs (Suriname)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bergendal Eco & Cultural River Resort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maria’s Lust En Toevlugt",
+      "admin_name": "N/A"
+    }
+  ]
+}

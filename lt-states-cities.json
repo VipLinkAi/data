@@ -1,0 +1,1730 @@
+{
+  "ACRONYM_LT": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_LT": [
+    {
+      "city": "Vilnius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klaipėda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šiauliai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Panevezys",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alytus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Antakalnis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palanga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palanga International Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naujoji Vilnia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilnius Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Panevėžys City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klaipėda City Municipality",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šiauliai City Municipality",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alytus City Municipality",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palanga City Municipality",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilnius City Municipality",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rėkyvos Ežeras",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ežeras Talkša",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fabijoniškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nemirseta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šventoji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naujininkai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pašilaičiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Justiniškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šeškinė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lazdynai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naujamiestis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karoliniškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Smiltynė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pilaitė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilkpėdė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rasos",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Giruliai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Būtingė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Antaviliai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vaidegiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Užupis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klaipėdos Kanalas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Smeltė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žuvininkų Piliakalnis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rėkyva",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šnipiškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Medelyno sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rėkyvos sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trinyčių Ežeras",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ežeras Mumlaukis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Svyturys",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aukštoji Veržuva",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kazbiejų Naujakiemis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kazbėjai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baltupiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jočionys",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dvarčionys",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paliepgiriai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naujieji Verkiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Monciškė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Liudvinavas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viršuliškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žirmūnai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žvėrynas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šeškinės sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naujamiesčio sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Justiniškių sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lazdynų sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Antakalnio sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šnipiškių sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pašilaičių sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viršuliškių sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verkių sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žvėryno sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rasų sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grigiškių sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žirmūnų sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Panerių sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naujosios Vilnios sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fabijoniškių sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naujininkų sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Senamiesčio sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karoliniškių sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilkpėdės sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pilaitės sen.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Raistelis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jeruzalės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bukčių Miško Parkas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žemųjų Panerių Parkas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pavilnio Miško Parkas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Markučių Miško Parkas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belmontas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sapieginės Miško Parkas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šveicarijos Miško Parkas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kairėnų Ežeras",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Valakampių Miško Parkas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naujųjų Verkių Ežeras",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bevardis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alsas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sausas Ežerėlis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mažasis Gulbinų Ežeras",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balsys",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gulbinas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Antavilio Pusdubenis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Antavilio Mažasis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Antavilio Ežeras",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Skarbelis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balžis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Juodis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tapelių Ežeras",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dailidės Ežerėlis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dailidės Ežeras",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mūro Vokės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grigiškių",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gelūžė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anaičių Ežeras",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bandužiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naujasėdžiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lypkių Sodybos",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žardė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tauralaukis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Smeltalė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Budelkiemis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stotis Gubernija",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bačiūnai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lieporiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kalgraužiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guriai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anaičiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stotis Paneriai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palanga Senoji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kunigiškiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kriaučiūnai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kirtimai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilniaus Gabijos gimnazija",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verkė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baltupis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žemoji Veržuva",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Veržuva",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daniliškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ošupis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Užkanavė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilnius TV Tower",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Akliniai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blušiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pempininkai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Melnragė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lepšiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zokniai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Virkučiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vijoliai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verduliai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šlapžemiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sendvaris",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rumpiškė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pažalvaičiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plukiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Smeltės Pusiasalis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zardės Piliakalnis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sala Kiaulės Nugara",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Purmalių Piliakalnis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hageno Kalnas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ledų Ragas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kopgalis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jeruzalė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Didieji Gulbinai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aukštieji Paneriai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alytus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prašiškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pavilnys",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stotis Naujoji Vilnia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naujakiemis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stotis Litishkis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kryžiokai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Užusienis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trakų Vokė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lithuanian National Philharmonic",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mykolinė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šilinė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mažieji Gulbinai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gudelių Piliakalnis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilniaus III Piliakalnis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gariūnai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bukčiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žemieji Paneriai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pupinė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ažuolijai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aukštasis Pavilnys",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ribiškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rokantiškių Piliakalnis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pūčkorių Piliakalnis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilniaus IV Piliakalnis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilniaus I Piliakalnis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kalnas Barsukynė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sapieginė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rokantiškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mažieji Pupojai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Didieji Pupojai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pylimėliai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kalnai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šilėnai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aukštagiris",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Valakampiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Turniškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krempliai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Staviškių Piliakalnis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gvazdikai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baniškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vismaliukai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Staviškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aukštoji Riešė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verkiu Riešė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Babiniai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ožkiniai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žemieji Karačiūnai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aukštieji Karačiūnai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pečiukai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balsiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dvarykščiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Liepynė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šilai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meiriškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vaguva",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vanaginė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rokantiškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alytaus Piliakalnis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radžiūnų Piliakalnis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neravų Piliakalnis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Salos",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neravai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baraškos",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naujoji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Užukampis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žemasis Pavilnys",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naglio Kalnas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Birutės Kalnas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plytinė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stotis Giruliai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paupiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gedminai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alksnynė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Girulių Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barškiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trinyciai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dauguliai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klaipėdos Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mažasis Kaimelis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vitė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Senamiestis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naujakiemis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Melnragės Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rimkai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Draugystė Cargo Terminal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pabalių Pelkė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dainai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Salduvė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pabaliai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šventupis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Margiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gubernija",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kairėnai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gureliai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pagubė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Salininkai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Senamiestis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gulbinų Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Raudondvario Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naujaneriai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bireliai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gulbinų Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verkių Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Skersinė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Visoriai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Santariškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Turniškių Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pavilionys",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cedrono Tvenkinys",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saltoniškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karoliniškių Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Miškiniai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Liepkalnis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aukštųjų Panerių Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Panerių Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Užusienių Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baltosios Vokės Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Markučiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lyglaukiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aukštagirio Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Upelė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Antavilio Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kryžiokų Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kairėnų Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tarandė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dievoniškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dvarykščiai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Putinai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dainava",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vidzgiris",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alytaus Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vidzgirio Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palentvario Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neravų-Grigiškių Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bališkės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kulokiškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nemirsetos Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palangos Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilimiškės Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Miškas Pajūrio Kopos",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Miškas Paliepgirių Durpynas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vanagupė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Virbališkė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nemirsetos Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Būtingės Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Būtingės Miškas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wierzby",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kučkuriškės",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leoniszki",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pūčkoriai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Równe Pole",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sadele",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Strielčiukai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hilton Garden Inn Vilnius City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Europa City Vilnius Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Park Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Eastern Hotel City Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Europa Silver City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Gate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Algirdas City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotels Rudninkai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Europa City Aurora",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kaunas City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Europa City Aurora",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nendrė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Raupis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kretainis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Purmalė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žvejonė",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prūdelio Tvenkinys",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Darba",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žalieji Ežerai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilnius 3 Power Plant",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilnius Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Viršuliškes Mediumwave Transmitter",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Naujasis Vilnius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Centrum Uniquestay Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Le Meridien Villon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karolina Hotel & Conference Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radisson SAS Astorija Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Telecom Guest House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shakespeare Boutique Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Scandic Neringa Vilnius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ratonda Centrum Hotels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amicus Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "APIA Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sarunas Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barbacan Palace Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mabre Residence Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel Vilnius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Conti Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Reval Hotel Lietuva",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Congress Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Panorama Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ecotel Vilnius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Domina Plaza Luxury Apartments",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stikliai Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rudninku Vartai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Artis Centrum Hotels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Vilnius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Europa Royale Vilnius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ambassador Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Reval Inn Vilnius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Atrium Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Filaretu Hostel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mikotel Hotel Vilnius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel Vilnius Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Narutis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Centrum Unique Stay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Europolis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Park Inn Vilnius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amberton Hotel (Former Klaipeda)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Relais & Chateaux Stikliai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adelita",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Europa Stay Vilnius (Ehotel Tennis)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tilto Hotel Vilnius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Hotel Vilnius, Curio Collection by Hilton",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Vilnius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pan Tadeusz Hotel (Formerly Polonezas Pan Tadeusz)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Europa Stay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Comfort Hotel LT",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radisson Blu Royal Astorija",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radisson Blu Lietuva",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Green Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Corner Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Crowne Plaza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amberton",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grata",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rinno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Campanile Vilnius Aiport Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vilniaus darželis - lopšelis Gabijėle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grotthuss",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Park Inn Vilnius North",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Campanile Vilnius Airport Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Florens Boutique",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Zemaites",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Panorama Hotel Non Refundable Room",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moon Garden Art Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Park Inn Vilnius North",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Relais And Chateaux Stikliai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "In Astra",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Park In By Radisson Vilnius North",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Victoria Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Martialis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Campanile Vilnius Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Panorama (Old Town View)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ecotel Vilnius (Promo)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Airinn Vilnius Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "University of Vilnius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Comfort Vilnius",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grybas House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nese Pramogu Bankas Guest House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Downtown Forest Hostel & Camping",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dvaras",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Velga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Villa Alicante",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buivydiškių Tvenkinys",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belmonto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rokantiškių",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dvarčanka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Turniškių II",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Turniškių Upelis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kaniavasis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žiogupis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vanagupė",
+      "admin_name": "N/A"
+    }
+  ]
+}

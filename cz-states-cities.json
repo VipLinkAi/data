@@ -1,0 +1,4010 @@
+{
+  "ACRONYM_CZ": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_CZ": [
+    {
+      "city": "Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Václav Havel Airport Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "New Town",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stromovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žižkov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Libeň",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palmovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 1",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 2",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 3",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 4",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 5",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 6",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 7",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 8",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 9",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 10",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 11",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 12",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 13",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 14",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 15",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 16",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 17",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 18",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 19",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 20",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 21",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 22",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Modřany",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malá Strana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Old Town",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vysočany",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Velká Chuchle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Střížkov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Letňany",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karlín",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Braník",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Černý Most",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hradčany",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prague-Kbely Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Charles Bridge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "National Theatre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zlíčín",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Písnice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nebušice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zadní Kopanina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Třeboradice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Třebonice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ládví",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koloděje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klánovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jinonice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stodůlky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ruzyně",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Řepy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Řeporyje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Přední Kopanina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dubeč",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolní Měcholupy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolní Chabry",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ďáblice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Čakovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Březiněves",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Břevnov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Benice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Běchovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Střelecký ostrov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vysehrad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolní Počernice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vyšehrad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prague - Main railway station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Modřanská rokle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cholupická bažantnice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Petrovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pankrác",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nusle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Motol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Michle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malešice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zbraslav",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Záběhlice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vršovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vokovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Veleslavín",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Troja",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Točná",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Střešovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Libuš",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kunratice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krč",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Košíře",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kobylisy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Štěrboholy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Smíchov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sedlec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podolí",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrdlořezy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Horní Počernice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holešovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hloubětín",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dejvice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cholupice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bubeneč",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bohnice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bílá hora [Praha - Ruzyně]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barrandov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Komořany",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balabenka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Valdštejnská zahrada",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Anděl",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "BABA Werkbund Housing Estate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Josefov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 10",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Šeberov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Křeslice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Zbraslav",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 16",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Zličín",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Čakovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Kunratice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 4",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Slivenec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 5",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Ďáblice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 8",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 9",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 15",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Dolní Měcholupy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Dubeč",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Štěrboholy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Suchdol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 6",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Benice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Újezd",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 11",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 12",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Libuš",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 13",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Řeporyje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 14",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Dolní Počernice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 20",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Běchovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 22",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Kolovraty",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Lipence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Březiněves",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Petrovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 19",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Vinoř",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Satalice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Klánovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 21",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Koloděje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 1",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Nedvězí",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Královice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Lochkov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Velká Chuchle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 17",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 18",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 2",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 3",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Přední Kopanina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Nebušice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Lysolaje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Troja",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha 7",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Dolní Chabry",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wenceslas Square",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Tower",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Slovanský ostrov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kinsky Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Petřín Tower",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mustek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Staromestska",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malostranska",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St. Wenceslas statue",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Centrum Chodov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chodov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Háje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trojský Zámek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vinoř",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Uhříněves",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suchdol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Litochleby",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kateřinky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Staré Strašnice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Slivenec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Satalice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prosek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Horní Liboc",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Paris",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karlovo náměstí",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Obecní dům",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Crowne Plaza Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Hoffmeister",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "National Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Most Legií",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jiráskův most",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trojský kanál",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rajská zahrada",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Národní památník Vítkov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malé náměstí",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Galerie Rudolfinum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St. Vitus Cathedral",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naprstek Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel International Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "AC Sparta Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "O2 Arena (Prague)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prague State Opera",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Muzeum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Roztyly",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Opatov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hradčanská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Královské Vinohrady",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prague Masaryk Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Libeň Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hilton Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prague Castle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vyšehrad railway bridge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stadion Evžena Rošického",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Place of the Republic",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "University of Economics, Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radisson Blu Alcron Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Holešovice Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Bubeneč Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Čakovice Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Satalice Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Vysočany Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lennon Wall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Letohrádek Hvězda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Smíchov railway station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prague Aviation Museum, Kbely",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prague Zoo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Old Town Square",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dětský ostrov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Veslařský ostrov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Císařská louka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zmrzlík",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pitkovičky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pitkovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pelc Tyrolka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paběnice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ovčín",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nové Strašnice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nedvězí",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Miškovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milíčov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lysolaje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zátiší",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žabovřesky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Záběhlice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Xaverov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Újezd u Průhonic",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Újezd nad Lesy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sychrov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Svépravice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lochkov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lipence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lipany",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lipany",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lahovičky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lahovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Křeslice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Královice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kolovraty",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kbely",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sobín",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radotín",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radost",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrnčíře",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hostavice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holyně",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hodkovičky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hájek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolní Liboc",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ctěnice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Císařský Ostrov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Čimice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aloisov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "(Jižní město)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha Klanovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Letnany Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "(Kunratický les) [Praha-Kunratice]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "(U Porážky) [Praha-Kolovraty]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "(Tábor) [Praha-Běchovice]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Horka [Praha-Kyje]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klapice [Praha-Radotín]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Parkáně [Praha-Radotín]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Čihadlo [Praha-Točná]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "(Hradiště Butovice) [Praha-Jinonice]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Lesním divadlem [Praha-Krč]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Obora Hvězda S [Praha-Břevnov]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Petřiny [Praha-Veleslavín]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paví vrch [Praha-Smíchov]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Křížek (Parukářka) [Praha-Žižkov]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Smetanka [Praha-Hrdlořezy]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Skalky [Praha-Dolní Měcholupy]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "[Praha-Uhříněves] outlook p.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milíčovský vrch [Praha-Újezd u Průhonic]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kozí hřbety [Praha-Suchdol] outlook p.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Nové Město",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bílý vrch [Praha - Horní Počernice]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jankov [Praha - Hájek u Uhříněvsi]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vidoule [Praha-Jinonice]",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Homolka [Praha-Velká Chuchle] outlook p.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Strahovský tunel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golden Lane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zizkov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zlíchov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nové Dvory",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malá Chuchle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zámky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kyje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klukovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jalový Dvůr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spořilov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šeberov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šárka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Santoška",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radlice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podhoří",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podbaba",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hostivař",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Horní Roztyly",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Horní Měcholupy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hlubočepy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Háje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dvorce",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolní Roztyly",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chvaly",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chodov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chodovec",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Čertousy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Butovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krčský les",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zahradní Město",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Platónova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Větrovcova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Semická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Petržílova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pertoldova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fišerova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daňkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vokrojova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Božetická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Urbánkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Borovanská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pavelkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mezihorská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Doly",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Cimbále",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Hupech",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Homérova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Popovova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Čekárny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hoblířská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bojovská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Frézařská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lešetínská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamrová",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Zatáčce",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kolářova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sekorova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ke Srážku",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chumajevova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ke Spofě",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Beránku",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dostojevského",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Ražákem",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "V Potočkách",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Písková",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vzpoury",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Soutoku",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Klubu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Teplárnou",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Vltavou",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Soutokem",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Lahovičkám",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Vlečky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Skladu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Okružní",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Homoli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Šabatce",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krupná",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Nouzovu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Poustkách",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palmetová",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Za Sídlištěm",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Cihelny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pacholíkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Komořsku",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Za Strojírnami",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Do Koutů",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Revoluce",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Petrově komoře",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Lesem",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podlesní",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kyslíková",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Domu služeb",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Kina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Kovárny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Dolům",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Sady",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vošahlíkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barákova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ke Zvonici",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Havránce",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nečova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nesvadbova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Pily",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Vltavě",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amortova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prokofjevova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Soukalova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Spořitelny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Schůdkách",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pekárkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Branislavova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Staromodřanská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Vystrkovu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Benáčanova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hornocholupická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Lipinám",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Odbočná",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ploštilova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Letištěm",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Jizby",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Potůčku",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Skalnatá",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Výšině",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plovdivská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jordana Jovkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nikoly Vapcarova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pirinská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pejevové",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plevenská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Botevova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Poljanovova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rilská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Angelovova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rakovského",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rodopská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Levského",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mladenovova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vitošská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šumenská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vazovova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Generála Šišky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolnocholupická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rozvodova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Komořanská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Modřanskému nádraží",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Jezu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klášterského",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Modřanské školy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pancířova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Blanseku",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klostermannova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Chmelnice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vojtova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Darwinova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Převoznická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Zastávky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Povodňová",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Studny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Voborského",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karasova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Holém vrchu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Píšovická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Andělova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šumavského",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrubínova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Herrmannova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chuchelská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lysinská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ke Kapličce",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Vinicí",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barunčina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Orionce",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zlíchovská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Tyršovky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Emlerova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Belárií",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Otočce",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Cikorce",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hájenská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hřebíkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Údolí",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Trnkám",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malá Tyršovka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ke Schodům",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Šumavěnky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Borová",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Do Čtvrti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Lomem",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zátišská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mádrova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milerova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hausmannova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krouzova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mazancova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kutilova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mráčkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daškova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dobevská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Těšíkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hasova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Imrychova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seidlova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Snopkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zárubova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vnoučkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vosátkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Soukupova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Špirkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Růženínská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Zátiším",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Vodotoku",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Propusti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Lázní",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Židlického",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ve Lhotce",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Koupadel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Koupadly",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Filosofská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Frýbortova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dobrušská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Nás",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Polední",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "V Zátiší",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ludvíkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vítovcova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Pruhy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Výspě",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Hájem",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Dubině",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Havlovického",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Korandova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klánova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jílovská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vavřenova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Údolní",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aksamitova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Poberova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Talafúsova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ohnivcova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Věkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Psohlavců",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Táhlá",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Branickým pivovarem",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kamenitá",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Výstupu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mezi Stráněmi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Večerní",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jitřní",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Půlnoční",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stavbařů",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Údolím",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Lysinami",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Babská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rytířova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kabeláčova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Zátiší",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Dubinám",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mezi Lysinami",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Kopcem",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lodnická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "V Náklích",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Belárií",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schodišťová",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barrandova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Čokoládoven",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Floře",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Vinicí",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "V Mokřinách",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "V Lučinách",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Dlouhé mezi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "V Hodkovičkách",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Ledáren",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "V Závitu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ve Studeném",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Jiráskovou čtvrtí",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Do Lipin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Točenská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolnobřežanská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malá Lada",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "V Hájkách",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Ladům",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Obce",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Remízkem",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "V Lipinách",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podchýšská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Dýmači",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Poustek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ražická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lichá",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boješická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Břečkám",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ke Kálku",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ke Křížku",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrazanská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hospodářská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Čihadlem",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Čihadel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ke Spálence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Zbraslaví",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Keltská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Votrubova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Výboru",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Polovnická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nickerleho",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hrachovská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Šancích",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Hradišti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ve Vratech",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Stráňkách",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Závorám",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maličká",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brtecká",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mezi Chatami",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Jitřence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hudcova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Šancemi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Branišovská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Olšiček",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hájíčkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rekreační",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ke Starému hřišti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ke Zbraslavi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Starý lis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zahrádkářská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Hudební školy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spojařů",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rašilovova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Studánkou",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Chaloupkami",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cisterciácká",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Opata Konráda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Lékárny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hauptova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kaškova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "V Platýzu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Klubovny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Interně",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Prádelny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boženy Stárkové",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "V Bílce",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žofie Podlipské",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Sirénou",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gutfreundova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boženy Hofmeistrové",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Spravedlností",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ke Dračkám",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Loděnice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Kamínkou",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Parkem",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lomařská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Starou pískovnou",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ke Kamínce",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Herálecká I",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Herálecká II",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Herálecká III",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Herálecká IV",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pacovská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dudinská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Senožatská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Nových domů I",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Nových domů II",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Nových domů III",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Za Zelenou liškou",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krchlebská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bystřická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Obětí 6, května",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Humpolecká",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neveklovská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krčská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vokáčova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Znojemská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hanusova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kvestorská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bítovská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Přímětická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ješetická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Poláčkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fillova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kremličkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blažičkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tilschové",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ševce Matouše",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Habrovky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Habrovce",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Krčské stráni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pod Rovinou",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Svahem",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zachova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kykalova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pecharova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Halasova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Matěchova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Strže",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rozárčina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Krčské vodárny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Za Obecním úřadem",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rosečská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "V Polích",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Přechodní",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Valtínovská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Strmilovská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rodvínovská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krumlovská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Třeboňská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Počátecká",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pelhřimovská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kunžacká",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Čerčanská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ke Krčské stráni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Olbramovická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krhanická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zvolská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cholupická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Žampašská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Libeřská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hodkovická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rabyňská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dobřejovická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Čechtická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nechanická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zdislavická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Otradovická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cílkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Liškova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cihlářova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šatrova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ke Lhoteckému lesu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pšenčíkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ke Kamýku",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vranská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Hájovně",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Vodojemu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolnojirčanská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lojovická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Lesu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Borkovická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Zahrádkářské kolonie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Přírodní",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ohrobecká",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Smotlachova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cuřínova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pavlíkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Machuldova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Papírníkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Smolkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zelenkova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zimova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Děrám",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Za Větrem",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jirčanská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mašovická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kolektivní",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Šejdru",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Novému sídlišti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Šátalská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meteorologická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Skalská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Líhní",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zahrádecká",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hvězdonická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Libušské sokolovny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Šejdrem",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Výletní",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mezi Domy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "V Bambouskách",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Betáňská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Musilech",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Slavonická",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klokotská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Provozní",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Opařanská",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Lukám",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K Tůni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Domovině",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mílová",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "V Luzích",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Libušským potokem",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na Okruhu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ke Kurtům",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Bazénu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nove Spojeni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hilton Prague Old Town",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Old Sewage Cleaning Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "U Měšťanského pivovaru 869/1 org. č. 3605",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Florenc Bus Terminal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nový hrad u Kunratic",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "University of Third Age, the University of Economics, Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel City Bell Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Fortuna City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Atos",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel Prague City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Club",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Crown",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Victoria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pension Prague City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Archibald City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Archibald City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel GOLDEN CITY - garni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Clarion Hotel Prague City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Hotel Gloria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Prague City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Antik City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aparthotel City 5",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amigo City Centre Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Central De Luxe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Inn Hotel Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western City Hotel Moran",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Acc-Nifos CITY-INN hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Acc-Nifos CITY CLUB HOTEL",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "[Praha-Staré Město] old city hall t.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha-Novoměstská radnice [Praha-Nové Město] city hall outlook t.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamerský rybník",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rokytka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Martiňák",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kyjský rybník",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "EuroAgentur Hotel Downtown",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "EuroAgentur Art Hotel Embassy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Praha Old Town",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wellness Hotel Step",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Thomayer University Hospital",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Divadlo Dobeška",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "987 Prague Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Abri s.r.o.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alchymist Residence Nosticova",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Amarilis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amour Hotel Residence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Andante Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aparthotel Angel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Apollon Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Aramis",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel  Assenzio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "At The Three Storks",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aura  Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Biskupský Dům",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bohemia Plaza Residence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kinsky Garden Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Christie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Clarion Congress Hotel Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iris Congress hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Fortuna Luna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Fortuna Rhea",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gallery hotel SIS",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golden Tulip Prague Terminus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aparthotel Gregory",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Hastal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Juno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "hotel in Prague, KAFKA",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Koral",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prague Marriott Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Residence Malá Strana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Orion",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prague Castle Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Residence Seifert",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rezidence Emmy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Septimus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Silenzio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Slavia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Tranzit",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Troja",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Two Golden Keys",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel U Kříže",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel U Divadla",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Winston Churchill Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prague TV Tower",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prague Exhibition Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "pva letnany exhibition center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chodovská tvrz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "TDP",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "kostel sv. Pankráce",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "restaurace Studánka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zoo Praha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Botanická zahrada Praha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Letohrádek královny Anny",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Indonéská džungle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Smichov Substation",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malešice 220 kV Substation",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chodov Substation",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Reporje Substation",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malešice Waste Incinerator",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mod",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zámek Komořany",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Práče",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Údolní nádrž Hostivař",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Údolní nádrž Džbán",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Liben Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kostel svatého Mikuláše",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Matematicko-fyzikální fakulta UK",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tyršův dům",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Hotel Bohemia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ambassador Zlatá Husa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jalta Hotel Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Union",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moevenpick Hotel Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Soutok Berounky a Vltavy",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha - Modřany zastávka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Modřanský jez",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Most inteligence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha - Braník",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Václavské náměstí",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha - Komořany",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha - Modřany",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vítězné náměstí",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palackého náměstí",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha - Krč",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha - Vršovice",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Praha - Točná",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Acc-Nifos MICHAEL hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Ametyst",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "President Hotel Casino Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Acc-Nifos PARKHOTEL Praha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Opera Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Acc-Nifos GOLF hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "K K Hotel Fenix",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Roma",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Smaragd",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "President",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "SuiteHome",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barcelo Praha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Josef",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pyramida",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Inter-Continental",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marketa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pankrac",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tosca",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tivoli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Hotel Kampa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Globus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wienna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Residence Casa Italia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prague Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tyl",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iron Gate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Axa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Julian",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Maximilian",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koruna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palace Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dorint Don Giovanni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amadeus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Residence Select",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Da Vinci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maximilian",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Central",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Residence Waldstein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blue Key",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Movenpick",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Wenceslas Square",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Merkur",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kavalir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Botel Albatross",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mucha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Residencia Praga 1",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Falkensteiner Maria Prag",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Akcent",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Euroagentur Hotel Jeleni Dvur",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marit",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Euroagentur Hotel Junior",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Carlo IV",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mercure Old Town",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "InterContinental Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Residence Bologna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Esplanade",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Charles",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Legie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "A&O",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vysehrad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Louis Leger",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ariston",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golden Gate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riverside",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Machova Garni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alcron Hotel Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Floor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Marco",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harmony",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aparthotel Amadeus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Casa Marcello",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Mira",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marriott Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Belvedere",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Icon Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Residence Verona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ventana Hotel Prague",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel U Tri Pstrosu",
+      "admin_name": "N/A"
+    }
+  ]
+}

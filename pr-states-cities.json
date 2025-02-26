@@ -1,0 +1,46 @@
+{
+  "ACRONYM_PR": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_PR": [
+    {
+      "city": "San Juan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guayama",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moca",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Old San Juan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ciudad Deportiva Roberto Clemente",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ponce City Hall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ayuntamiento de San Juan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Manor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dewey City Hall",
+      "admin_name": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,1330 @@
+{
+  "ACRONYM_TZ": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_TZ": [
+    {
+      "city": "Zanzibar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arusha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mbeya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tanga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arusha Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mbeya Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tanga Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zanzibar City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arusha City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mbeya City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stone Town",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tanga City Council",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Uyole",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwaalinatu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vikokotoni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shangani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sebleni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shaurimoyo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mwembetanga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mwembeshauri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwaalimsha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mwembeladu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mlandege",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mkunazini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mkele",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mikunguni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Miembeni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mchangani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marahubi Mlangoni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Makadara",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwahani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kisiwandui",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kisimamajongoo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kiponda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kilimani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gulioni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chumbuni Dogo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Karakana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mwembemakumbi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chumbuni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwamtipura",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kilimahewa Juu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kilimahewa Bondeni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Muungano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kidongo Chekundu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sogea",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Matarumbeta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jang’ombe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Urusi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migombani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mpendae",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Magomeni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwa Wazee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nyerere",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kikwajuni Juu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rahaleo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malindi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kikwajuni Bondeni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Forest",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ghana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iduda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iganjo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iganzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Igawilo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ilemi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ilomba",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Isanga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Isyesye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Itagano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Itende",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Itezi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Itiji",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iwambi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iyela",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iyunga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iziwa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kalobe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maanga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mabatini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maendeleo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Majengo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mwakibete",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mwansekwa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mwasanga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nonde",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nsalaga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nsoho",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nzovwe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ruanda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinde",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sisimba",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tembela",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Uyole",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Elerai",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Engutoto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kaloleni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kati",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Levolosi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Olasiti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oloirieni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sekei",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sombetini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Terrat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Themi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Unga Limited",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mbalizi Road",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baraa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daraja Mbili",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kimandolu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lemara",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moshono",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngarenaro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sokon I",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Majengo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chongoleani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Central",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chongoleani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Duga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kiomoni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kirare",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mabawa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mabokweni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Majengo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Makorora",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marungu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maweni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Msambweni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mwanzange",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mzingani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mzizima",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngamiani Kaskazini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngamiani Kati",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngamiani Kusini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nguvumali",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pongwe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tangasisi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tongoni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Usagara",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chumbageni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ras Shangani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sultan's Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arusha International Conference Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ukereni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngazija",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mzizima",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mwakaeza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mvuni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mngamboni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mkembe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Masiwani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Manyumbe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Manako",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mabokweni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kwamkembe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kiriwani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ras Kazone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Katipeni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Darigube",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buhuri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amboni Caves",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mwana Kerekwe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migombani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mazizini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hindu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vuga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zanzibar Point",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sokon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nzege",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marombosa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Losilwa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lolgorite",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Oldonyo Loiboni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ilomba",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gombe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sakina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinon-Olnjavutian",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wanyungu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wanga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tundaua",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tangata",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sadani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pongwe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pongwe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pankote",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pande",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ntengeza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nguvumali",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ndumi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mwembeni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mwanzange",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mwambani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mwakidila",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ras Mtangata",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mpirane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mlingano",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mleni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migombani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maweni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mavumbi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Masegejuni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marungu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marembwe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mapiyone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Manyungu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Majonjo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Majonjo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mabayani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lumbwa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Legeza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kuluni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kolekole",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kiungani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kitabweni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kisosora",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kisimatui",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kiomoni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kihongwe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jaje",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gofu Juu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gofu Chini",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bagamoyo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bagamoyo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amboni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tamta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mharamba",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amaani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngambo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saateni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arusha Clock Tower",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Igamba",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Usagara",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pongwe Sisal Estate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngamiani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chumbageni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buhuri Sisal Estate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bombo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amboni Sisal Estate",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moevenpick Zanzibar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zamani Zanzibar Kempinski",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Breezes Beach Club",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mbuyuni Beach Villa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Palms",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mbweni Ruins Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Seyyida Hotel&Spa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mbyuni Beach Village",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kiungani Range Rear Lighthouse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shangani Lighthouse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zanzibar Ferry Terminal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ras Michamvi Beach Resort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dongwe Ocean View",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Park Hyatt Zanzibar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pearl Of Zanzibar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "236 Hurumzi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mizingani Seafront Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dhow Palace Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kisiwa House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mashariki Palace Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chavda Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jafferji House And Spa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Al Johari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Swahili House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Al-Minar Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seyyida Hotel And Spa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mtoni Marine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mbuyuni Beach Village",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zanzibar Serena Inn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ras Nungwi Beach Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fumba Beach Lodge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maru Maru Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Michezani Mosque",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "British Consulate Flagstaff (historical)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "English Church",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Funguni Flagstaff (historical)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lenin Hospital",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maruhubi Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Government Hospital (historical)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kijanwani Post Office",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mwembe Njugu Mosque",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marie Stopes Clinic",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Al Rahma Hospital",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Al Amor Pediatrician Hospital",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Doubletree By Hilton Resort Zanzibar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baraza Zanzibar Resort And Spa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Beyt-Al-Salaam Boutique Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Waridi Beach Resort & Spa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Zanzibar Grand Palace Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "David Livingstone's House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zanzibar Battery (historical)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zanzibar Golf Links (historical)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cooper's Institute (historical)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Themi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kibo Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aquiline",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Midway Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Dar Es Salaam City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Peacock City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jb Belmont Hotel Ex.Paradise City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mbeya Mediumwave Transmitter",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arusha Mediumwave Transmitter",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kirawira Camp",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ngorongoro Serena Safari Lodge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lake Manyara Serena Safari Ldge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Willy's Cottages",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Serena Mountain Village",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel Mount Meru",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "East African Hotel All Suites",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dik Dik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mont Meru Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Milimani Lodge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mc Ellys Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Manyara Wildlife Safari Camp",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "S G Premium Resort",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moivaro Coffee Plantation Lodge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Planet Lodge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The African Tulip Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Snowcrest Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kirawira Serena Camp",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lake Duluti Serena Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kirawira Luxury Tented Camp",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kia Lodge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "East African Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibungila Secondary School",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kange Siding",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buhuri Siding",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ras Kazone Lighthouse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nyumbani Hotels -Tanga",
+      "admin_name": "N/A"
+    }
+  ]
+}

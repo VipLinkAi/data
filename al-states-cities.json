@@ -1,0 +1,26 @@
+{
+  "ACRONYM_AL": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_AL": [
+    {
+      "city": "White City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City's Stadion \"Tomorri\"",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Doro City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golden City Hotel",
+      "admin_name": "N/A"
+    }
+  ]
+}

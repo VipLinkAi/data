@@ -1,0 +1,38 @@
+{
+  "ACRONYM_LC": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_LC": [
+    {
+      "city": "Castries City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Gate/La Clery",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Independence City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Front Range Beacon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "North Wharf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St Aloysius R C Boys Primary School",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Windjammer Landing Villa Beach Resort",
+      "admin_name": "N/A"
+    }
+  ]
+}

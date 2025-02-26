@@ -1,0 +1,22 @@
+{
+  "ACRONYM_DO": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_DO": [
+    {
+      "city": "Santo Domingo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Samaná",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fun City",
+      "admin_name": "N/A"
+    }
+  ]
+}

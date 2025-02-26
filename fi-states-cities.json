@@ -1,0 +1,50 @@
+{
+  "ACRONYM_FI": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_FI": [
+    {
+      "city": "Jyväskylä city church",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jyväskylä city old cemetery",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Helsinki City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Scandic Tampere City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hol Inn City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Inn Helsinki City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sokos Hotel City Börs",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sokos Hamburger And City Bors",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Original Sokos Hotel City Bors",
+      "admin_name": "N/A"
+    }
+  ]
+}

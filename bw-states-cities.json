@@ -1,0 +1,38 @@
+{
+  "ACRONYM_BW": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_BW": [
+    {
+      "city": "Francistown",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City of Francistown",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Minestone",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Morope",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Block 5",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Monarch East",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gerald Estates",
+      "admin_name": "N/A"
+    }
+  ]
+}

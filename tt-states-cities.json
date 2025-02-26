@@ -1,0 +1,350 @@
+{
+  "ACRONYM_TT": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_TT": [
+    {
+      "city": "Port of Spain",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Fernando",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mon Repos",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marabella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Port of Spain",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "San Fernando",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Queen’s Park Savannah",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belmont",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saint James",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Port Of Spain",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vistabella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Naparima Hill",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mucurapo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nelson Mandela Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Victoria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Union",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saint Joseph",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bontour Point",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bagatelle Point",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saint Clair",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boissiere Village",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Emperor Valley Zoo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hasely Crawford Stadium",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Union",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tarouba Hill",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mon Chagrin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hughes Rock",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Farallon Rock",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Coffee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spring Vale",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "La Pique",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Skinner Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pleasantville",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palmiste",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "La Romain",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Woodbrook",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tarouba River",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Peru",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mucurapo Point",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "East Dry River",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Corbeaux Town",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Allys Creek",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cipero River",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marie Douleur River",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maraval River",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tarouba Bay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marabella Junction",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guaracara Bank",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bontour Bay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Broadway Cemetery",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Paradise Ceremony",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cocorite Bay",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Queen’s Wharf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "King’s Wharf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saint Vincent Jetty",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Woodford Square",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Independence Square",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eastern Market",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Western Cemetery",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Woodbrook Cemetery",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jackson Square",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Queen’s Royal College",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fatima College",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Knowsley",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adam Smith Square",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Governor General’s Residence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saint Ann’s Hospital",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prime Minister’s Residence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saint James Barracks",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fort Chacon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ministry of Housing",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ministry of Petroleum and Mines",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lapeyrouse Cemetery",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saint Joseph’s Convent",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tranquility Schools",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Saint Mary’s College",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lord Harris Square",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Victoria Square",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Convent Memorial Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Port-of-Spain Lighthouse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "National Academy for the Performing Arts",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The National Library of Trinidad & Tobago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Central Bank of Trinidad and Tobago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "National Library of Trinidad and Tobago",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "King's House",
+      "admin_name": "N/A"
+    }
+  ]
+}

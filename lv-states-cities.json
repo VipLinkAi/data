@@ -1,0 +1,38 @@
+{
+  "ACRONYM_LV": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_LV": [
+    {
+      "city": "Europa City Riga Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Bruninieks",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Days Hotel Riga Ex Europa City Riga",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Old City Boutique",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Riga City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Teater",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Europa City Amrita",
+      "admin_name": "N/A"
+    }
+  ]
+}

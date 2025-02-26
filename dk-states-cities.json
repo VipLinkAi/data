@@ -1,0 +1,58 @@
+{
+  "ACRONYM_DK": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_DK": [
+    {
+      "city": "Inner City of Copenhagen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Copenhagen City Hall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Absalon City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Nebo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Hotel City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cabinn City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cab Inn City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Scandic Copenhagen City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Nebo (With Facilities)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Odense",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Hotel Kolding City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel SCANDIC AARHUS CITY",
+      "admin_name": "N/A"
+    }
+  ]
+}

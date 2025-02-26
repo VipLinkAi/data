@@ -1,0 +1,38 @@
+{
+  "ACRONYM_BM": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_BM": [
+    {
+      "city": "Hamilton",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamilton city",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamilton Harbour",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Albuoy’s Point",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cashew City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamilton City Hall & Arts Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harmony Club Bermuda",
+      "admin_name": "N/A"
+    }
+  ]
+}

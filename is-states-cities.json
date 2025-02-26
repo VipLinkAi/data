@@ -1,0 +1,26 @@
+{
+  "ACRONYM_IS": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_IS": [
+    {
+      "city": "City Theater",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Reykjavik City Hall",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Canopy by Hilton Reykjavik City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Center Hotel Reykjavik",
+      "admin_name": "N/A"
+    }
+  ]
+}

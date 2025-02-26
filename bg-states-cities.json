@@ -1,0 +1,1934 @@
+{
+  "ACRONYM_BG": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_BG": [
+    {
+      "city": "Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sofia-grad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sofia Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leninski Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kolarovski Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kirkovski Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kazichene",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dimitrovski Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Torfeno Branishte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blagoevski Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buhovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dacia Mediterranea",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Katina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kubratovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krivina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kokalyane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ivanyane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gurmazovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gorni Bogrov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "German",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dragichevo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dobroslavtsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zhiten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zhelyava",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zheleznitsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Voluyak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vladaya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vitosha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pasarel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pancharevo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novi Iskar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Negovan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marchaevo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mramor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mirovyane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chepintsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Busmantsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bankya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bakyovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lozenska Planina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pancharevsko Ezero",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Skoparnik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lozen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lokorsko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Knyazhevo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klisura",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gorna Banya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dragalevtsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolni Bogrov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vrabnitsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Voynegovtsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shishmanovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podgumer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Manastirishte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malo Buchino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cherni Vrah",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bistritsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balsha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malak Rezen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golyam Rezen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kazan dere",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iskarski Prolom",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Deveti Septemvri Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vladayski Prolom",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Verdikal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Svetovrachane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sofiysko Pole",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sofiyska Planina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Perlovska river",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bakova Mogila",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grobishte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kaacha Chair",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Park Vazrazhdane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kara Sivri",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kirchena mogila",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gorovanitsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kralev vrah",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kucheshka Polyanka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Lyulin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Ilinden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Vitosha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Triaditsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Lozenets",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Studentska",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Izgrev",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Sredets",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Oborishte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Vazrazhdane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Mladost",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Pancharevo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Slatina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Poduene",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Serdika",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Nadezhda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Vrŭbnitsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kremikovtsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gorublyane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Darvenitsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vrajdebna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vasil Levski Rayon",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Simeonovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Orlandovtsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nadezhda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boyana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Birimirtsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Busmanci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vladaja",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Murchaevo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malo Buchino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Volujak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balsha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dobroslavci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zhiten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kubratovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kutina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lokorsko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mirovjane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mramor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Negovan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Podgumer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Svetovrachene",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chepinci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bukhovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gorni Bogrov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolni Bogrov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zheljava",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bistrica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "German",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolni Pasarel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zheleznica",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kazichene",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kokaljane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krivina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lozen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ivanjane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klisura",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vojnegovci",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Park Sveti Nikola",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bacheva Skala",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chetalesta Buka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Margin Kamak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pchelina Chuka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Krasna Polyana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Ovcha Kupel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Krasno Selo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Novi Iskŭr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Kremikovtsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Iskŭr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rayon Bankya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "National Palace of Culture",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Center Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Garden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lesnovska Reka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kumaritsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Katsilyane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kalkovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iliyantsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gradoman",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Goten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gorni Pasarel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gorni Lozen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gnilyane",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gara Iskar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Filipovtsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dolni Lozen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vladayska Reka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Trebich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suhodol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stara Vrazhdebna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Slavovtsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Slatina",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Seslavtsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pogledets",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Poduene",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palakaria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Obradovtsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Obelya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nova Vrazhdebna",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moderno Predgradie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mikhaylovo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malashevtsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chelopechene",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Botunets",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aleksandar Voykov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Business Park Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Hotel Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banya Bashi Dzhamia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boyana Tsarkva",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dragalevtsi Manastir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sofia University",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "National Art Gallery",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golemi Ridove",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radova Mahala",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golema Mogila",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vitosha Mountain TV Tower",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Borisova Gradina TV Tower",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sofia Central Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Earth and Man National Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ivan Vazov National Theatre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kriva Reka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iskŭr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Eleshnitsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dunav Most",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Selimitsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kopitoto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ostritsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tepeto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mecha Dupka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gradishteto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Beloto Kamache",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kozi rid",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gogov chukar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kurilo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krasno Selo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iskar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zaharna Fabrika",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Benkovski",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "TS.U.M",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kamen del",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ushite",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Goli vrah",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rachov kamak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chernata skala",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golyam Kupen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sui vrah",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Konyarniko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sredets",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Katunishte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stenata",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Diretsite",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tsarni Varh",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kamenno Zdanie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Izvor Reka Vladayska",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belvno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lavcheto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Piperkata",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bogdana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Momina skala",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kiselitsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ushite",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malak Kapral",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golyam Kapral",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Golemia Lagator",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malkia Lagator",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ostritsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Preslapo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tsarni Usoyak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ostrets",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kosmatitsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tsareva Polyana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nad Karierite",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vaklinovi Koshari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tsareva mogila",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Belia kamak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bukite",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Egenitsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arnyote",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gladni rid",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gradishte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dyuva Ornitsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Popovi Koshari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shtarklevo Gnezdo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sveti Petar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sinio kamak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Duralia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Velikova mogila",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Begun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Medna skala",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Andreev kamak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Samokovishki kamak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mogilata",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Govedarnika",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kokrachki kamak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vitkovitsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vlado Trichkov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boyanski Ezero",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Blato",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banskya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Smirnenski",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Okolovrasten Pat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hilton Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Buyuk Dzhamya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pixhold Photo & Video",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Policonsult Ltd.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klisurski Manastir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pizza Box",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bistro Lyubimoto",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arette Beauty Studio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Omron Healthcare Bulgaria by DINI OTC Ltd",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "(former) Roman Catholic Diocese of Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel City Art Boutique",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prestige City 2",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Sun City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prestige City Aparthotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sun City I",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Sofia Best Western",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bw City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Avenue Hotel Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Olives City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aleksandrovska City Hospital",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Voluyak station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Anel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bulgari Boutique",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Casa Boyana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Tsentral",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Central  Forum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barcelo Festa Sofia Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gloria Palace Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hill Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday  Inn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kempinski Hotel Zografski Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel les Fleurs",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lozenetz Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maxi Park Hotel & Spa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Metropolitan Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sofia Princess",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Renaissance",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rodina Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sky Way",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Sofia Plaza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hemus Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "MOBEXPERT Bulgaria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Hotel Bulgaria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kempinski Zografski Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radisson SAS Grand Hotel Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Atlantic Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Residence Oborishte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Consul Airport Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Apartment House Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holiday Village Diplomat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Veny Hostel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lc Sheraton Sofia Hotel Balkan",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Maria Luisa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Olymp Park Hotel & Spa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brod Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maxim",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "ARTE Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Sveta Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Vega Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Expo Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Arena Di Serdica Boutique Hote",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Scottys Boutique Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Accord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mhr Greenville Hotel And Apts",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Hotel Europe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Downtown",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mhr Crystal Palace Boutique Ho",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mhr Iztok Sofia Suites And Apt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Light",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Кедър 14",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rotonda Sv. Georgi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sv. Aleksandar Nevski",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sveta Nedelya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Halite",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zhenski Pazar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sv. Petka Samardzhiyska",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Orlando Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Berlin Hotel Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Budapest Deluxe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bw Europe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Budapest Studio",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kempinski Zografski Sofia Deluxe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pliska",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dedeman Princess",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bw Plus Bristol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Silver House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Suite Hotel Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "SAP Labs Bulgaria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Geneva",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gorubliansko Hanche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ambassador",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Park Hotel Moskva",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Medic Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Serdika",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meg-Lozenetz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Triada",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Amsterdam Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sun",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Salt Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Niky",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Minotel Sofia Residence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jasmin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harmony Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harmony Levski",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harmony Bankya",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Diter",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chairite",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Casa Ferrari",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Business Hotel Accord",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Apartment House Bulgaria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alabin Hotel Central",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adria Hotel Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Metropolitan Hotel Sofia Non Refundable Room",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sofia Plaza Hotel Non Refundable Room",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Sofia Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guesthouse32",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Budapest Special Offer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Budapest Deluxe-Special Offer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Budapest Studio-Special Offer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vitosha Tulip",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Central Park Special Offer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radisson Blu Grand Special Offer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Art Plaza Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Montecito",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Castelo Di San Marino",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Prime Rentals",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Easyhotel Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bankya Palace",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kolikovski",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ambasador Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dunav Apartment House",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lion Hotel Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radisson Blu Grand",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Atm Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boomerang Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bon Voyage Hotel Alexander",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Art Otel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fashion",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Castle Hrankov",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Galiani Hostel Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ajax Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bon Voyage Hotel Orlando",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alexander Business Apartments",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kempinski Zografski (Deluxe Spc Offr)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Legends Hotel Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vitosha Park Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Plus Bristol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vip Apartments Lyuben Karavelov Street",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sense Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Central Park Hotel Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Earth And People Spa Hotel Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Silver House Hotel Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Premier Thracia Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yagoda & Malina Chalets",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Favorit",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Berlin Park Vitosha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aris Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Central (h)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Park Inn Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Slavyanska Beseda (Renovated)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pop Bogomil",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stivan Iskar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Galant",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Business Hotel Elate Plaza",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rila Sofia Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kapri Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St George Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sofia Place",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Skyway",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Simona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Shipka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Latinka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "6Ato",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "L Do Rado",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Earth & People",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "BudaPest Hotel Sofia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maichin dom Hospital",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bulgarian Red Cross",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kremikovtsi railway station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ministry of Foreign Affairs",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "National Museum of History",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kumaritsa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lozen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Art Plaza Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Art Plaza Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boyana Residence",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Black Raven Barbershop",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sveti Sedmochislenitsi Church",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Coworking Space Sofia SegmentoSoft",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "BG Therm Ltd",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Restaurant 507",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Milevo Hanche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Orlov Most",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Technomani",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Embassy of the Republic of Armenia to the Republic of Bulgaria",
+      "admin_name": "N/A"
+    }
+  ]
+}

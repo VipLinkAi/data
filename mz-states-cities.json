@@ -1,0 +1,74 @@
+{
+  "ACRONYM_MZ": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_MZ": [
+    {
+      "city": "Maputo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cidade de Maputo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "KaNyaka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "KaMubukwana",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "KaMavota",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nhlamankulo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "KaMaxakeni",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "KaMpfumo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "KaTembe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ilha da Inhaca",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mavalane ”A”",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mavalane \"B\"",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "25 de Junho ”B”",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "25 de Junho ”A”",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Jardim",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sommerschield",
+      "admin_name": "N/A"
+    }
+  ]
+}

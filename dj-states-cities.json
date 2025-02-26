@@ -1,0 +1,750 @@
+{
+  "ACRONYM_DJ": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_DJ": [
+    {
+      "city": "Djibouti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Djibouti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Djibouti–Ambouli International Airport",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Loyada",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gabôd",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Doqléï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dabagâllaêléï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mangadafo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guissi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Îles Moucha",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ouaramous",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Issa",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Galîlé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ayerllâye",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ga‘anka",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balbala",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ouê‘a",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sârré",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ambouli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Godadléï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Damêrdjôg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Toûr ‘Osbo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pointe du Serpent",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qaninlé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qalouaïd Ḏêr",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Nagâḏ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na‘asléï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Île Maskali",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koulamâlé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hayyâbléï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hârhâdêdlé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Goumbourta ‘Atar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Goumbour ‘As",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Goumarré",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guêllo Djôgsé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guêddi Barbârou",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Doqéï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Damêralâ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daba Libâh",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chîcha Doûlé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bil‘in Ouéïn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "‘Ânôd",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Îlot du Héron",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ambouli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Doûda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boûl’aos",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "‘Ambâda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Djibouti port",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Toûrka Damêrdjôg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Siyyâro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plateau du Serpent",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sarrey",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sanḏêré",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qohlé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plateau du Marabout",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Legga Obsi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lângobâlé Madôbé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lângobâlé ‘Addê",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibrîn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hôssé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hamaro",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guêgada Hayyâbléï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ḏaoualé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ḏaoual",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Da‘oualéï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aourlôfoul",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "‘Ambâdo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "‘Ali ‘As",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "H̱âbâlé Yare",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Matâno",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Malloûdléï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Indôlé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ina Dirir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Holfof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Godadléï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Djaban",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Diko",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chîl ‘Igâl",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boullé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Yêï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plateau du Scorpion",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qouḏounley",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banc du Pingouin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Île du Large",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Koulamâlé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hiḏka Guissiyêd",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hiḏka ‘Ambâdo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hagarréï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banc Gutta Tella",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Plateau du Grand Signal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guêdmarré",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banc El Hadj",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "‘Êl Bahaï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Daqsîléï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banc Dankali",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chabélléï Yar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bôḏ",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "‘Ammoud Ouéïn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Récif du Météore",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dihda Ouê‘âd",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ouarâbôd",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ouan‘adlé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qaïrré Goube",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ôd Ouanâg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na‘asléï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banc Moidubis Seghir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banc Moidubis Kebir",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lôqa Goumarré",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lâska Ôdêd",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "La Plaine",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lângobâlé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Il Tagaï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Récif d’Ambouli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banc du Héron",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Houdlé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Récif",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Goroddablé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guêd Koulanléï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guêd Garas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guêddi Djallo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Guêd Daoua‘o",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Galôlléï Ouéïn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Galangallêléï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Foutto Odaï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Doûda Yar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dâyêr Ouéïn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Damêrdjôg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baie Dalwakteak",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ḏagah Ouawéïn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banc de la Curieuse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boullé Yar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boullé Ouéïn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bôdléï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Biyya‘assé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aïréllâyé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aouohahar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "‘Assaboullo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "‘Ânôd Ouéïn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "‘Addayyâle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chabêlléï Ouéïn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gâdle Ouéïn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Na‘asléï",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Quartier 7",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banc de l’Étoile",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Doraleh Mediumwave Transmitter",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Doraleh Mediumwave Transmitter, Mast 1",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Doraleh Mediumwave Transmitter, Mast 2",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Doraleh Mediumwave Transmitter, Mast 3",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sareyta Ḏâḏer",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Samantar Gôd",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Qouḏa‘âlé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Banc de la Pointe Noire",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lôga Qanînle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Las Dawwa‘o",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kalâloho",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Harêd Djébiyé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "God Chabêl",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gêd Koulanley",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gabiga ‘Ad",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ga‘an Ma‘ân",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Baie de Doralé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dorâle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Djiḏi",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Djêdjêḏo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Djêdjêḏâlé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ḏibtar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dâyêr Odané",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Darra‘asse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ḏaḏîn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ḏaḏîn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dabbara‘",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chaykh Gabôd",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Boullé Ômmané",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bêyyo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "‘Ânôd Yar",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "‘Ambâda",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "‘Ali Faras",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "‘Agaḏêre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "‘Âdda Dorâle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Moud‘as",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chinnîle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gal Chabêl",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ouan‘adlé",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Djibouti Sheraton",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Balbala Hospital",
+      "admin_name": "N/A"
+    }
+  ]
+}

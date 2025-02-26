@@ -1,0 +1,26 @@
+{
+  "ACRONYM_SK": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_SK": [
+    {
+      "city": "City Business Center I",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City hotel Bratislava",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Old City Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hostel",
+      "admin_name": "N/A"
+    }
+  ]
+}

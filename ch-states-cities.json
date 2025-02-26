@@ -1,0 +1,1634 @@
+{
+  "ACRONYM_CH": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_CH": [
+    {
+      "city": "Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel-City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel-Stadt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bettingen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "University of Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St. Jakob-Park",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel SBB Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bettingen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neuer Teich",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel Badischer Railway Station",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel Zoo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dreispitz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rheinhafen Kleinhüningen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel Minster",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Messeturm Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tinguely Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spalentor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St.Johanns-Tor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Theater",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fernsehturm St. Chrischona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kunstmuseum Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bruderholz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel St. Johann",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitätsspital Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sankt Chrischona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zürich (Kreis 1) / City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sankt Johann",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "ETH Department of Biosystems Science and Engineering",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel Dreispitz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Brüglingen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "University Library Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rheinbad-Breite",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rheinbad Sankt Johann",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wettsteinquartier",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grossbasel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kleinhüningen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kleinbasel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tierpark Lange Erlen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sankt Marien, Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Neuhaus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Im Schlipf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bachletten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Am Ring",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Iselin",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Matthäus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St. Alban",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gundeldingen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Vorstädte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gotthelf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Breite",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Clara",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Klybeck",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kleinbasel Altstadt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rosental",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hirzbrunnen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hörnli, Friedhof am",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Maienbühl",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Department of English, University of Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sankt Jakob",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Golf Basel Bachgraben",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel City Weissenstein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sorell City Weissenstein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Les Trois Rois(Dlx Jr City Min St)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Les Trois Rois(Dlx Dbl City Mn St)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Les Trois Rois (Dlx Jnr City)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel Basel City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel ADAGIO BASEL CITY",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel CITY INN",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Burgdorf, City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Chur, City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bern, Wankdorf City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Am Bahnhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Swiss Q Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City West Hotel & Restaurant",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City (Brunnen)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Oberland Superior",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Oberland Swiss Quality",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schaffhausen City Library",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Winterthur, City Halle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Leukerbad, City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hôtel City, Fassbind Hotels",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel City Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Quality Hotel Geneva City Centre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Banana City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Winterthur City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Wellnesshotel Sonnental",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Hotel Haupthaus & Nebenhaus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Sorell Hotel City & Wellness Sonnental",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City & Wellness Swiss Quality Hotel Sonnental",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Styles Luzern City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "City Partner Trend",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "President WilsonPrestige City Vw Promo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "President Wilson Prestige City View",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Spalentor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universität",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Musik-Akademie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Markthalle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "IWB",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Margarethen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bruderholzstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Zwinglihaus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Münchensteinerstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Burgfelden Grenze",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Badischer Bahnhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Müllverbrennungsanlage Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rheinhafen Kleinhüningen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wasserturm Bruderholz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "La Torre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Cantina Don Camillo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pizzeria Resslirytti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Lily's Stomach Supply",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Inselstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wiesenplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kleinhueningen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Stücki",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Dreirosenbruecke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Feldbergstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Claraplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Messeplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bernoullianum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Frauenspital",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schifflände",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Marktplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Barfüsserplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bankverein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Aeschenplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Johanniterbrücke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Mülhauserstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ciba",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novartis Campus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Burgfelderplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kannenfeldplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St.Louis-Grenze",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Voltaplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hüningerstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bläsiring",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Erasmusplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kaserne",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rheingasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Clarastrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Gewerbeschule",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hirzbrunnen/Claraspital",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Strassburgerallee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Micro Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "University Basel - Biomedicine Department",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Raiffeisen Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Swissôtel Le Plaza Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hilton Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Pullman Basel Europe",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Metropol",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Minotel Steinenschanze",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Alexander",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Victoria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Muenchnerhof Swiss Q Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Du Commerce",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Euler",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radisson SAS Hotel Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Les Trois Rois",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Airport Hotel Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fw Basel Hotelship",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Central Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Balegra",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Plaza Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Drachen Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Spalentor",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Basilisk",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Rochat",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Royal",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bw St Gotthard",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bw Hotel Merian Am Rhein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "AILS Sprachaufenthalte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Les Trois Rois (Dlx Dbl River)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Radisson Blu",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ramada Plaza Basel Hotel Conference Center",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "The Passage Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Hotel Merian",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Hotel Stucki",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Engel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grand Hotel Les Trois Rois",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Helvetia",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel D Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Metropol Swiss Quality Hotel Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Minotel Schiff Am Rhein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Swiss Q Hotel Victoria",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Swiss Quality Hotel Münchnerhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Teufelhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Meteoblue",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Muenchnerhof Swiss Quality Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Rheinfelderhof Hotel Restaurant",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hecht",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Lachenweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Bahnhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Sportzentrum Rankhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Bhfeingang Gundeldingen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Inzlinger Zoll",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, In der Au",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Belforterstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Kunsteisbahn",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Rheinhafen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, St. Galler-Ring",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Tinguely Museum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Claragraben",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Emanuel-Büchel-Strasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Gellertstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Buschweilerweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Holee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Falkensteinerstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Hoffmann-La Roche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Tiefweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, General Guisan-Strasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Wollbacherstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Thomaskirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Lange Erlen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bettingen, Dorf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Schlossgasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Novartis Porte 10",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Rosengartenweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Martinsrain",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Peter Rot-Strasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Im Heimatland",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Gasstr./Bhf. St. Johann",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Blotzheimerstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Gemeindespital",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Bernoullianum",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Auf dem Rücken",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Otto Wenk-Platz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Moosrain",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Schorenweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Heuwaage",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Rotengraben",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Bethesda-Spital",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Friedrich-Miescher-Str.",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Dinkelbergstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Aeschenplatz AAGL",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Wenkenhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Käferholzstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Erasmusplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Markthalle",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Winkelriedplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Rudolf Wackernagel-St",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Humanitas",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Allmendstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Kinderspital",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Frobenstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Haidweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bettingen, Diakonissenhaus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Steinenschanze",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Bachgraben",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Thiersteinerschule",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Spitzacker",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Drei Linden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Morystrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Hohlweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Bluttrainweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, IWB",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Im Schlipf",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, MParc",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Theater",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Chrischonaweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen Niederholz, Bahnhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Synagoge",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Hirzbodenweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Surinam",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Rankstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Schmiedgasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Forellenweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bettingen, Altes Zollhaus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Stücki",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Wielandplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Hammerstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Webergässchen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Dreispitz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Heiliggeistkirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Ulmenweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Am Hang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Wasserstelzen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, J. Burckhardt-Strasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Wanderstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Steingrubenweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Bedrettostrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Gotenstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Hungerbachhalde",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bettingen, St. Chrischona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bettingen, Bückenweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Münchensteinerstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Mattenstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Rigistrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Rütimeyerplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Hinter Gärten",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bettingen, Mennweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Hochbergerstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Talmattstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Mauerstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "White Horse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wettstein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Swiss Quality Schiff Am Rhein",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Swiss Quality Drachen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Swiss Q Münchnerhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Swiss Q Drachen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Palazzo",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Krafft Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Basel Bahnhof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Restaurant Resslirytti",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel Balade",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Der Teufelhof Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Das Breite",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Casa La Luz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bildungszentrum 21",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Bahnübergang",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Metzerstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Friedhof am Hörnli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Redingstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Im Wasenboden",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Ensisheimerstrasse",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Erlenmatt",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Dominikushaus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Gempenfluh",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Tellplatz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bettingen, Chrischonaklinik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Mühlestieg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Nasenweg",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen, Hörnli Grenze",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Wettsteinallee",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St Gotthard Swiss Quality Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Swiss Quality Engel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Best Western Hotel Merian Am R",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Museum der Kulturen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Wettsteinbrücke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel BEST WESTERN STUECKI",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel DORINT AN DER MESSE BASEL",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel SCHWEIZERHOF BASEL",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Schützenmattstrasse 27",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Allschwilerstrasse  31",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Münchensteinerstrasse  200",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Neuweilerplatz 7",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Mülhauserstrasse 70-72",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Blotzheimerstrasse 61",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Eisengasse 12",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Efringerstrasse  32",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Hardstrasse 105",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Riehenstrasse 315",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Grenzacherstrasse  62/64",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Centralbahnstrasse  10",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Hochbergerstrasse 70",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Ochsengasse  2",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Aeschenvorstadt 24",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Rössligasse/Webergässchen  8",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Güterstrasse  180",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Migros Burgfelderstrasse  11",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Martinskirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel Schützenhaus",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel Wiesenbrücke",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Riehen Niederholz",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Basel, Haus Schöneck",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitäre Psychiatrische Kliniken Basel, Haus zum Fermel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Psychiatrische Klinik Sonnenhalde Riehen",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitäts-Kinderspital beider Basel (UKBB)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitätsspital Basel, Frauenklinik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitäre Psychiatrische Kliniken Basel, Psychotherapeutische Tagesklinik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitäre Psychiatrische Kliniken Basel, Psychiatrische Universitätspoliklinik (PUP P)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitätsspital Basel, Institut für Pathologie",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Adullam-Stiftung Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitätsspital Basel, Augenklinik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitäre Psychiatrische Kliniken Basel, Psychiatrische Universitätspoliklinik (PUP M)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Merian Iselin Spital Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitätsspital Basel, Rossettibau",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitäre Psychiatrische Kliniken Basel, Forschungsabteilung der Kinder- und Jugendpsychiatrischen Klinik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitäre Psychiatrische Kliniken Basel, Psychiatrische Universitätspoliklinik (PUP C)",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "St. Claraspital Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bethesda-Spital Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hildegard-Hospiz Spital-Stiftung Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitäre Psychiatrische Kliniken Basel, Kinderpsyiatrische Abteilung der Kinder- und Jugendpsychiatrische Klinik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitäre Psychiatrische Kliniken Basel, Kinder- und Jugendpsychiatrische Klinik und Poliklinik",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Schmerzklinik Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Psychiatrische Klinik Sonnenhalde Riehen, Ambulatorium Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Felix Platter-Spital Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitäre Psychiatrische Kliniken Basel, Jugendpsychiatrische Abteilung",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitäre Psychiatrische Kliniken Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "REHAB Basel, Zentrum für Querschnittgelähmte und Hirnverletzte",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bürgerspital Basel, Reha Chrischona",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Roche-Werk Basel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Fernheizkraftwerk Volta",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Tituskirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Peterskirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Predigerkirche",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Strafanstalt Schällemätteli",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Bäumlihof",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Grosses Gundeldingen Schloss",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "JFM Hotel",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Novotel Zurich City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Ibis Zurich City West",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Citypartner Hotel City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Hotel RAMADA ZUERICH-CITY",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitäre Psychiatrische Kliniken Basel, Janus, Zentrum für heroingestützte Behandlung",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Universitäre Psychiatrische Kliniken Basel, Diagnostisch-therapeutische Tagesklinik für Klein- und Kindergartenkinder",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Abwasserreinigung Areal Basel",
+      "admin_name": "N/A"
+    }
+  ]
+}

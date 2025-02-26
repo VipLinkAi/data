@@ -1,0 +1,4194 @@
+{
+  "ACRONYM_JP": [
+    {
+      "acronym": "JP_01",
+      "display": "Hokkaido"
+    },
+    {
+      "acronym": "JP_02",
+      "display": "Aomori"
+    },
+    {
+      "acronym": "JP_03",
+      "display": "Iwate"
+    },
+    {
+      "acronym": "JP_04",
+      "display": "Miyagi"
+    },
+    {
+      "acronym": "JP_05",
+      "display": "Akita"
+    },
+    {
+      "acronym": "JP_06",
+      "display": "Yamagata"
+    },
+    {
+      "acronym": "JP_07",
+      "display": "Fukushima"
+    },
+    {
+      "acronym": "JP_08",
+      "display": "Ibaraki"
+    },
+    {
+      "acronym": "JP_09",
+      "display": "Tochigi"
+    },
+    {
+      "acronym": "JP_10",
+      "display": "Gunma"
+    },
+    {
+      "acronym": "JP_11",
+      "display": "Saitama"
+    },
+    {
+      "acronym": "JP_12",
+      "display": "Chiba"
+    },
+    {
+      "acronym": "JP_13",
+      "display": "Tokyo"
+    },
+    {
+      "acronym": "JP_14",
+      "display": "Kanagawa"
+    },
+    {
+      "acronym": "JP_15",
+      "display": "Niigata"
+    },
+    {
+      "acronym": "JP_16",
+      "display": "Toyama"
+    },
+    {
+      "acronym": "JP_17",
+      "display": "Ishikawa"
+    },
+    {
+      "acronym": "JP_18",
+      "display": "Fukui"
+    },
+    {
+      "acronym": "JP_19",
+      "display": "Yamanashi"
+    },
+    {
+      "acronym": "JP_20",
+      "display": "Nagano"
+    },
+    {
+      "acronym": "JP_21",
+      "display": "Gifu"
+    },
+    {
+      "acronym": "JP_22",
+      "display": "Shizuoka"
+    },
+    {
+      "acronym": "JP_23",
+      "display": "Aichi"
+    },
+    {
+      "acronym": "JP_24",
+      "display": "Mie"
+    },
+    {
+      "acronym": "JP_25",
+      "display": "Shiga"
+    },
+    {
+      "acronym": "JP_26",
+      "display": "Kyoto"
+    },
+    {
+      "acronym": "JP_27",
+      "display": "Osaka"
+    },
+    {
+      "acronym": "JP_28",
+      "display": "Hyogo"
+    },
+    {
+      "acronym": "JP_29",
+      "display": "Nara"
+    },
+    {
+      "acronym": "JP_30",
+      "display": "Wakayama"
+    },
+    {
+      "acronym": "JP_31",
+      "display": "Tottori"
+    },
+    {
+      "acronym": "JP_32",
+      "display": "Shimane"
+    },
+    {
+      "acronym": "JP_33",
+      "display": "Okayama"
+    },
+    {
+      "acronym": "JP_34",
+      "display": "Hiroshima"
+    },
+    {
+      "acronym": "JP_35",
+      "display": "Yamaguchi"
+    },
+    {
+      "acronym": "JP_36",
+      "display": "Tokushima"
+    },
+    {
+      "acronym": "JP_37",
+      "display": "Kagawa"
+    },
+    {
+      "acronym": "JP_38",
+      "display": "Ehime"
+    },
+    {
+      "acronym": "JP_39",
+      "display": "Kochi"
+    },
+    {
+      "acronym": "JP_40",
+      "display": "Fukuoka"
+    },
+    {
+      "acronym": "JP_41",
+      "display": "Saga"
+    },
+    {
+      "acronym": "JP_42",
+      "display": "Nagasaki"
+    },
+    {
+      "acronym": "JP_43",
+      "display": "Kumamoto"
+    },
+    {
+      "acronym": "JP_44",
+      "display": "Oita"
+    },
+    {
+      "acronym": "JP_45",
+      "display": "Miyazaki"
+    },
+    {
+      "acronym": "JP_46",
+      "display": "Kagoshima"
+    },
+    {
+      "acronym": "JP_47",
+      "display": "Okinawa"
+    }
+  ],
+  "CITIES_JP": [
+    {
+      "city": "Osaka",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Nagoya",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Niigata",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Hiroshima",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Fukuoka",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ōita",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Saga",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kitakyushu",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hamamatsu",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Miyazaki",
+      "admin_name": "Miyazaki"
+    },
+    {
+      "city": "Toyama",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Kanazawa",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Gifu",
+      "admin_name": "Gifu"
+    },
+    {
+      "city": "Yamagata",
+      "admin_name": "Yamagata"
+    },
+    {
+      "city": "Kawasaki",
+      "admin_name": "Kanagawa"
+    },
+    {
+      "city": "Asahikawa",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Handa",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Kure",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Toyohashi",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Fukuoka Airport",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Saga Airport",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kashiwazaki",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Tamano",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Niitsu",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Hamakita",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Kashihara-shi",
+      "admin_name": "Nara"
+    },
+    {
+      "city": "Tsurusaki",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Hiroshimanishi",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Kitakyushu Airport",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nagahama",
+      "admin_name": "Shiga"
+    },
+    {
+      "city": "Minoh",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Hamada",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Daitō",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Toyama Airport",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Niigata Airport",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Miyazaki Airport",
+      "admin_name": "Miyazaki"
+    },
+    {
+      "city": "Asahikawa City",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Island City Central Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Koto",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Ōita City",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Saga City",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kashihara City",
+      "admin_name": "Nara"
+    },
+    {
+      "city": "Miyoshi City",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Osaka-shi",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Kitakyushu City",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hiroshima",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Handa-shi",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Fukuoka City",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Itazuke Site",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kure",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Toyosu",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Toyama Shi",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Tonami Shi",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Gion",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Yumenoshima Park",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Miyoshi",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Seaside Momochi Seaside Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nagoya",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Nagahama Shi",
+      "admin_name": "Shiga"
+    },
+    {
+      "city": "Miyazaki",
+      "admin_name": "Miyazaki"
+    },
+    {
+      "city": "Tamano Shi",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Niigata Shi",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Kashiwazaki Shi",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Kanazawa City",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Hamamatsu",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Hamada Shi",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Toyohashi City",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Yamagata Shi",
+      "admin_name": "Yamagata"
+    },
+    {
+      "city": "Ozasa",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nokata",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Space World",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shōfū-en",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hamanomachi Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Arita higashi park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Najima Undō Kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "San-nō Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Heiwa-minami Special Green Space Conservation District",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hakata Fishing Port",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Momochi 1st Pedestrian Path",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Momochi 2nd Pedestrian Path",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tenjin Central Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kego Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ōhama Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Baikōen Pedestrian Path",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Minami Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Odo Kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Higashi Kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nishi Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ozasa minami-kōen Nature Reserve",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kashii-hama-minami kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Mt. Abura",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Minato-ku",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Shirone",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Tonami",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Misato Shi",
+      "admin_name": "Saitama"
+    },
+    {
+      "city": "Maki",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Kameda-honchō",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Daitō",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Shimanto Shi",
+      "admin_name": "Kochi"
+    },
+    {
+      "city": "Hamamatsu Ab",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Motomiya-shi",
+      "admin_name": "Fukushima"
+    },
+    {
+      "city": "Jizō-misaki",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Mount Miminashi",
+      "admin_name": "Nara"
+    },
+    {
+      "city": "Tōyō",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Ōjima",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Myōken Misaki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Me Jima",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kukioka",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kazashi Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Wagora Jima",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tōmino Hana",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shika Island",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "O Shima",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Orono Shima",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kokura",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuzaki",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Kamikōjaku",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hirao",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hakata-ekimae",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Genkai Island",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Umeda",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Kitakyushu Ferry Port",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nata",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kasumigaoka",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Chihaya",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hiemachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Torikai",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tashima",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Arae-danchi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukushige",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka Castle ruins",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Heiwa (Minami-ku)",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Suzaki Futō",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nagahama Basin",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hakata Wharf",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Izaki Funadamari",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hakozaki Funadamari",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Meinohama Basin",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nata Gyokō",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Jigyō-chūō Kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Port Green Area of Fukuhama 1-chōme",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Momochi-chūō Kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Muromi Kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nishijin-kita 1st Green Space",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Aratsu Kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kotabe Chūō Kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Suijō Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Sohara Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Jōsuidōri",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kashii-hama-nishi kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Mount Suisho",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Yatsuomachi-higashikumisaka",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Kannon Misaki",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Mount Akiha",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Kakuda Yama",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Fukuoka City Museum",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kushiga Hana",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Takasaki Yama",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Hotoke Zaki",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Mount Amanokagu",
+      "admin_name": "Nara"
+    },
+    {
+      "city": "Morodomichō-morodomitsu",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Minamisuna",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Yagichō",
+      "admin_name": "Nara"
+    },
+    {
+      "city": "Mount Unebi",
+      "admin_name": "Nara"
+    },
+    {
+      "city": "Ishijima",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Kiba",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Etchūjima",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Edagawa",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Wakasu",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Yumenoshima",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Tokyo Ferry Port",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Sarue Onshi Kōen",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Kiba Kōen",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Aomi",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Wakasu Kaihin Kōen",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Tatsuminomori Kaihin Kōen",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Ariake Tennis no Mori Kōen",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Tōkyō Rinkai Kōiki Bōsai Kōen",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Aratsuno Saki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Amino Hana",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nagatare Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Na",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Mototorino Hana",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Moji",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Meinohama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kunijima",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Konpira San",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Yawata Misaki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Yara Misaki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tomobuchichō",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Kawaguchi",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Tōgō San",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Tenpō Zan",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Tachinoura-kaigan",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tachibana Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Sumiyoshi",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Sumiyoshi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hishakuda",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shioya Bana",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shinozaki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shikashima",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Mount Sefuri",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Mount Sarakura",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Misumi Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Saito Zaki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ōtemae",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Ōmine Yama",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Ōdake-misaki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nokono Shima",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nishiura Zaki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ninoshimachō",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Jūsō",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Jigoku Bana",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Jari Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Izuo",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Itabitsumachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Imafuku-nishi",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Ichioka",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Hideshino Hana",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "He Saki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hanaten-higashi",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Hama Saki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kashii",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hakozaki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Gannosu Hana",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Karadomari Zaki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Dōtonbori",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Banbachō",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Shinsaibashi",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Namba",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Fukuoka Ferry Port",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Matsuzaki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Haruyoshi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Takamiya",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Momochi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kotabe",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shimo-yamato",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Adachi Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Itōzunomori Kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Yomiya Kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kōrodai Kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Bunka Kinen Kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Green Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka Tower",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Imagawa",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Imaizumi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ropponmatsu",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tōjinmachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Jigyō",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Katakasu",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ōmiya",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ōgusu",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Yayoi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Atago",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Atago-hama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shōdai",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Baikōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kiyokawa",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shirogane",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kego",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Watanabe-dōri",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kashii-teriha",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ōhori",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Odo",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Chiyo",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Akasaka",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Daimyō",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Minato",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Yakuin",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Wakamiya",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ishimaru",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Befu",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ikinomatsubara",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Sakurazaka",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Higashi-hie",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Takeshita",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fujisaki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Yakuin-ifukumachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Takasago",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Jōsei-danchi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Befu-danchi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka Art Museum",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Mount Atago",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ōmachi-danchi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Minato-kashii",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hara-danchi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Jōnai",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nishi Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Arato",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Maizuru",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nakasu-nakashimamachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Susakimachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tsunabamachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kusagae",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nishijin-kita 2nd Green Space",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shōfuku-ji",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Terukuni",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Minami-kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Baikōen-danchi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Murozumi-danchi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kuromon",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shimo-yamato-danchi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hakata-eki-chūōgai",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hakata-eki-higashi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hakata-eki-minami",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Taihakumachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Reisenmachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Gionmachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Gokushomachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Minoshima",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Komondomachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Narayamachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kamiyamachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tenyamachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukushige-danchi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hirao-jōsuimachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Goshogadani",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Furukogarasumachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hiraokamachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Sansōdōri",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tani",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Heiwa (Chūō-ku)",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hakozaki kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Arameno Hana",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Akajima Bana",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Nakanunome",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Nagahamachō",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Kamagarichō-mukai",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Mizuhashi-tsujigadō",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Matsuga Hana",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Usogoe Bana",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Tosaki Bana",
+      "admin_name": "Miyazaki"
+    },
+    {
+      "city": "Takosaki Bana",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Takajō Zan",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Ondochō-tahara",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Sankai Zan",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Ōsa Yama",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Nigata-honmachi",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Kegoya",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Kannon Zaki",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Kannon Zaki",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Kanidera",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Kamega Kubi",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Jōgeshi-hana",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Itsuki Shima",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Inumodoriga Hana",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Inumodori Hana",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Hizukeno Hana",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Hijiriga Hana",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Higashiiwasemachi",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Genda Yama",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Banjin Misaki",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Yasuura",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Togami Yama",
+      "admin_name": "Yamagata"
+    },
+    {
+      "city": "Ōyabu",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Mount Yakushi",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Arimatsu",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Aga-chūō",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Mitsumine Yama",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Misakubo",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Mikkabi",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Maisaka",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Yoshiura-ikenourachō",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Mount Utatsu",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Sakuma",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Sadowara",
+      "admin_name": "Miyazaki"
+    },
+    {
+      "city": "Hiro-ōshingai",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Nuttari-nishi",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Kinomoto",
+      "admin_name": "Shiga"
+    },
+    {
+      "city": "Kawajirichō-kusuji",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Kakuda Misaki",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Iwamuro-onsen",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Dainyū Zaki",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Daimon San",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Mount Noro",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Chikabumi",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Nagayamachō",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Inō",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Higashi-asahikawa",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Chuwa",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Fukuoka City Minami Park Special Use District",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Takahama City Port",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Akamatsumachi",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Misechō",
+      "admin_name": "Nara"
+    },
+    {
+      "city": "Matsubara",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Fujichō-manago",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kōnonishi",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Unebichō",
+      "admin_name": "Nara"
+    },
+    {
+      "city": "Sogachō",
+      "admin_name": "Nara"
+    },
+    {
+      "city": "Kitasuna",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Kameido",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Kameido Station",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Imaichō",
+      "admin_name": "Nara"
+    },
+    {
+      "city": "Higashibōjōchō",
+      "admin_name": "Nara"
+    },
+    {
+      "city": "Fujichō-furuyu",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Mōri",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Kiyosumi",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Fukuzumi",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Fukagawa",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Tatsumi",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Shiraishi Yama",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Ishikawachō",
+      "admin_name": "Nara"
+    },
+    {
+      "city": "Monzen-nakachō",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Sumiyoshi",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Niagemachi",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Nakahetsugi",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Nagahamamachi",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Uwaura",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Tsurusakino-hana",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Tōmi Yama",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Sakanoichi-chūō",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Saganoseki",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Notsuharu",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Ikushi",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Haku San",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Nakagawa City",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka City Higashi Ward Office",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Atago Great Bridge",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tenjin Underground Shopping Mall",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Gongen Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ashihara",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Ajikawaguchi Station",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Abeno",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Nakanoshima",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Naka-fukawa",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Nagoya-zaki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nagatare-hana",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Muromi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Mukurano Bana",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Moji-ku",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Moji Eki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Miyakojima-ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Minato",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Minamikagaya",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Mikuni-honmachi",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Chiyozaki",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Makiyama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Makino Hana",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Magaribuchi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Gamō",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Kuzuha",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kushino Hana",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kurosaki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kujō",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Koyanose",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ko Take",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Konohana",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Yawataya",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Yahazu Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tobigasu Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Wakamatsu Ku",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Uchikosi Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tsuzurahara",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Tsurumi",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Tsunemimachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tsumori",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Tsukuda",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Torishima",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Tobiwatari-bana",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tobata Ku",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tennōji-ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Tennōjichō-kita",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Tenjin",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Takeno Hana",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Taisho-ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Sutara",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Sumiyoshi-ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Shimosone",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shirasu",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shioimachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shiobaru",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shin’ike",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shikanjima",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Shibatani",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Shibajimachō",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Sekime",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Sangen’ya-nishi",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Sangen’ya-higashi",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Sakuragawa",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Saitozaki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Saenba",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ōtani Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ō Saki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Otake",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ō Take",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nishi-tanabechō",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Nishinari-ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Nishikujō",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Nishi-ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Nishikaigan",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kokura Eki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kobayashi-higashi",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Kita",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Kitakagaya",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Kitajima",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Kemachō",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Katsuyama",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Kasugade-naka",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Karita",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Kanō-hana",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kamidōbara",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Joto-ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Jōno-saki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kitamura",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Iwa Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Itazuke",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Itaya Tōge",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Imajuku",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ikuno-ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Koshiki Iwa",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ōmoshi Iwa",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Komoshi Iwa",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hiro Iwa",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hirano-honmachi",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Hirabayashi-minami",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Hirabayashi-kita",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Hijiri-yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Higashi-yodagawa-ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Higashisumiyoshi-ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Higashinari Ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Gonshichi Iwa",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Gannosu",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Furuichi",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Tenjin-eki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tsurumachi",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Fudetate Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Eno-saki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Dōjima",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Denpō",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Dairi-honmachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Chishima",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Bizembō-zan",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Asa-kita Ku",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Asaminami-ku",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Higashi-ku",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Minami-ku",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Naka-ku",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Nishi-ku",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Saeki-ku",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Asahi Ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Chūō Ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Fukushima Ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Naniwa Ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Nishiyodogawa Ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Suminoe Ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Hirano Ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Chūō Ku",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hakata",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Higashi Ku",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Jonan",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kokura-kita Ku",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kokura-minami Ku",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Minami",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nishi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Sawara",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Yahata-higashi Ku",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Yahata-nishi Ku",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Minamishō",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hara",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Taguma",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kana Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Takasu Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kanō Dake",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hakuchō Zaki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Dote Zaki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kōshi Dake",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Miyanoura",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Mōko Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Bishamon Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tsumura Jima",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shinmoji",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tonoue San",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Myōken Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kamiitōzu",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shimoitōzu",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Inonokura Tōge",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shaku Dake",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tōga Mine",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nuki San",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Suishō Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Sukesaki Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Takakura Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ninata-wakazono",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Niji Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Washimine Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hanano Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Takatō Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ishimine Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Iwao Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Miroku Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kōkasakimachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Machikōjiyaku-higashi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hobashira Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hanao Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Gōtō Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kata Shima",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Yakubo Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kisshōjimachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Einomaru-minamimachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Einomaru-nishimachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hinomine San",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Funao Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Futajima",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Haku San",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ryūgahana",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka Sunpalace",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tenjō Zan",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Mukai Yama",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Yakuin-ōdōri-eki",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Aki-ku",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Fukuchi Yama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Yodogawa Ku",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Hibikinada",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Uchihama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Jōsei",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Akebono",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Higashihama Futō",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hakozaki Wharf",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tenoji",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Koraibashi",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Imazu Sports Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Matsuyama-chūō kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "National Wildlife Protection Area of the estuary of Tatara River",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Seiryū Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nakasu",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hondori",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Yoshizuka",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kushida Shrine Station",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Heiwa-higashi Special Green Space Conservation District",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nagahama kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Heiwa-higashi Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Noma Ōike Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nagaoka-nishi Special Green Space Conservation Districts",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kōnosuyama Nature Reserve",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Aratsu Ōhashi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Takatori",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Sohara",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Toyohama",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuhama Kaigan",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "FUKUOKA PayPay Dome",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tsumashōji",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Nakashima Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Gokusho Urban Landscape Formation District",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Jōtenji-dōri Urban Landscape Formation District",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka Zoo and Botanical Garden",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shimo-gofukumachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Naka-gofukumachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kami-gofukumachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Yoshizuka-honmachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kami-kawabatamachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shimo-kawabatamachi",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Heiwa-chūō Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ozasa-minami Kōen Nature Reserve",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hirao-ōike Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ozasa Chūō Kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kaizuka-kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Chihaya Namiki Square Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Chihaya Chūō Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Aoba-kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kashii-hama-higashi Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Dekimachi Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Doi-dōri Intersection",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Minoshima-minami Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Sumiyoshi Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Reizen Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Otowa Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Naka-hie Kōen",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hakata Promenade of History",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Mieji Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Kami-kawabata Special Green Space Conservation District",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Gokusho Special Green Space Conservation District",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Ninjin Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Hamaguchi Park",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Tenjin 2-chōme District Plan",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Momochihama Nishi Green Space",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Sumiyoshi Special Green Space Conservation District",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Rakusui-en",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Asaichō",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Arahira Yama",
+      "admin_name": "Miyazaki"
+    },
+    {
+      "city": "Aka Bana",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Naruwamachi",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Nakajima",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Fuchūmachi-nagasawa",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Mukaihibi",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Yutakamachi-mitarai",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Misumichō-misumi",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Mi Saki",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Maze",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Ōyama-matsunoki",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Mabori",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Kurohime Yama",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Kuro Bana",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Kurahashi",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Koyaishi",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Konagano",
+      "admin_name": "Miyazaki"
+    },
+    {
+      "city": "Yamadayu",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Yone Yama",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Yokata-araya",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Yamanoshitamachi",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Yatsuomachi-usujima",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Ushiga Kubi",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Takaokachō-uranomyō",
+      "admin_name": "Miyazaki"
+    },
+    {
+      "city": "Uno",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Uchiumi",
+      "admin_name": "Miyazaki"
+    },
+    {
+      "city": "Uchinomachi",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Tsuzurao-saki",
+      "admin_name": "Shiga"
+    },
+    {
+      "city": "Tsumachō",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Tojiri Bana",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Ondochō-tonoko",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Togashi",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Tōgane",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Tarōdai",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Takidan",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Takazuko Yama",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Takatsuki",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Ondochō-takasu",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Takaokachō-uchiyama",
+      "admin_name": "Miyazaki"
+    },
+    {
+      "city": "Takabe Bana",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Taima San",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Shōze",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Shiraki-mine",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Shinjōmachi",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Shimo-kōchi",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Shimokōchō",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Sadowarachō-shimotajima",
+      "admin_name": "Miyazaki"
+    },
+    {
+      "city": "Shibukawa",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Shimokamagarichō-sannose",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Saidamachi",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Ranjō",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Ōshima",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Ōsaki Hana",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Ono Hana",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Ondo",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Takayanagichō-okanomachi",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Shimokamagarichō-ōjizō",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Ōhirota",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Hiro-ōbiro",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Nota",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Niinazume",
+      "admin_name": "Miyazaki"
+    },
+    {
+      "city": "Kamishinden",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Kitamamachi",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Kitajō",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Kitadaishin",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Kizaki",
+      "admin_name": "Miyazaki"
+    },
+    {
+      "city": "Nakakido",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Kanaiwa",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Kaminunome",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Kamegai",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Takayanagichō-kadoide",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Jōshida",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Yaune Yama",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Nishiyamachō-ishiji",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Takayanagichō-ishiguro",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Ishigane",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Ioridani",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Inotani",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Hiro-honmachi",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Hiraki",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Hibi",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Heraga Saki",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Ondochō-hayase",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Hattamachi",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Hatsu Zaki",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Hasumachi",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Haraichō",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Hagiwara",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Hachihamachō-hachihama",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Sōmino Hana",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Futamatamachi",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Furukannon Yama",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Ondochō-fujinowaki",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Demachi-chūō",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Ōchō",
+      "admin_name": "Hiroshima"
+    },
+    {
+      "city": "Chausu Yama",
+      "admin_name": "Shimane"
+    },
+    {
+      "city": "Banda",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Zaō-hangō",
+      "admin_name": "Yamagata"
+    },
+    {
+      "city": "Ganto San",
+      "admin_name": "Yamagata"
+    },
+    {
+      "city": "Senohara Yama",
+      "admin_name": "Yamagata"
+    },
+    {
+      "city": "Kaisho",
+      "admin_name": "Yamagata"
+    },
+    {
+      "city": "Matsubara",
+      "admin_name": "Yamagata"
+    },
+    {
+      "city": "Ryū Zan",
+      "admin_name": "Yamagata"
+    },
+    {
+      "city": "Zaō-uwano",
+      "admin_name": "Yamagata"
+    },
+    {
+      "city": "Jizō Yama",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Miyata Yama",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Shinwari Yama",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Shintō Zan",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "De Saki",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Garyū Zan",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Gokan",
+      "admin_name": "Okayama"
+    },
+    {
+      "city": "Ushi Dake",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Kitakuzu Dake",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Karahori Yama",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Toda Mine",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Yoko Dake",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Kitanomata Dake",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Akaushi Dake",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Mitsu Dake",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Minamisawa Dake",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Kobiki Yama",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Etchūzawa Dake",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Tonbi Yama",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Washi Dake",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Ōshina Yama",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Gokurakuzaka Yama",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Hachibuse Yama",
+      "admin_name": "Toyama"
+    },
+    {
+      "city": "Hakkoku San",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Rekisen Park",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Niigatahigashi Port",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Atsuta Ward",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Nanokamachi",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Nakamura",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Naka",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Nakagawa-ku",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Nagoya Railway Station",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Mizuho-ku",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Minato-ku",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Minami-shimbomachi",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Minami Ku",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Mangōri",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Mameda-honmachi",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Kuchisanpō Dake",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Kosudo",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Yotsugōya",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Yorii Hama",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Yokogoshi-chūō",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Yayoi",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Tsukefunechō",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Tomuro Yama",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Tempaku",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Takashi",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Takasaburō Yama",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Sōmi",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Shōwa-ku",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Shimocha",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Shimamichō",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Sekiya-ōkawamae",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Sakayachō",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Okehasama",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Oiwake",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Ōgata-honchō",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Ōgasato",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Ōechō",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Ōdaka",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Nishiure",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Nishi",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Nishifunamichō",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Niigata Station",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Kita",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Keta",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Igarashi Hama",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Higashi",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Higashiboridōri",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Kameda-hayadōri",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Hamakita",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Hakusan’ura",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Dekijima",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Chikusa-ku",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Midori Ku",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Meitō Ku",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Moriyama Ku",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Kita Ku",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Naka",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Kiyotake Chō",
+      "admin_name": "Miyazaki"
+    },
+    {
+      "city": "Toyohashi Station",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Higashi Ku",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Nishi",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Kita Ku",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Higashi Ku",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Chūō Ku",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Kōnan Ku",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Akiha Ku",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Minami",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Nishi",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Nishikan Ku",
+      "admin_name": "Niigata"
+    },
+    {
+      "city": "Nagoya castle",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Kokusai Sentaa-eki",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Sōgō Rihabiri Sentaa-eki",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Nagoya Dōmu-mae-eki",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Miwa Yama",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Okuiō Zen",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Agehara Yama",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Mizuha Yama",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Mae Yama",
+      "admin_name": "Ishikawa"
+    },
+    {
+      "city": "Minami-ku",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Tenryu-ku",
+      "admin_name": "Shizuoka"
+    },
+    {
+      "city": "Haruta",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Sakae",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Nonami",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Osu",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Nōgyō Bunkaen Todagawa Ryokuchi",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Nikkōgawa Kōen",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Shinchayagawa Kōen",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Inaei Kōen",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Inaei-higashi Kōen",
+      "admin_name": "Aichi"
+    },
+    {
+      "city": "Shiodome City Center",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Tokyo Opera City Tower",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Aioi-mura",
+      "admin_name": ""
+    },
+    {
+      "city": "Chikabumi-eki",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Kaguraoka-eki",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Chiyogaoka-eki",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Nishi-kagura",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Mount Asahi-yama",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Yōmei-zan",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Shin-asahigawa",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Yojodori",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Asahikawa Air Field",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Kaguraoka",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Midorigaoka",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Kaguraoka 1-jo",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Kagura",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Ichijodori",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Fukuoka City Hakata Elementary School",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka City Tounin Elementary School",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka City Matsushima Hall",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka City Hirao Elementary School",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka City Seibu Sewage Treatment Center",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka-shi Sawara Library",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka City Momochi Elementary School",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka City Momochi Junior High School",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka City Public Library",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Minamitōjin Elementary School",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka City Ōhama Public Hall",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka City Sawara Swimming Pool",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka City Transportation Bureau",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka City Citizen Welfare Plaza",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka City Katakasu Elementary School",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Fukuoka City Science Museum",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Asahikawa Station",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Shinasahikawa-eki",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Shinmisato-LaLa-City",
+      "admin_name": "Saitama"
+    },
+    {
+      "city": "Asahiyama Zoo",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Wakkanai Kō",
+      "admin_name": "Hokkaido"
+    },
+    {
+      "city": "Kawasaki City High School for Science and Technology",
+      "admin_name": "Kanagawa"
+    },
+    {
+      "city": "Ko-tōmi-yama",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Senzai",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Jozō-zaki",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Takio Eki",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Oita station",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Funai Castle",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Tsurusaki-eki",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Ōzai-eki",
+      "admin_name": "Oita"
+    },
+    {
+      "city": "Yunibaasaru Shiti-eki",
+      "admin_name": "Osaka"
+    },
+    {
+      "city": "Fukuoka City Kusagae Pumping Station",
+      "admin_name": "Fukuoka"
+    },
+    {
+      "city": "Shinonome",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Fukagawa-Susakibentenchō",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Shirakawa",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Saga",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Fukagawa-Kazakichō",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Botan",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Tōyōchō Eki",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Kiba Eki",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Shinonome Eki",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Telecom Center Eki",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Kokusai Tenjijō Seimon Eki",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Toyosu Eki",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Tōkyō Terepooto-eki",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Etchūjima Eki",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Shinsuna",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Shiomi",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Shiomi Eki",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Tatsumi Eki",
+      "admin_name": "Tokyo"
+    },
+    {
+      "city": "Kawazoemachi-inuidō",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kawasoemachi-kanoe",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kawasoemachi-kogomori",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kawasoemachi-nishikoga",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Higashiyokachō-isagai",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Nishiyokamachi-takatarō",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Nishiyokamachi-sōōtsu",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kasemachi-jūgo",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kasemachi-nakabaru",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Honjōmachi-honjō",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Honjōmachi-suetsugu",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kasemachi-ogino",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kubotachō-kubota",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kubotachō-shinden",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kutobachō-hisadomi",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kubotachō-edo",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Nabeshimamachi-morita",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Nabeshima",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Nabeshimamachi-kakihisa",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Takakise-nishi",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Tafuse",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Yamatochō-higashiyamada",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Yamatochō-ikenoue",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Yamatochō-kuruma",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Yamatochō-kawakami",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Fujichō-shimokumakawa",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Fujichō-kamikumakawa",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Fujichō-osoegawa",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Fujichō-uchino",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Yamatochō-matsuse",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kawasoemachi-nanri",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Morodomichō-tameshige",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Morodomichō-tokudomi",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Morodomichō-ōdō",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Hasuikemachi-hasuike",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Morodomichō-yamaryō",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kitakawasoemachi-egami",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kihara",
+      "admin_name": "Saga"
+    },
+    {
+      "city": "Kosemachi-takao",
+      "admin_name": "Saga"
+    }
+  ]
+}

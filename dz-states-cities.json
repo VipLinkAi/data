@@ -1,0 +1,30 @@
+{
+  "ACRONYM_DZ": [
+    {
+      "acronym": "N/A",
+      "display": "N/A"
+    }
+  ],
+  "CITIES_DZ": [
+    {
+      "city": "Batna City",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "BABOR - VILLE",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Village Nègre",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Kchida",
+      "admin_name": "N/A"
+    },
+    {
+      "city": "Haï Chîkhi Abd el Kader",
+      "admin_name": "N/A"
+    }
+  ]
+}
